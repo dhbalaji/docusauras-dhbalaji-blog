@@ -124,9 +124,9 @@ const config = {
       },
     ],
     [
-      '@docusaurus/plugin-google-analytics',
+      '@docusaurus/plugin-google-gtag',
       {
-        trackingID: 'G-VGQ399LJC8'
+        trackingID: 'G-999X9XX9XX'
       },
     ],
   ],
