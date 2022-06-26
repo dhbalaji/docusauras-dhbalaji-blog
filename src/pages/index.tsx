@@ -11,7 +11,7 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={"Minimalist Frontend Hand Book (MFHB)"}
+      title={"Frontend Revision Book (FRB)"}
       description="Description will go into a meta tag in <head />"
     >
       <main>
