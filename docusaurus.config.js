@@ -9,7 +9,7 @@ const config = {
   title: 'dhbalaji software',
   tagline: 'Sponsored by dhbalaji.dev',
   url: 'https://dhbalaji.github.io',
-  baseUrl: '/',
+  baseUrl: '/minimalist-frontend-handbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
