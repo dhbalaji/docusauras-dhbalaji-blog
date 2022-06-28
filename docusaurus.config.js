@@ -1,54 +1,46 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'dhbalaji software',
-  tagline: 'Sponsored by dhbalaji.dev',
-  url: 'https://dhbalaji.github.io',
-  baseUrl: '/frontend-revision-handbook/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  title: "dhbalaji software",
+  tagline: "Sponsored by dhbalaji.dev",
+  url: "https://dhbalaji.github.io",
+  baseUrl: "/frontend-revision-handbook/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'dhbalaji', // Usually your GitHub org/user name.
-  projectName: 'frontend-revision-handbook', // Usually your repo name.
+  organizationName: "dhbalaji", // Usually your GitHub org/user name.
+  projectName: "frontend-revision-handbook", // Usually your repo name.
   trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          sidebarPath: require.resolve("./sidebars.js")
         },
         blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          showReadingTime: true
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -58,15 +50,28 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'MFHB',
-        logo: {
-          alt: 'Minimalist Frontend Hand Book',
-          src: 'img/logo.svg',
-        },
+        title: "dhbalaji.dev",
         items: [
+          {
+            type: "doc",
+            docId: "intro",
+            position: "left",
+            label: "notes",
+          },
+          {
+            to: "/blog",
+            label: "blog",
+            position: "left",
+          },
+          {
+            href: "https://github.com/dhbalaji",
+            label: "GitHub",
+            position: "right",
+          },
         ],
       },
       footer: {
+        style: "dark",
         links: [],
         copyright: `Copyright © ${new Date().getFullYear()} dhbalaji.dev`,
       },
