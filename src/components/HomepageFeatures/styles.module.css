@@ -13,3 +13,7 @@
   display: block;
   text-align: center;
 }
+
+h1 {
+  min-height: 150px;
+}

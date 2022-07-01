@@ -5,11 +5,17 @@ export default function HomepageFeatures(): JSX.Element {
     <section className={styles.features}>
       <div className="container">
         <div className={styles.row}>
-          <h1>Frontend Revision Book (FRB)</h1>
-          <h2>under development...</h2>
-          <h3>
-            <a href="tools-tech/2022">Tech for application developers</a>
-          </h3>
+          <h1 className={styles.h1}>dhbalaji.dev website under construction</h1>
+          <p>
+            Meanwhile visit
+            <ol>
+              <li>
+                <a href="tools-tech/2022">
+                  Minimal Tech for building real applications in 2022
+                </a>
+              </li>
+            </ol>
+          </p>
         </div>
       </div>
     </section>
