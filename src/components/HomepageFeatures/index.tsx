@@ -7,9 +7,10 @@ export default function HomepageFeatures(): JSX.Element {
         <div className={styles.row}>
           <h1 className={styles.h1}>dhbalaji.dev website under construction</h1>
           <p>
-            Meanwhile visit
+            You may find some stock content, lipsum etc. Meanwhile visit the
+            below links only.
             <ol>
-              <li>
+              <li className={styles.li}>
                 <a href="tools-tech/2022">
                   Minimal Tech for building real applications in 2022
                 </a>
