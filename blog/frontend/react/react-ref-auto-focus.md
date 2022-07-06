@@ -2,9 +2,8 @@
 slug: /2022/06/24/frontend/How-to-prevent-focus-scroll-in-react-ref/
 title: How to prevent focus scroll in react ref?
 date: 2022-06-24 22:03:10
-authors:
-  name: dhbalaji
-tags: [frontend]
+authors: [dhbalaji]
+tags: [frontend, reactjs, react, focus, browser]
 ---
 
 ![react logo](./react-ref.jpg)
