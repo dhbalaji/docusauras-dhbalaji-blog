@@ -117,7 +117,7 @@ For learning purposes,
 5. For debugging, you have [Tag assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk). Its a free chrome extension offered by Google to work with global site tag code.
 
 
-![gtag.js on dhbalaji.dev blog](./assets/gtagJS-on-dhbalaji.dev.png)
+![gtag.js on dhbalaji.dev blog](./assets/gtagJS-on-dhbalaji.dev.webp)
 
 ## 9. Show me something advanced that you can do with google analytics
 

@@ -6,7 +6,7 @@ date: 2022-04-04 12:57:25
 authors: [dhbalaji]
 ---
 
-![remix run docs](./assets/remix-run.png)
+![remix run docs](./assets/remix-run.webp)
 
 Came across [remix.run](https://remix.run) which is a fullstack typescript based framework. Decided to give it a try. Here is how the day 1 of remix went by. Spoiler alert: It was bumpy.
 

@@ -50,7 +50,7 @@ Let us start with the web version of the lighthouse which does not involve any c
 I performed an audit on the mobile platform and the report is as follows.
 
  
- ![Dhbalaji lighthouse report on mobile](./assets/initial_lighthouse_screenshot_dhbalaji.jpg)
+ ![Dhbalaji lighthouse report on mobile](./assets/initial_lighthouse_screenshot_dhbalaji.webp)
 
  
  <a href="/downloads/dhbalajidevmobileInitReport.json" download="initialReport.json">Download the JSON report</a>

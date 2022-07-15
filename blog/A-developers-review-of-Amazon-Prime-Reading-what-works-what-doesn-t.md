@@ -28,19 +28,19 @@ On the [Home screen of Prime reading](https://www.amazon.in/b/ref=sxts_snpl_2_2_
 
 The featured books were mostly self-help or fiction books like [Vikram & Betaal](https://www.amazon.in/Vikram-Betaal-Illustrated-Maple-Press-ebook/dp/B01JS7JLBY/ref=lp_13678423031_1_6?s=digital-text&ie=UTF8&qid=1603731950&sr=1-6). I decided to explore the favorite genre, the computers bookshelf/link which was under non-fiction.
 
-![Amazon prime reading genres](./assets/prime-reading-select-genre.jpg)
+![Amazon prime reading genres](./assets/prime-reading-select-genre.webp)
 
 ### Step 3: Pick your book & read for free!!
 
 The genres on prime-reading might be disappointing but there are few good books out there. Stay curious. I searched in the non-fiction genre and here is what I found.
 
 
-![impressive free non-fiction books on amazon prime](./assets/impressive-free-non-fiction-books.jpg)
+![impressive free non-fiction books on amazon prime](./assets/impressive-free-non-fiction-books.webp)
 
 My happiness knew no bounds when I found a book that I wanted to read for a few years. The author "John Sonmez" is famous on the internet with his blog [Simple Programmer](https://simpleprogrammer.com/). His other book [Soft skills the software developer's life manual](https://www.manning.com/books/soft-skills) sits proudly on my bookshelf. It is also my go-to book during stress because it's a life manual for developers. I don't think this blog would have come out if I had not read that book.
 
 
-![Somnez book on amazon prime](./assets/sonmez-book.jpg)
+![Somnez book on amazon prime](./assets/sonmez-book.webp)
 
 The above book in paperback format costs upside of 3000 rupees, now you get it for free. Follow the next step.
 
@@ -51,7 +51,7 @@ This is the last step and you should be good to read on your kindle. Just make s
 If you have not borrowed, you will notice a button `Read for Free`. If you have already borrowed, then you will notice a button `Read Now`. 
 
 
-![Somnez book read now amazon prime](./assets/prime-read-for-free.jpg)
+![Somnez book read now amazon prime](./assets/prime-read-for-free.webp)
 
 ### Start reading on kindle
 
@@ -60,17 +60,17 @@ There is nothing that you need to do on kindle, just power on your kindle and yo
 1. Kindle Starts
 
 
-![kindle starts](./assets/powering-on-kindle.jpg)
+![kindle starts](./assets/powering-on-kindle.webp)
 
 2. Upon wifi connection, the book has synced in Library > Downloaded books
 
 
-![book has synced ](./assets/book-has-synced.jpg)
+![book has synced ](./assets/book-has-synced.webp)
 
 3. The book information is shown which is the default behavior for any book
 
 
-![book info](./assets/book-info.jpg)
+![book info](./assets/book-info.webp)
 
 4. Meanwhile, on the Kindle apps, I can see a badge on the thumbnail titled `Prime Reading`. Inside I can notice the return book. You can borrow up to 10 books at a time.
 

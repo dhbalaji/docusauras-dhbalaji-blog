@@ -7,7 +7,7 @@ tags:
 authors: [dhbalaji]
 ---
 
-![JS bundles client-side rendering](./assets/client-side-rendered.jpg)
+![JS bundles client-side rendering](./assets/client-side-rendered.webp)
 
 Let's understand the word rendering. Rendering in front-end engineering means, you are generating an HTML view for the user. There are different approaches to render a view. Client-side rendering, server-side rendering are 2 of them
 

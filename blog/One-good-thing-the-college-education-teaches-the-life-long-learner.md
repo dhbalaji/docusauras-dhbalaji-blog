@@ -50,5 +50,5 @@ Basics of Java - 2 credits where 1 credit equals a minimum of 30 hours of study.
  Give react 2 credits. Slow down and absorb as much as you can from the documentation. Then life would be less stressful. Fill up the hours with `books, videos, and practice hours`. 
 
 
-![College education and reading books](./assets/girl-studying.jpg)
+![College education and reading books](./assets/girl-studying.webp)
 

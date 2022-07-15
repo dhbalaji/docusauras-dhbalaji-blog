@@ -6,7 +6,7 @@ date: 2022-04-12 08:29:21
 authors: [dhbalaji]
 ---
 
-![Some alt text](./assets/reference-check.jpg)
+![Some alt text](./assets/reference-check.webp)
 
 Some tech firms ask for references but hardly check/give them a call. In others, the recruitment team is asssigned the task of checking the candidate performance and other details, there are 2 parts of the reference check discussion. We can call it **Validation** and **Verification**. Here are the 5 questions that can be used for reference check discussions.
 
