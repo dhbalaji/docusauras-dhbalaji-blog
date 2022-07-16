@@ -14,7 +14,7 @@ Back in 2015, I was reading the book **Remote, office not required by Basecamp**
  
 ## Checklist of WFH setup
 
-[Download 2021 Work From Home (WFH) Checklist](/downloads/wfh-checklist-2021.pdf)
+[Download 2021 Work From Home (WFH) Checklist](./downloads/wfh-checklist-2021.pdf)
 
 ### Room
 
@@ -52,7 +52,7 @@ Back in 2015, I was reading the book **Remote, office not required by Basecamp**
 - [ ] Meetings to be given undivided attention
 - [ ] Keep note-taking pad ready during meetings
 
-[Download 2021 WFH Checklist](/downloads/wfh-checklist-2021.pdf)
+[Download 2021 WFH Checklist](./downloads/wfh-checklist-2021.pdf)
 
 ## Am I fully compliant with the checklist?
 
