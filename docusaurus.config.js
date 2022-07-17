@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "dhbalaji software",
+  title: "dhbalaji, the frontend consultant",
   tagline: "Sponsored by dhbalaji.dev",
   url: "https://dhbalaji.dev",
   baseUrl: "/",
@@ -34,10 +34,18 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'docs',
           sidebarPath: require.resolve("./sidebars.js")
         },
         blog: {
-          showReadingTime: true
+          path: 'blog',
+          postsPerPage: 8,
+          showReadingTime: true,
+          blogSidebarCount: 8,
+          feedOptions: {
+            type: "rss",
+            title: "dhbalaji.dev feed"
+          }
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -53,19 +61,28 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+      },
       navbar: {
+        hideOnScroll: true,
         title: "dhbalaji.dev",
         items: [
           {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "notes",
+            label: "FE-Bok",
           },
           {
             to: "/blog",
-            label: "blog",
-            position: "left",
+            label: "Blog",
+            position: "right",
+          },
+          {
+            to: "/3LI",
+            label: "FE-Updates",
+            position: "left"
           },
           {
             href: "https://github.com/dhbalaji",
@@ -84,6 +101,26 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'second-blog',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: '3LI',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './3LI',
+      },
+    ],
+  ],
 };
 
 module.exports = config;
