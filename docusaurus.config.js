@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "dhbalaji software",
   tagline: "Sponsored by dhbalaji.dev",
-  url: "https://dhbalaji.github.io",
+  url: "https://dhbalaji.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -41,6 +41,10 @@ const config = {
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
+        },
+        googleAnalytics: {
+          trackingID: 'G-SVE5EZKFD4',
+          anonymizeIP: true,
         },
       }),
     ],
