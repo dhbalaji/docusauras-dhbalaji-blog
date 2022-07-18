@@ -80,7 +80,7 @@ const config = {
             position: "right",
           },
           {
-            to: "/3LI",
+            to: "/blog-lite",
             label: "FE-Updates",
             position: "left"
           },
@@ -113,11 +113,11 @@ const config = {
          * URL route for the blog section of your site.
          * *DO NOT* include a trailing slash.
          */
-        routeBasePath: '3LI',
+        routeBasePath: 'blog-lite',
         /**
          * Path to data on filesystem relative to site dir.
          */
-        path: './3LI',
+        path: './blog-lite',
       },
     ],
   ],
