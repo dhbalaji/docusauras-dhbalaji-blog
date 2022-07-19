@@ -11,7 +11,7 @@ authors: [dhbalaji]
 
 Dependabot is a bot or assistant that can help with security updates of your dependencies. Phew, that's cool right. A bot taking care of your application security threats. Here are more details about the dependabot.
 
- 
+<!-- truncate -->
  
 ## What is the link between GitHub and dependabot?
 

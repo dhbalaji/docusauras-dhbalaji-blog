@@ -10,6 +10,7 @@ authors: [dhbalaji]
 
 Let us say your product is planning to introduce an experimental feature. Your customer may or may not like the feature. In this case, you may have to turn off the feature for some users & turn it on for the rest. This is called A/B testing. But how to build components to conditional render the content. We can build `feature-switch` components.
 
+<!-- truncate -->
  
 ## What is a Feature switch?
 

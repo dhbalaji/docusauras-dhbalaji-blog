@@ -5,12 +5,11 @@ tags:
 - essays
 authors: [dhbalaji]
 ---
-
-
 ![College education teaches](./assets/Collegeeducationteaches.webp)
 
 Having spent a couple of years at graduation school aka college~~~~, we have learned a few good lessons which are applicable in real life too. Here I summarize 3 of those tips along with one lifesaver tip.
 
+<!-- truncate -->
 
 ## 1. Discipline holds the key to progress
 

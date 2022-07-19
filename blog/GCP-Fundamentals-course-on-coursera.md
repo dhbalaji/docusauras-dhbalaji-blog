@@ -10,7 +10,8 @@ authors: [dhbalaji]
 
  The journey of a million miles starts with a single step similarly, the journey to cloud computing for a developer starts with the course on [Google cloud platform fundamentals](https://www.coursera.org/learn/gcp-fundamentals). Here is a quick recap of the good parts and the learning from the course.
 
- 
+<!-- truncate  -->
+
 ## Wait you read books to learn things but why online course?
 
 The times have changed. Earlier we used to get technical books from the real physical library, then came digital library, and now it's online courses. For cloud concepts, I would recommend online courses but if you are learning concepts like terminal commands or JAVA basics then a book would do. Cloud UI keeps changing and I noticed minor updates to the UI from the time the online course was recorded. Updating a course is easier than updating a paperback book.

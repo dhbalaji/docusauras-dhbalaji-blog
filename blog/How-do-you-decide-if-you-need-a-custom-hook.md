@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Hundreds of React tutorials and videos directly start with a custom hook. Here is my experience, where I had to write a custom react hook for the first time. Sharing the rationale and logic behind the first custom react hook.
 
- 
+<!-- truncate -->
  
  ## Is custom hook similar to JS functions? 
 

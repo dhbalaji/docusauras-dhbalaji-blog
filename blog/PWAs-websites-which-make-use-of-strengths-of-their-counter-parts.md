@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 This is the first post in the PWA series. I won't bore you with theory but I want to tell you a story from the desktop days. This is a short story of a popular app that runs outside the web/browser.
 
- 
+<!-- truncate -->
  
 ## Story of MS PowerPoint?
 

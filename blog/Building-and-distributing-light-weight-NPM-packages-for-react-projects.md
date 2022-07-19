@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 If your NPM package is composed of self Javascript code, then code rewrite or optimization is the way to go. If your npm package is composed of other JS libs which would also be a dependency of the host application, then we have some good news. Have you thought of using peer dependencies?
 
-
+<!-- truncate -->
  
 ## Got a package on your mind, want to know its weight?
 

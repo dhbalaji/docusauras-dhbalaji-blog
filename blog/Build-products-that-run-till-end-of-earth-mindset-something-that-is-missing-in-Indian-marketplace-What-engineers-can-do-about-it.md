@@ -12,7 +12,7 @@ authors: [dhbalaji]
 
 At least 3 out of 5 electronic goods do not work at peak performance for 5 years without a repair. Many open-source repositories go unmaintained after a few months of activity. What if every engineer takes an oath to develop products that run till the end of the earth without a major outage? What system design decisions and quality benchmarks would be needed to achieve a long shelf life of the hardware, software, services, or firmware product? Let's discuss it.
 
-
+<!-- truncate -->
 
 ## The declining quality in the Indian marketplace
 

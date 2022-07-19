@@ -6,10 +6,12 @@ tags:
 authors: [dhbalaji]
 ---
 
-
- ![ls command](./assets/ls-command.webp)
+![ls command](./assets/ls-command.webp)
  
  I use windows 10 on a day to day basis. My colleagues and friends use windows too. The problem starts when the GUI disappears and we just have `SSH` access to the production boxes. On a production machine, running one wrong Unix/Linux command could risk your job. Here I am compiling the must know Unix/Linux commands keeping in mind the deployment and operations related tasks. 
+
+<!-- truncate  -->
+
  
 
 ## 1. What is the terminal about

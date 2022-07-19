@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 There are a plethora of topics about what a senior frontend developer should know. The developer gets judged by the complexity of the nature of the project he has worked on. Here are the topics that I would expect a senior frontend developer to know.
 
-
+<!-- truncate -->
  
  
 ## Why topics for senior frontend developer?

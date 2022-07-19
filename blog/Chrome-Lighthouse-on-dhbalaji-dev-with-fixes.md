@@ -43,6 +43,8 @@ authors: [dhbalaji]
 
 **Programming language** - NodeJS & GUI in the browser
 
+<!-- truncate -->
+
 ## Performing light house audit
 
 Let us start with the web version of the lighthouse which does not involve any coding. Just open dev tools on chrome and goto the audits tab. Tick the metrics and the platform you are interested in conducting an audit. Once selected, perform an audit.

@@ -10,6 +10,7 @@ authors: [dhbalaji]
 
 I love online courses, it resembles the computer lab at college. The recent operations issues at work demanded me to get educated to combat the sudden hiccups. Here we go, the summary of the online course by a fellow Indian.
 
+<!-- truncate -->
 
 ## What was the motivator to take up this course?
 

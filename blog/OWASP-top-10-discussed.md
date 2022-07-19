@@ -10,6 +10,8 @@ authors: [dhbalaji]
 
 Here in this blog post I discuss the Top 9 & 10 of the common security vulnerabilities in a Q&A format.
 
+<!-- truncate  -->
+
  
 # 9. Using Components with Known Vulnerabilities
 

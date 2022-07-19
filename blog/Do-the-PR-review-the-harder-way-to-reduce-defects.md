@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 __How do you ensure that the software you develop has fewer defects?_ is my favorite interview question that I ask candidates. PR review is my preferred way to reduce defects for a developer in a team. How do you perform PR review when you have a lot of work to do yourself. Follow a checklist.
 
- 
+<!-- truncate -->
  
 > Approach the PR review with the checklist instead of rubber-stamping or filling it with comments which pull down team morale.
 

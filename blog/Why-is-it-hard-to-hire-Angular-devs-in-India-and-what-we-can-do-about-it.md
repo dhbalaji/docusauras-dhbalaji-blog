@@ -11,7 +11,7 @@ authors: [dhbalaji]
 
 The frontend tech hiring process is not new to me but I still struggle to find the right angular developer. If the technology is a simple one like bootstrap, JQuery then the process is simple. But the Angular being a framework, it been a different game to be a part of the tech hiring panel
 
- 
+<!-- truncate -->
 
 ## The difference between React and Angular hiring
 

@@ -10,8 +10,8 @@ authors: [dhbalaji]
 
 You cannot be a professional developer without an encounter with Unix/Linux systems. Linux is the preferred operating system of choice for cloud machines. `SSH` is a magical technology to control the cloud machine without making a trip to the data center. All said but how to install and manage software on the Linux operating systems? The answer is **Package Managers**.
 
- 
- 
+<!-- truncate -->
+
 ## Why are you comparing npm and APT?
 
 I am comparing `npm` with `apt` because both implement the same interface called `Package Managers`. Might have sounded more Javaish but the point is that both npm and apt are package managers.

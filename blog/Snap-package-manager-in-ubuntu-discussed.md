@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Ubuntu software center, Apt, and multiple others ways to install the software in Ubuntu but what is this snap. Looks like it's the new cool. Let's find out more about snap.
 
- 
+<!-- truncate -->
 
 I want to keep this article short because Wikipedia has discussed at length about snap.
 

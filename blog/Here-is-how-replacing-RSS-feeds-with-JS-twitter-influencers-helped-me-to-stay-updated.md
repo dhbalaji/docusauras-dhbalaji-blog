@@ -12,7 +12,7 @@ authors: [dhbalaji]
 
 Staying up to date with relevant updates from the frontend community is an art rather than a science. I am a big fan of the Feedly app which is an awesome RSS feed reader. My blog updates can be subscribed to on Feedly for updates. Analyzing the data points, I am in favor of Twitter over subscribing to blogs for keeping you updated on the tools, libraries, processes, and APIs in the frontend.
 
- 
+<!-- truncate -->
  
 ## What is a RSS feed?
 

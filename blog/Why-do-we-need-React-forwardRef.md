@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 The best thing about React props is the ability to send different data structures from parent to child without any code configuration like `@input` etc. But why do we need an extra construct `React.forwardRef` for passing ref? let us find out.
 
-
+<!-- truncate -->
  
 ## Where is `React.forwardRef` used?
 

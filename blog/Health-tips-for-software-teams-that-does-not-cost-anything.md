@@ -9,6 +9,7 @@ authors: [dhbalaji]
 ![health of software teams](./assets/health-software-teams.webp)
 
 It's very rare to see software without issues and development teams with fit & healthy individuals. Rampant operations issues, longer meetings can take a toll on software teams and their health. Here are 6 actionable tips which you can follow to keep up your software team's health.
+<!-- truncate -->
 
  
 ## Another fitness post on the internet?

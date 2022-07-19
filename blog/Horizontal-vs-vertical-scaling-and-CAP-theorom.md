@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Scaling software is managers pride and engineers headache, Just kidding. Scaling software is a discipline in performance engineering where the software is unable to work normally due to resource constraints arising due to high workload. Let's discuss scaling techniques in detail.
 
- 
+<!-- truncate -->
  
 ## Which is better, building scaled software or building software that can scale?
 

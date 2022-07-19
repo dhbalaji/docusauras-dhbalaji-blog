@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 The office bees were asked to work from home in March 2020. It means with no prior experience employees are expected to do something as part of a team. Here are 3 things which you should do as part of WFH etiquette.
 
-
+<!-- truncate -->
  
 ## 1. It's about how others hear you
 

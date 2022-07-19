@@ -10,6 +10,8 @@ authors: [dhbalaji]
 
 I had previously written about how the employees working in major Indian IT companies became [accidental remote workers](https://dhbalaji.dev/2020/12/01/work/How-to-refine-your-WFH-etiquette/). Adding to the puzzle was the 20000 to 50000 INR work from home allowance given by employers to set up or upgrade work from home infrastructure. Let's understand the what, how, why about the WFH allowance.
 
+<!-- truncate -->
+
  
 ## What is the difference between WFH and remote working?
 

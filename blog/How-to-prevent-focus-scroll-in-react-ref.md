@@ -14,7 +14,7 @@ Have to tried to set focus on an element in react? I have done it multiple times
 
 Here is the explanation of how to do this.
 
- 
+<!-- truncate -->
  
 ## What is the default focus behavior after set `focus`?
 

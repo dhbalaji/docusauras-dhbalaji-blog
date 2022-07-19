@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 To implement a data structure in Javascript, we used Array or Object but things are set to change. We have 4 new entrants with ES6 or ECMAScript Harmony. They are Map, WeakMap, Set, and WeakSet. Let us look at each one of them in detail.
 
- 
+<!-- truncate -->
  
 ## Native data structures in JS
 

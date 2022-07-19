@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Came across [remix.run](https://remix.run) which is a fullstack typescript based framework. Decided to give it a try. Here is how the day 1 of remix went by. Spoiler alert: It was bumpy.
 
- 
+<!-- truncate -->
  
 ## What are the cool things about [remix.run](https://remix.run)?
 

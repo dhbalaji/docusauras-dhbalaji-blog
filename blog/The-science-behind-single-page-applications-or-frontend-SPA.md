@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Single-page applications are the opposite of multi-page applications. Is that not explanatory enough? Let us dig deeper.
 
- 
+<!-- truncate -->
  
 ## What is a Single Page Application (SPA)
 

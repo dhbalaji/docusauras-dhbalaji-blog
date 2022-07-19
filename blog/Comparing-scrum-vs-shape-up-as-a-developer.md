@@ -10,8 +10,8 @@ authors: [dhbalaji]
 
 On my first dev job around a decade ago, I worked as an agile team member. Ever since every project I worked on used some variant of scrum framework like agile, broken agile, pseudo agile, etc. There is a new kid in the block called [shape up](https://basecamp.com/shapeup) which also talks about executing projects with a team. Here are some differences and similarities between scrum and shape-up.
 
- 
- 
+<!-- truncate -->
+
 ## What about the 4 main events in a sprint?
 
 Before we talk about the 4 main events in a sprint, I want to emphasize that there is no concept of a sprint in shape-up. Instead, you pick up a chunk of work, hammer down the scope so that you can finish the frontend, backend within a fixed time of `6 weeks`.

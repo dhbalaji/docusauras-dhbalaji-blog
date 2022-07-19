@@ -10,6 +10,7 @@ authors: [dhbalaji]
 
 As a developer, the most confusing part of GCP are the storage options. In this blog post, I explain the data storage options with some classification that makes sense for developers.
 
+<!-- truncate -->
  
 ## Why do you think data storage has so many options?
 

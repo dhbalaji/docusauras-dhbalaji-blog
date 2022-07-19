@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 As a senior developer or an architect, one of the job demands would be to update the `npm-packages` of your application. Ironically there is no one single command which would start the update and end the update with all finesse and grace the application would need. here are a few lessons from my job on updating npm packages.
 
- 
+<!-- truncate -->
  
 ## What are `npm-packages`?
 

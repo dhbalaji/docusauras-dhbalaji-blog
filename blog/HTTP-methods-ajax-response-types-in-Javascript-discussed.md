@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 GET and POST are the two commonly used HTTP methods. The REST API calls can return a variety of response data types like text, array buffer, blob, document, and JSON. Let us discuss the lesser-known response datatypes in this article.
 
- 
+<!-- truncate -->
  
 ## Creating an Ajax call in Javascript
 

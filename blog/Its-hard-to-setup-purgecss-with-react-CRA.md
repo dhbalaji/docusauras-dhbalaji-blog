@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Ask any frontend veteran, `CSS` is the hardest thing to refactor. Having said that, unused CSS easily gets shipped to production despite modern build. One of the CSS pruning libraries is `purgeCSS`. Let's see how purgeCSS works with react CRA.
 
-
+<!-- truncate -->
  
 ## What is Unused CSS?
 

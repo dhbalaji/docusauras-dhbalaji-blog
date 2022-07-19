@@ -11,6 +11,7 @@ authors: [dhbalaji]
 
 As a passionate reader, I find myself describing the book in brief passionately to my friends. I went on to give multiple book talks in the library. In this post, I put a checklist on the steps to prepare and deliver wonderful book talks at library/community events or on Youtube.
 
+<!-- truncate  -->
  
 ## What is a book-talk
 
