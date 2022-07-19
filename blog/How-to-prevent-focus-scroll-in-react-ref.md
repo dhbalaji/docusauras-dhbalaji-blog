@@ -10,6 +10,8 @@ authors: [dhbalaji]
 
 Have to tried to set focus on an element in react? I have done it multiple times for accessibility reasons. I have uncovered an edge case in setting focus and the page would scroll to the element where the focus was set. 
 
+<!--truncate-->
+
 Here is the explanation of how to do this.
 
 <!-- truncate -->
