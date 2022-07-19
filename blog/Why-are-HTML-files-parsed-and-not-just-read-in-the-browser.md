@@ -8,11 +8,10 @@ authors: [dhbalaji]
 
 ![Some alt text](./assets/white-board-discussion.webp)
 
-
 Why are HTML files parsed and not just read in the browser? What is the order of operation inside a browser? Let us answer the front-end lead-level interview questions.
 
- 
- 
+<!--truncate -->
+
 ## Why are HTML files parsed and not just read in the browser?
 
 "Reading a file" in software engineering means you are loading the contents of the file into the memory or buffer. No meaningful operation is performed on the reading of a file. 

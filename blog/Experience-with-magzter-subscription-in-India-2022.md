@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Ever since covid started, the information stimuli is restricted to a few topics. Meeting friends or colleagues and discussing the happenings is a habit on the brink of extinction. Internet is good at recommending information but rarely a great tool for discovering something of interest or value. So I turned to a magazine subscription on **Magzter**. Here is my experience.
 
- 
+<!-- truncate -->
  
 ## Why online magazine subscription with Magzter?
 

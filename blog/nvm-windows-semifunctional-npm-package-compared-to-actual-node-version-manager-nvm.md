@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Globalization is essentially trying to emulate what worked in country A in another country. Similarly, nvm-windows is an attempt to bring the goodness of the popular node version manager (nvm) to the windows operating system. Let us find out what nvm-windows attempts to solve and how it works.
 
- 
+<!-- truncate -->
  
 ## Why node version manager?
 

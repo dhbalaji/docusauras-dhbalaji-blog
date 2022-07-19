@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 One of the performance optimization techniques is to serve data from the cache and lookup for the network if the cache fails. It's called cache first then network strategy. Life moves fast and if the API has to get updated information, it's impossible because we are reading the cache always. Is there a way to bypass cache in this setup? Yes, it's cache-control headers.
 
-
+<!-- truncate -->
  
 ## What is cache in programming & a little bit about related jargon
 

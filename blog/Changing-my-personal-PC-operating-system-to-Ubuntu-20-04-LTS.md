@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 The above picture is not my desk. It could be my future desk. Let's get back to reality. Bad things do happen like PC Operating systems getting cluttered, developing lags, and finally frequent blue screen of death on windows pro on my laptop. It was not an easy decision to move to ubuntu but there is no other way out. Here is why
 
- 
+<!-- truncate -->
  
 ## Tell us a little bit about your PC and Ubuntu connection?
 

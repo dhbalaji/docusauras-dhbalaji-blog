@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 When I walk into an interview or conduct a tech interview, the question that often comes up would be "Why React instead of Angular or Vue?". Questions like that would be damn simple to answer if you had solid learning outside of library syntax and semantics. I get it. When we decide to do a hello world, we are carried away by semantics, syntax and where is the output mindset. Here are my 5 questions that I would recommend you ask yourself while you learn a programming language or library.
 
- 
+<!-- truncate -->
  
 ## 5 Questions to solidify your knowledge about programming language
 

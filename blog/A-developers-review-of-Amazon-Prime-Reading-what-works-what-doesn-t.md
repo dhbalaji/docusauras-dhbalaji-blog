@@ -15,6 +15,8 @@ Hey there, if you have read Russell Conwell's book [Acres of diamonds](https://w
 
 Amazon prime reading somehow did not fascinate me in the beginning because my kindle was not registered on an Indian address. It was tagged to Amazon USA, so most titles were not accessible even though I was an amazon prime user in India. Since I was not buying any content on Amazon USA, I decided to move my kindle to Amazon India. Looks like a hustle right. Yes, it is. According to Amazon, I moved my kindle from the USA to India. Right now my kindle is perfectly registered on amazon.in. Voila, the prime reading fun begins now.
 
+<!-- truncate  -->
+
 
 ## Here is how you can make use of amazon prime reading
 

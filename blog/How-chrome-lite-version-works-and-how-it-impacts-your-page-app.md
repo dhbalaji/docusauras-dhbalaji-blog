@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Mobile data is expensive. The browsers need to think about their customer's mobile data before serving the full website which on average weighs 3MB. In chrome we have a setting called data saver, let us dig deeper into it.
 
-
+<!-- truncate -->
  
 ## What is the objective of the data saver?
 

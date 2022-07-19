@@ -9,6 +9,8 @@ authors: [dhbalaji]
 ![Chrome browser mobile](./assets/chrome-browser-mobile.webp)
 
 "Which browsers do you support" is a lame question when it comes to frontend development. We have techniques like progressive enhancement & graceful degradation which ensures that the application behaves consistently on different browsers. The browser game has changed, Chrome browser has around 70% share in the browser market by users. Should we still support all the browsers?
+<!-- truncate  -->
+
 
 
 ## Legacy Development Practices

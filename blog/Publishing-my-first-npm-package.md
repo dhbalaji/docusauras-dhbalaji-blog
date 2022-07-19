@@ -11,6 +11,8 @@ authors: [dhbalaji]
 
 How does anyone know if their customer got any JS errors/application crashes? How does the operations team know about the crash before the customer screams on email/social media? Finding an answer to this question led to the building of my first `npm` package. 
 
+<!-- truncate  -->
+
 
 ## What is the motivation behind this npm package
 

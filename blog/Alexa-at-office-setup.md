@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Alexa gadget needs no introduction. Those round or tubular smart speakers which can talk to you and advertise themselves as an assistant. But **are they useful in a working setup**? Let's find out.
 
- 
+<!-- truncate -->
  
 ## What is the Alexa model you are using?
 

@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 How do the stack and the queue factor into event handling? This is cryptic question that checks candidates awareness about event loop in Javascript. This is my favourite question because I can check for programming concepts like stack, queue and thinking in threads right away. Let us discuss the question further.
 
-
+<!-- truncate -->
 
 ## How do the Javascript stack and the queue factor into event handling?
 

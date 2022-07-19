@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 After many years, I decided to keep up with the developments at Angular. The dev setup was to run angular CLI but it won't work. Let's find out why
 
- 
+<!-- truncate -->
  
 ## What is your current setup?
 

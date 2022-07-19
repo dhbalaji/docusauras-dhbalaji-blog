@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 I moved into a design tech team that takes care of enterprise design language. It's completely a front-end job. It has been more than 90 days since I moved into this job and here is my learning experiences. Here are my top 10 learning experiences from my new job role as "Lead design technologist".
 
- 
+<!-- truncate -->
  
 ## Short intro to your new job role
 

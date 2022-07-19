@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 I am a Javascript fanboy. With a change in work assignment, I started with Typescript, and it's great. There were quite some aha moments, and I am hooked. I would still keep up with Javascript but code in Typescript irrespective of the framework.
 
- 
+<!-- truncate -->
  
 ## What is Typescript?
 

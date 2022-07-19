@@ -11,6 +11,8 @@ authors: [dhbalaji]
 
 Back in 2015, I was reading the book **Remote, office not required by Basecamp** and it felt like a distant dream to work from home (WFH) even though I worked in the tech industry as an independent contributor. Due to the pandemic, almost overnight the IT employees became accidental WFH professionals. It was a good choice because the infrastructure inside and outside the office was built around the concept of **Social distancing**. Back to the topic, I have tweaked and adapted to my WFH lifestyle, I have enough maturity to establish the process at the new location. Download my checklist for WFH in 2021.
 
+<!-- truncate -->
+
  
 ## Checklist of WFH setup
 

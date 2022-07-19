@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Let us say you drop a cheque at the local bank, it goes through several stages and finally, you get your money. Similarly in JavaScript, the working committee throws in an idea that goes through several stages before it becomes a language feature. Let's find out more.
 
- 
+<!-- truncate -->
  
 ## What is the difference between ECMAScript and JavaScript?
 

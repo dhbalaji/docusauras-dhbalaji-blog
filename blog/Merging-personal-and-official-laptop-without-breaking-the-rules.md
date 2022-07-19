@@ -11,7 +11,7 @@ authors: [dhbalaji]
 
 I made my first full week trip without carrying my laptop. Yikes, it's unusual for a nerd like me who has never done that. Let me tell me how I offloaded the work from my laptop. Now be it work or personal, I can get it done in a single workstation.
 
- 
+<!-- truncate -->
  
 ## What were you using your laptop 5 years ago?
 

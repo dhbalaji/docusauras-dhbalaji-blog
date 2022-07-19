@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 In this how to article, I will be discussing how we can set up a GitHub application to automatically keep our npm packages updated without breaking the app. We will also discuss the shortcomings of this application and if it's the right fit for use in production or in a team environment.
 
- 
+<!-- truncate -->
  
 ## What is the problem which we are trying to solve?
 

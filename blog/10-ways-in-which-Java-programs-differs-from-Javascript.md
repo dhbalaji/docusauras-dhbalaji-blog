@@ -10,6 +10,7 @@ authors: [dhbalaji]
 
 This is a fun post in which I collect 10 semantic differences between Java programs and Javascript programs. Here we go
 
+<!-- truncate  -->
  
 ## 1. There is no global scope for variables or functions in Java
 

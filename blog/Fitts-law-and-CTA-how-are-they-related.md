@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 CTA, i.e. Call To Action is the goal of every website. The design of the website can help the business owner achieve their CTA. Fitts’ Law is the basis for predicting user behavior on a website, if done correctly helps businesses to achieve their CTA. Let's dive and analyze Fitts Law in short.
 
-
+<!-- truncate -->
  
 ## Understanding Fitts Law with a story.
 

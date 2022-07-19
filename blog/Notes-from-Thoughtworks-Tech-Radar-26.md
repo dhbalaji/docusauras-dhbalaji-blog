@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Thoughtworks tech radar is a reputed tech journal available free of cost for subscribers. The content is related to 4 broad categories related to software development. The candidates/techniques are further categorized for easy judgment and use. Here are my notes from episode #26 of tech radar.
 
-
+<!-- truncate -->
  
 ## Techniques
 

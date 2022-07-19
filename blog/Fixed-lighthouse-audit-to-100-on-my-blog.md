@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Lighthouse is an amazing audit tool to check the performance of the website based on certain rules. I ran lighthouse from the chrome dev tools and this is what I found. An 80 on SEO score on the landing page. Read this blog to find out how I got the SEO score to 100.
 
-
+<!-- truncate -->
  
 ## Why did you prioritize SEO over accessibility?
 

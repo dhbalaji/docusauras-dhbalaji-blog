@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 To do the imperceptible, we need inspiration. For a novice, the internet is flooded with boot camps, how-to videos, etc. But as we become mid-level developers, we need a different level of education which is hard to find and even harder to derive value out of it. 
 
- 
+<!-- truncate -->
  
 ## What is the current state of educational material online?
 

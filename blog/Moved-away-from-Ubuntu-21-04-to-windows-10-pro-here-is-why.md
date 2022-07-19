@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 Historically the OS running on my workstation was not mainstream. Ubuntu desktop was eccentric, esoteric, and uniquely customized to my needs. Ubuntu remains a solid OS for personal needs but not fully loaded for all my tasks. Let me show you where ubuntu-desktop shines and fades in 2021.
 
-
+<!-- truncate -->
  
 ## Why I considered Ubuntu?
 

@@ -20,6 +20,7 @@ You can download books to kindle and they are available offline. The download ha
 
 Amazon has its ebook format (AWZ3) in which the book gets downloaded to the device and is locked with DRM.
 
+<!-- truncate -->
 
 ## How is ebook different from PDF books
 

@@ -11,6 +11,7 @@ authors: [dhbalaji]
 
 The laptop keyboard is a critical input device. It's also prone to issues like the `delete` button not working or few buttons here & there giving up. Here is a workaround with sharp keys software.
 
+<!-- truncate -->
  
 ## What are the possible solutions for dead keys on the keyboard be like?
 

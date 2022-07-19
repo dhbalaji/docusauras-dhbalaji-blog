@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 A cookie is a simple and important feature in frontend engineering. In fact, without cookies, most web apps may not be able to identify you. For instance, your Gmail won't remember you. You have to enter login and password again. If cookies are a must-have, why are websites asking for permission about cookie usage? Let's find out below.
 
- 
+<!-- truncate -->
  
 ## What are the uses of cookies on the internet?
 

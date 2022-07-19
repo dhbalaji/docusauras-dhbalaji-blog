@@ -9,7 +9,7 @@ authors: [dhbalaji]
 
 Two Spanish people can converse normally but a Hindi-speaking Indian and a Spanish person need an intermediate guy or a translator. The same with reading and writing variables across different shells. In npm scrips, we read/write environment/shell variables. But there is no uniform syntax to read/write environment/shell variables which causes errors when the npm task is run across different operating systems. We have a `cross-env` package that solves the problem of reading/writing environment/shell variables on different operating systems elegantly.
  
-
+<!-- truncate -->
  
 > The difference between environment variables and shell variables is that a shell variable is local to a particular instance of the shell (such as a shell script), while environment variables are "inherited" by any program you start, including another shell
 

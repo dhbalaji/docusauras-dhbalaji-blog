@@ -11,6 +11,8 @@ authors: [dhbalaji]
 
 Not a single interview goes by without asking "What are the challenges you faced while working with ReactJS". My friend asked me to answer this. Here I go...
 
+<!-- truncate -->
+
 Before I answer, let me tell me why the interviewer is asking this question. The reasons could be
 
 1. It was in their questions script 🙂. It's an obvious question right, just like tell me about yourself.

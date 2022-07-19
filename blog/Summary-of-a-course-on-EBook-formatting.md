@@ -11,6 +11,8 @@ authors: [dhbalaji]
 
 Hi, no bonus points for guessing that I intend to write an e-book. I took a course to gain skills in ebook formatting. Here is the summary of the course in Q&A format.
 
+<!-- truncate  -->
+
 
 ## How is formatting an e-book different from a real book.
 

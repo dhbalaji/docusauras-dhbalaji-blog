@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 John somnez is the software developer guru who writes books and creates content for other developers. He is prolific, brilliant, and healthy at the same time. Needless to say, he is someone who can work 18 hours a day for years. His book is like Gita for developers. Here are 10 inspiring ideas that caught my attention. The complete software developers career guide is a fantastic read.
 
- 
+<!-- truncate -->
  
 ## About this read
 

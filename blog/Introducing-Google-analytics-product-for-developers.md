@@ -13,6 +13,8 @@ Google Analytics is a common product used for web analytics. I had been using go
 
 As a front-end engineer, you cannot get away without writing or copy-pasting analytics code. To work with analytics code effectively, developers need to understand the terms/jargon used by Google analytics. In this blog post, I will share with you an introduction to google analytics in a developer-friendly language.
 
+<!-- truncate  -->
+
 
 ## 1. Lets take a look at the product to begin with...
 

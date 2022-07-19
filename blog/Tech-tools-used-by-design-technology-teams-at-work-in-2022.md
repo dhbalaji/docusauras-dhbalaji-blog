@@ -10,7 +10,7 @@ authors: [dhbalaji]
 
 On each working day, I get to see UI libraries and design language technology developed by the community of developers across the world. In this post, I am compiling the tools that design technology teams use across the world.
 
- 
+<!-- truncate -->
  
 ## What is a design tech team?
 

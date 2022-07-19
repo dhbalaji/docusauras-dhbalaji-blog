@@ -11,6 +11,8 @@ authors: [dhbalaji]
 
 Let's understand the word rendering. Rendering in front-end engineering means, you are generating an HTML view for the user. There are different approaches to render a view. Client-side rendering, server-side rendering are 2 of them
 
+<!-- truncate -->
+
 Let us say I request a home page from the server. If the server sends the full document aka HTML to the browser then we call it server-side rendered. If you `view source` of the page, we can see full HTML under the `body` tag. This blog for example is server-side rendered theoretically. In the case of [React SSR](https://reactjs.org/docs/react-dom-server.html), the reacts components are rendered on the backend, and HTML is sent to the client. Hydration of components will happen on the frontend. During hydration, the event handlers are attached to the markup.
 
 

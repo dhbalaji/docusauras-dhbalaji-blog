@@ -11,7 +11,7 @@ authors: [dhbalaji]
 
 If you want to annoy someone, we would ask if the chicken came first on earth, or it's the egg? The question has no clear answer, and it remains a conundrum. Talk to any job hunting engineering freshers, they would say nobody gives me a job, but they want to have working experience. To get that experience the freshers would gear up to spend money at job training businesses. But why is this happening? Is this something new or just old problem? Is this a win-win for both parties?
 
- 
+<!-- truncate -->
  
 ## What is the problem?
 
