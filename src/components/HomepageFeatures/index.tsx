@@ -15,6 +15,12 @@ export default function HomepageFeatures(): JSX.Element {
                   Minimal Tech for building real applications in 2022
                 </a>
               </li>
+              <li>
+                <a href="news">
+                  List of newsletters, podcasts & other resources to keep you
+                  updated
+                </a>
+              </li>
             </ol>
           </p>
         </div>

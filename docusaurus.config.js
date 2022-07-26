@@ -76,13 +76,13 @@ const config = {
           },
           {
             to: "/blog",
-            label: "Blog",
-            position: "right",
+            label: "Tech Blog",
+            position: "left",
           },
           {
             to: "/blog-lite",
-            label: "FE-Updates",
-            position: "left"
+            label: "Daily-Updates",
+            position: "right"
           },
           {
             href: "https://github.com/dhbalaji",
