@@ -80,8 +80,8 @@ const config = {
             position: "left",
           },
           {
-            to: "/blog-lite",
-            label: "Daily-Updates",
+            to: "/my-reads",
+            label: "My Reads",
             position: "right"
           },
           {
@@ -113,11 +113,11 @@ const config = {
          * URL route for the blog section of your site.
          * *DO NOT* include a trailing slash.
          */
-        routeBasePath: 'blog-lite',
+        routeBasePath: 'my-reads',
         /**
          * Path to data on filesystem relative to site dir.
          */
-        path: './blog-lite',
+        path: './my-reads',
       },
     ],
   ],
