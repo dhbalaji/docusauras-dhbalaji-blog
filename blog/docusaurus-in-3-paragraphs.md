@@ -5,8 +5,7 @@ tags:
   - react
   - markdown
   - documentation
-date: 2021-07-18 15:30:00
-sidebar_position: 1
+date: 2022-07-18 15:30:00
 authors: [dhbalaji]
 ---
 
