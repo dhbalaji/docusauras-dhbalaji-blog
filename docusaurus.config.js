@@ -72,7 +72,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Projects",
+            label: "BoKs",
           },
           {
             to: "/blog",

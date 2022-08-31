@@ -1,0 +1,59 @@
+---
+title: dhbalaji reading journey - Part 1
+date: 2022-07-26 15:30:00
+---
+
+![college library](./assets/college-library.jpg)
+
+Every relationship starts somewhere, my relationship with reading books started in second grade while doing the monotonous home work.
+
+## First favorite book
+
+I started to read books only by the age of 7. I wish I had started earlier. My first favorite book back then was the **class 2 english text book**. I can vaguely remember 2 names from the stories, kamala and kutchu. Education normalizes students appetite to one or two chapters per subject in a month but my craving for stories and the mysteries in the worlds made by words knew no bounds. I finished reading the whole text book even before the teacher taught it. Then I started reading the other subject books.
+
+## Library card & newspapers
+
+Library card is given to students at a later stage, I guess class 6. Its reasonable given that students do not mess with books at young age. I remember devouring fiction books, especially the horror genre without a second thought. After reading we used to discuss with fellow readers if they got any goosebumps. I always maxed out on the books I can borrow in the school library. I was caught reading a fashion magazine as a teen which was a taboo at that age. But I had read a lot of fiction books and the library did not have any other genres which I could pick with my body height.
+
+Newspapers reading was not about news but it was about the extra supplement paper that comes along on Saturdays, its called **Young World** in the hindu newspaper. This supplement was special because finally some fun stuff in the news for young minds like riddles, crosswords and stories. I remember paying Rs3 per Saturday edition to read Young World.
+
+Another tiny magazine that caught young minds attention was the **childrens digest** which is a kin to readers digest for adults. It was like the shortened form of encyclopedia made for young audience. It was fun to read and later boast our IQ in front of teachers.
+
+## Book purchases at young age
+
+Purchasing books from parents money was always a budget issue. Raised in a nuclear family which was financially troubled by globalization in 90s and aftermath, money was always a problem. Having said that, my father was kind enough to buy me books which suited a purpose like the lifco dictionary. Oxford dictionary must have been expensive and I used to borrow it from the neighbours.
+
+The first purchase was the essay books which I would use as reference for english oratory & essay writing competitions. I won prizes but the prizes were cheap and not motivating enough for me at a later stage in life. In hind sight, I loved english subject even though I disliked grammar part of it. The grammar books which I purchased for 200Rs in early 2000s were a waste of money. So were the GK books which would list who were the prime ministers of India, state capitals etc. When I passed out of school I had a collection of around 10 books which were mostly non fiction.
+
+I was bullied by school management to buy few books compulsorily. One of the notorious one was the **Bhajan book**. Bhajans are the religious songs for gods which we had to sing along. At school we used to sing in chorus. The Bhajan book was later discarded by me when people in my house asked me to sing bhajans. By the way this book costed 30rs which was almost the price of a finest ink pen back then.
+
+## The first readers slump
+
+Readers occassionally for short or long durations give up or lose interest in reading books. So did I, but it was due to relentless academic pressure in class 9. Class 10 scores were a deal breaker for higher studies. The school management cleverly removed library hour and we were left with text books. I did not do any major reading for next 4 years until I reached second year in college.
+
+## Reading in college days
+
+To put it right, I spent just 4 years in college as a day scholar. As a reserved person, library was heaven in college. It was the only place where I could read whatever that interests me and also an escape from the mass hysteria like bunk and leave college campus. I used to love coding & computers but my discipline was electronics and communication engineering (ECE). 
+
+Clearly a wrong choice but had to live with it. I used to walk into the computer science section of the library and read as many books I can. I like Systems programming because we had a parallel life in the name of embedded systems in electronics. I used to read many programming books, quiz in programming, C, C++, Java etc. Again, I maxed out on the limit of books you can borrow from library.
+
+I started reading books from the MBA shelves but they were boring and bulky.
+
+Luckily, the technical reading empowered me to run a niche linux blog which caught the attention of the interview panel. I got my first job showcasing the skills outside of electronics engineering.
+
+## Books collection in college
+
+I was living on a shoestring budget along with a burden of a education loan. I used to borrow Rs 7 for the bus fare every single day from my father. It was definitely not the time for discretionary spends, thats were the college library helped me out. I had a desktop computer but I was into technical books and coding. I remember buying some books and xeroxing the rest which would help me with campus placements. But life was fair, I never had to read them fully because I got a job. I am referring to the Quantitative aptitude RS Agarwal.
+
+I had accumulated bunch of xerox books in C, C++ and Java. A strategy to cut costs in college.
+
+## End of part 1
+
+Student life gave me a scholarly lifestyle to read books focussed on exams & career. But life is large, its not just skills alone. In the pursuit of answers to new challenges I entered TCS libraries.
+
+To be continued in part 2.
+
+
+#### Credits
+
+Photo by Element5 Digital: https://www.pexels.com/photo/selective-focus-photography-of-bookshelf-with-books-1370296/
