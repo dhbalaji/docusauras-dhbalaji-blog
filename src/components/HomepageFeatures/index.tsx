@@ -15,7 +15,7 @@ export default function HomepageFeatures(): JSX.Element {
                   Minimal Tech for building real applications in 2022
                 </a>
               </li>
-              <li>
+              <li className={styles.li} style={{ listStyle: "none" }}>
                 <a href="news">
                   List of newsletters, podcasts & other resources to keep you
                   updated

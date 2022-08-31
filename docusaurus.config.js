@@ -72,17 +72,17 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "FE-Bok",
+            label: "Projects",
           },
           {
             to: "/blog",
             label: "Tech Blog",
-            position: "left",
+            position: "right",
           },
           {
             to: "/my-reads",
             label: "My Reads",
-            position: "right"
+            position: "left"
           },
           {
             href: "https://github.com/dhbalaji",
