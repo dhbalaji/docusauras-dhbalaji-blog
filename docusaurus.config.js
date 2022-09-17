@@ -72,16 +72,16 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "BoKs",
+            label: "Notes",
           },
           {
             to: "/blog",
-            label: "Tech Blog",
-            position: "right",
+            label: "Blog",
+            position: "left",
           },
           {
             to: "/my-reads",
-            label: "My Reads",
+            label: "Reads",
             position: "left"
           },
           {
