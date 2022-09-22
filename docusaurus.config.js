@@ -89,6 +89,11 @@ const config = {
             label: "GitHub",
             position: "right",
           },
+          {
+            href: "https://www.linkedin.com/in/dhbalaji/",
+            label: "Linkedin",
+            position: "right",
+          },
         ],
       },
       footer: {
