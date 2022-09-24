@@ -55,7 +55,7 @@ export default function HomepageFeatures(): JSX.Element {
           }}
         >
           <h1 className={styles.h1}>dhbalaji.dev website under construction</h1>
-          <p>You may find Lipsum text, broken links & published content.</p>
+          <p>You may find Lipsum text along with finished content.</p>
         </section>
       </div>
     </section>
