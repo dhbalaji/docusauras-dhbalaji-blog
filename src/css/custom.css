@@ -37,10 +37,10 @@
 
 
 .grid-item-left {
-  margin-top: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 4rem;
-  text-align: right;
-  padding-right: 4rem;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
