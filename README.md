@@ -1,3 +1,3 @@
 # dhbalaji online
 
-Repository of <dhbalaji.dev>, built using docusauras.
+Repository of [dhbalaji.dev](https://dhbalaji.dev), built using [docusauras](https://docusaurus.io/).
