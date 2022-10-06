@@ -54,7 +54,7 @@ At this step I found 2 ways to solve the problem.
 
 This command would ensure that the package `vite` is alias as `my-vite`. While checking the global `node_modules` folder, I noticed a folder with the name `my-vite`.
 
-![](./assets/my-vite.png)
+![](./assets/my-vite.webp)
 
 The flipside is that, I need to reference the `vite` package as `my-vite` within the code.
 
