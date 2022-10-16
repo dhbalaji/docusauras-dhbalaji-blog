@@ -34,24 +34,24 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: 'docs',
-          sidebarPath: require.resolve("./sidebars.js")
+          path: "docs",
+          sidebarPath: require.resolve("./sidebars.js"),
         },
         blog: {
-          path: 'blog',
+          path: "blog",
           postsPerPage: 8,
           showReadingTime: true,
           blogSidebarCount: 8,
           feedOptions: {
             type: "rss",
-            title: "dhbalaji.dev feed"
-          }
+            title: "dhbalaji.dev feed",
+          },
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
         googleAnalytics: {
-          trackingID: 'G-SVE5EZKFD4',
+          trackingID: "G-SVE5EZKFD4",
           anonymizeIP: true,
         },
       }),
@@ -62,7 +62,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: 'dark',
+        defaultMode: "dark",
       },
       navbar: {
         hideOnScroll: true,
@@ -75,14 +75,14 @@ const config = {
             label: "Notes",
           },
           {
-            to: "/blog",
-            label: "Blog",
+            to: "/my-reads",
+            label: "Reads",
             position: "left",
           },
           {
-            to: "/my-reads",
-            label: "Reads",
-            position: "left"
+            to: "/blog",
+            label: "Blog",
+            position: "left",
           },
           {
             href: "https://github.com/dhbalaji",
@@ -108,21 +108,21 @@ const config = {
     }),
   plugins: [
     [
-      '@docusaurus/plugin-content-blog',
+      "@docusaurus/plugin-content-blog",
       {
         /**
          * Required for any multi-instance plugin
          */
-        id: 'second-blog',
+        id: "second-blog",
         /**
          * URL route for the blog section of your site.
          * *DO NOT* include a trailing slash.
          */
-        routeBasePath: 'my-reads',
+        routeBasePath: "my-reads",
         /**
          * Path to data on filesystem relative to site dir.
          */
-        path: './my-reads',
+        path: "./my-reads",
       },
     ],
   ],

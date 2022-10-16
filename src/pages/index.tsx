@@ -11,10 +11,7 @@ import styles from "./index.module.css";
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={"dhbalaji.dev | Frontend Consultant | Engineer"}
-      description="Description will go into a meta tag in <head />"
-    >
+    <Layout description="Description will go into a meta tag in <head />">
       <main>
         <HomepageFeatures />
       </main>
