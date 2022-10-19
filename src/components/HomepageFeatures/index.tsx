@@ -11,7 +11,9 @@ const whoami = `{
   tags: [
     "Lead Frontend Engineer",
     "React Design Systems",
-    "EDL Library Maintainer"
+    "EDL Library Maintainer",
+    "Life Long Learner",
+    "Passionate Geek"
   ]
 }`;
 
@@ -22,7 +24,7 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
-        <section className="whoami">
+        <article className="whoami">
           <div className={"grid-container"}>
             <div className={"grid-item-left"}>whoami</div>
             <div className={"grid-item-right"}>
@@ -31,7 +33,7 @@ export default function HomepageFeatures(): JSX.Element {
               </pre>
             </div>
           </div>
-        </section>
+        </article>
         <section
           style={{
             borderTop: "1px solid lightgrey",
@@ -44,23 +46,6 @@ export default function HomepageFeatures(): JSX.Element {
             Here are my{" "}
             <a href="/news">compilation of newsletters, podcasts and videos</a>{" "}
             to keep you updated in frontend technologies
-          </p>
-        </section>
-        <section
-          style={{
-            borderTop: "1px solid lightgrey",
-            paddingTop: "2rem",
-            marginTop: "2rem",
-            textAlign: "center",
-          }}
-        >
-          <h1 className={styles.h1}>dhbalaji.dev website under construction</h1>
-          <p>You may find Lipsum text along with finished content.</p>
-          <p>
-            <img
-              src="/img/home-under-construction.jpg"
-              alt="under construction"
-            />
           </p>
         </section>
       </div>
