@@ -1,6 +1,6 @@
 ---
 title: Do It Today Overcome Procrastination, Improve Productivity, and Achieve More Meaningful Things By Darius Foroux
-date: 2022-16-10 15:30:00
+date: 2022-10-16 15:30:00
 og-title: booktalk on Do It Today Overcome Procrastination, Improve Productivity, and Achieve More Meaningful Things By Darius Foroux
 description: booktalk on nonfiction book related to self help titled Do It Today Overcome Procrastination, Improve Productivity, and Achieve More Meaningful Things By Darius Foroux.
 slug: 2

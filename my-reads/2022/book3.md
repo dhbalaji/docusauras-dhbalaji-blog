@@ -1,6 +1,6 @@
 ---
 title: The Healthy Programmer Get Fit, Feel Better and Keep Coding By Joe Kutner
-date: 2022-20-10 15:30:00
+date: 2022-10-20 15:30:00
 og-title: booktalk on The Healthy Programmer Get Fit, Feel Better and Keep Coding By Joe Kutner
 description: booktalk on nonfiction book related to health genre titled The Healthy Programmer Get Fit, Feel Better and Keep Coding By Joe Kutner.
 slug: 3
