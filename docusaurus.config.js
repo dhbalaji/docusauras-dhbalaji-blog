@@ -123,6 +123,8 @@ const config = {
          * Path to data on filesystem relative to site dir.
          */
         path: "./my-reads",
+        blogTitle: "dhbalaji non-fiction reads & book talks",
+        blogSidebarCount: 8
       },
     ],
   ],
