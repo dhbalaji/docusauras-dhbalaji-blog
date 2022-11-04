@@ -72,7 +72,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "BoK",
+            label: "Guides",
           },
           {
             to: "/my-reads",
