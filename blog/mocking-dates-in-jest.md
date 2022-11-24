@@ -8,7 +8,7 @@ authors: [dhbalaji]
 
 ## What are the `Date` methods?
 
-I have worked with bunch of web apps and all of them have date related code in common. The Date utils are written in plain Javascript using the `Date` constructor. 
+I have worked with a bunch of web apps and all of them have date-related code in common. The Date utils are written in plain Javascript using the `Date` constructor. 
 
 ```js
 var date = new Date()
@@ -23,7 +23,7 @@ I have also worked on issues where the test suite would pass correctly on the da
 
 ## Why is testing Dates tricky?
 
-You cannot assert a dynamically generated date. For instance if your date util returns a new date by applying some logic. You cannot put a test which looks like this.
+You cannot assert a dynamically generated date. For instance, if your date until returns a new date by applying some logic. You cannot put a test that looks like this.
 
 ```js
 // WRONG code, don't use without mocking date.getDate
@@ -31,11 +31,11 @@ You cannot assert a dynamically generated date. For instance if your date util r
 expect(add2DaysToCurrentDate()).toBe("Some hard coded date")
 ```
 
-If you want to use hardcoded date, you should be able to control the output of the `add2DaysToCurrentDate` method.
+If you want to use a hardcoded date, you should be able to control the output of the `add2DaysToCurrentDate` method.
 
 ## How to make dynamic date logic predictable?
 
-The short answer is `JEST mocks`. When ever we want to add 2 days to current date, we need to ensure the `date.getDate()` method returns the same value, then we can write a test to assert the returned value.
+The short answer is `JEST mocks`. Whenever we want to add 2 days to the current date, we need to ensure the `date.getDate()` method returns the same value, then we can write a test to assert the returned value.
 
 ```js
 it("should return new Date which is two days ahead of today", function() {
@@ -46,7 +46,7 @@ it("should return new Date which is two days ahead of today", function() {
 
 ## Downsides to this approach
 
-As I mentioned in the comment, till the end of the test block, we cannot use `date.getDate()` as if its a real function. The mock will replace the actual function call in the test block. This might hinder with your assertion logic. We need to plan accordingly.
+As I mentioned in the comment, till the end of the test block, we cannot use `date.getDate()` as if it's a real function. The mock will replace the actual function call in the test block. This might hinder your assertion logic. We need to plan accordingly.
 
 
 ### References
