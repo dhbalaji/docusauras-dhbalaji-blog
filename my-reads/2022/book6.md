@@ -1,7 +1,7 @@
 ---
 title: Universal Principles of Design By William Lidwell, Kritina Holden & Jill Butler
 date: 2022-11-26 15:30:00
-og-title: Fundamental Analysis
+og-title: booktalk on Universal Principles of Design
 description: booktalk on Universal Principles of Design By William Lidwell, Kritina Holden & Jill Butler
 slug: 6
 ---
@@ -48,11 +48,6 @@ Successful products typically follow four stages of creation: requirements, desi
     When preceptual and cognitive systems are under taxed, people become apathetic and bored. If they are over taxed, people become stressed and frustrated. Immersion occurs when perceptual and cognitive systems are challenged at near capacity without being exceeded.
 
 - Confirmation - A technique for preventing unintended actions by requiring verification of the actions before they are performed. Confirmations are used to prevent a class of errors called slips. Confirmations slow task performance and should be reserved for use with critical and irreversible operations.
-
-
-## Something that I do not agree with
-
-Overall the book helps you put the foot in the door, to gain expertise you need to use the book as keywords and research more.
 
 ## Verdict
 
