@@ -131,3 +131,89 @@ Support keyboard interaction wherever possible and do not rely on the mouse all 
 ## Providing alternate ways to navigate
 
 There is no fit for all solution when it comes to navigation. Some people prefer menu, tree, site-map but search beats all of them.
+
+---
+
+## Notes from Adaptive web design book
+
+### Think of the user not the browser
+
+#### Progressive enhancement
+Progressive enhancement - gold standard of how to approach web. Its aimed at crafting experiences that serve the users by giving them access to content without technological restrictions.
+
+Progressive enhancement relies on fault tolerance. Its the ability of a system to operate when it encounters an unexpected error.
+
+Browsers play by the rules of fault tolerance and ignore anything they did not understand. Fault tolerance has been a part of HTML and CSS since the beginning. They are forever forward compatible.
+
+We all have special needs, progressive enhancement wins.
+
+#### Graceful degradation
+
+When the first graphical browser came to use, it got `img`, later audio, then video, then interaction. We lost sight of fault tolerance and began building according to latest fashion. Few of the sites were usable, even fewer were accessible.
+
+Graceful degradation offered a full course meal to latest browsers, while tossing few scraps to the older and less capable browsers.
+
+This attitude led to testing the website on the browser with largest market share only.
+
+> HTML, CSS are fault tolerant but Javascript is not.
+
+The users were left to fend themselves.
+
+#### Rise of tolerance
+
+Use javascript to identify capabilities and come to a compromise. We started working around all or nothing proposition.
+
+The baseline experience is always in the form of text. Next to written text, semantics of html language prove useful.
+
+> Do not say alt tag, its actually alt attribute. Simply `alt` text would do.
+
+In HTML5, each `section` creates a new context and its okay to use `h1` again.
+
+> Browsers ignore anything they do not understand
+
+The web and its functions are a hybrid of print, television, radio, video games, kiosk or an application. W3C added ability to target styles to specific medium. `@media`.
+
+Media assignments are incredibly powerful because they allow us to create layouts that adapt to the medium in which they are presented. eg. printer friendly.
+
+Media queries are incredibly powerful and allow you to really fine-tune your designs for specific devices.
+
+Media queries support `AND` and `NOT` keyword.
+
+#### Resting and active classes
+
+1. Add a suffix of `-on` to the base class. `.accordion` and `.accordion-on`.
+
+2. Add another class `.auto-submit` and `.auto-submit.active`.
+
+3. Change form of the class `.replace` and `.replaced`.
+
+> Callback is a function that you supply to an another function so that its called at a predetermined time
+
+
+#### aria-hidden
+
+Hiding content with aria is pretty straight forward, simply employ the `aria-hidden` attribute.
+
+```html
+<p aria-hidden="true"> I am accessibly hidden</p>
+```
+
+#### aria states
+
+All the attributes prefixed with `aria-` provide valuable information to the user about what is going on with a given element. eg. `aria-hidden`.
+
+`aria-controls` takes an `id` reference for a value and that `id` should belong to the element whose contents is controlled by the element to which attribute is applied.
+
+ARIA's states and properties go a long way toward helphing keep the user informed, but few concepts in ARIA area as simple and immediately useful as `Live Regions`.
+
+`aria-live` - off / polite / assertive
+
+#### Screen reading tools
+
+JAWS, Windows Eyes, NVDA and ORCA
+
+#### tabindex
+
+`tabindex` when assigned a value of `-1` turns off the default tab order
+
+`tabindex` when assigned a value of `0` turns on the default tab order

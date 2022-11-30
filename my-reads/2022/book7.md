@@ -18,6 +18,7 @@ Books on accessibility relates to design or coding. This book relates to 80% of 
 
 Author is well exposed to accessibility and web. Sarah Horton is definitely an expert from whom we want to learn and understand accessibility design.
 
+> [Sarah Horton Website](https://sarahhortondesign.com/)
 
 ## Top ideas from the book
 
