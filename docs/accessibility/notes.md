@@ -217,3 +217,5 @@ JAWS, Windows Eyes, NVDA and ORCA
 `tabindex` when assigned a value of `-1` turns off the default tab order
 
 `tabindex` when assigned a value of `0` turns on the default tab order
+
+> ARIA role & state are 2 important concepts in WCAG-ARIA
