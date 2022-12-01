@@ -6,7 +6,7 @@ description: booktalk on Hackers Diet, how to lose weight and hair through stres
 slug: 4
 ---
 
-![hackers diet cover](./assets/hackers-diet.png)
+![hackers diet cover](./assets/hackers-diet.webp)
 
 Hi, we are here discussing another health-related book. You may ask, why another health-related book? thanks to book discovery that happened through the previous read. The previous book had mentioned another health book for programmers so I picked this book titled **Hackers Diet by John Walker**.
 

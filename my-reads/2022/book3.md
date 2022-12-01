@@ -6,7 +6,7 @@ description: booktalk on nonfiction book related to health genre titled The Heal
 slug: 3
 ---
 
-![The Healthy Programmer Book Cover](./assets/the-healthy-programmer-cover.jpg)
+![The Healthy Programmer Book Cover](./assets/the-healthy-programmer-cover.webp)
 
 Hey there, let's discuss a book that explains health in a way that would captivate techies (techies here refer to people who sit before the keyboard) around the world. This book aims at refactoring your health. The book is titled "The Healthy Programmer". As a programmer myself, I did not think twice before picking up this book and read this book immediately. Let me explain how this book felt in parts.
 

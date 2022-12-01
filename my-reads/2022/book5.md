@@ -6,7 +6,7 @@ description: booktalk on Fundamental Analysis of shares, Become an intelligent i
 slug: 5
 ---
 
-![](./assets/fin-analysis.jpg)
+![](./assets/fin-analysis.webp)
 
 Hey there, great men say that you should make money while you sleep. If you agree with that saying then you should check the stock market or start your own business which can run without your presence. Historically many men & women have made a good sum of money in the long term by investing in the right stock. Hey, the key to remember is **Right stock**. How do you know if you have chosen the right stock? The answer lies in the fundamental analysis of the stock. 
 

@@ -6,7 +6,7 @@ description: booktalk on Designing Accessible User Experiences by Sarah Horton, 
 slug: 7
 ---
 
-![](./assets/web-for-everyone.png)
+![](./assets/web-for-everyone.webp)
 
 Equality on the web is an interesting and important topic. This is the second book related to accessibility.
 

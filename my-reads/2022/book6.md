@@ -6,7 +6,7 @@ description: booktalk on Universal Principles of Design By William Lidwell, Krit
 slug: 6
 ---
 
-![](./assets/universal-design.jpg)
+![](./assets/universal-design.webp)
 
 Design is a subjective topic and point of debate in several corporate meetings. The debate happens due to `Cognitive Dissonance`, `exposure effect` & `consistency bias`. But wait, the last 3 terms are common in the design world and are universal to design. This book does not talk about how to design an app but this book helps you take an insider view of design, processes, and patterns in design.
 

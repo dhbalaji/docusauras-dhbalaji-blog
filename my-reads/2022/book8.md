@@ -5,7 +5,7 @@ description: booktalk on ADAPTIVE WEB DESIGN Crafting Rich Experiences with Prog
 slug: 8
 ---
 
-![](./assets/adaptive-web-design.png)
+![](./assets/adaptive-web-design.webp)
 
 Written in 2013, a book on adaptive web design and how to do it with progressive enhancement. The title of the book might sound mouth full but let's look into it in parts. 
 
