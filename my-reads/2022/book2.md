@@ -8,7 +8,7 @@ slug: 2
 
 ![](./assets/book2.webp)
 
-Hey there, let's discuss an interesting short, light, and no-nonsense read from the `self-help` genre. Most self-help books try to address one or more than one broad problems in life. This book is no different in that aspect. As the title suggests, this book attempts to solve problems related to 
+Hey there, let's discuss an interesting short, light, and no-nonsense read from the `self-help` genre. Most self-help books try to address one or more than one broad problem in life. This book is no different in that aspect. As the title suggests, this book attempts to solve problems related to 
 
 1. Procrastination
 2. Focus
