@@ -10,9 +10,9 @@ slug: 1
 
 Let me start with my favorite line from the book.
 
-> If you do not own a business, you should invest in a business.
+> If you do not own a business, you should invest in business.
 
-Financial books are the least favorite of the readers because of 2 reasons.
+Financial books are the least favorite of readers because of 2 reasons.
 
 - Most financial books give orthodox advice which suits the stoics or individuals. Most normal people are not stoics, they have retired parents to take care of or they need to fund their sibling's education.
 - Most stock market books are not written for lower-wage earning audiences. They have a point, how can someone poor invest in a portfolio of stocks? But this author gives hope to people with day jobs.
@@ -40,14 +40,14 @@ The author calls out a phrase called "Feeding the civilization", which means tha
 - The family consists of the breadwinner, spouse, children &
 - The family consists of breadwinner parents, breadwinner siblings, etc
 
-Already the maids are working on a smaller wage but they have 2 families to take care of. So the maids are going to retire in a financially handicapped situation at old age because retirement is real. The employer whom maids have worked with and the family whom maids raised are going to desert them when the maids are old and have no money to take care of themselves.
+Already the maids are working on a smaller wage but they have 2 families to take care of. So the maids are going to retire in a financially handicapped situation at old age because retirement is real. The employer whom maids have worked with and the family whom the maids raised are going to desert them when the maids are old and have no money to take care of themselves.
 
 The author mentions a formula to separate your money once you get your monthly wage
 
 - Tithe fund - 10% for Charity so that it creates an abundance mindset. The author is an advocate of God and religion.
 - Expense fund - 15% for Daily expenses and recreation.
 - Support fund - 30% for your family living in the village or elsewhere as a remittance so that they eat and live
-- Retirement fund - 30% for Retirement fund which sits in the share market and is built by monthly investing into the giant company stocks even during market crisis
+- Retirement fund - 30% for Retirement fund which sits in the share market and is built by monthly investing into the giant company stocks even during a market crisis
 - Emergency fund - 15% for the emergency fund which sits in the bank so that you do not break the retirement fund if a crisis hits
 
 > By investing 30% of the salary into the retirement fund for 20-plus years, the maids can retire as a millionaire.
@@ -68,4 +68,4 @@ The authors advise the maids to avoid
 
 If you are looking for a short book, under 100 pages that resonate with working-class people. This book is for you. The author promises that his investing strategy of buying a certain sum of top company stocks for 20 years systematically is going to make you a millionaire.
 
-> Is there anyone who does not want to become a millionaire when you retire? I guess not so this book is for you.
+> Is there anyone who does not want to become a millionaire when they retire? I guess not so this book is for you.
