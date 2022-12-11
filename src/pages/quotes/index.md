@@ -2,31 +2,17 @@
 
 Great things never came from comfort Zones.
 
-Audacious accountability; you consider your life from the point of view that how it goes and what happens is completely up to you--you are in the driver's seat of life.
+Audacious accountability; you consider your life from the point of view that how it goes and what happens is completely up to you. You are in the driver's seat of life.
 
-The best salespeople think of their jobs not so much as selling widgets but as selling insights about the widget business. Dan Pink
+> Actions x Time = Leverage. You do the math
 
-you will be the same in 5 years as you are today except for two things people you meet and the books you read
+Self-discipline trumps IQ.
 
-Feelings follow actions. Act as if. Act enthusiastically and you will become enthusiastic.
+We must all suffer one of two things: the pain of discipline or the pain of regret/disappointment. Jim Rohn.
 
-Actions x Time = Leverage. You do the math
+We are all 5-10 habits away from doubling our income or doubling our success in any area of life.
 
-Instead of complaining transfer to service: redirect
-
-Self-discipline trumps IQ
-
-Grit: hustle DNA
-
-We must all suffer one of two things: the pain of discipline or the pain of regret or disappointment. Jim Rohn.
-
-Fear focuses attention. All the fun, interesting things in life come with fears.
-
-Where can the smallest change make the greatest difference? Hugh Macleod
-
-We are all 5-10 habits away from doubling our income or doubling our success in any area of life 
-
-Life is easy if you live it the hard way and hard if you live it the easy way
+Life is easy if you live it the hard way and hard if you live it the easy way.
 
 Coming up with great ideas is easy. The field narrows quickly when it comes to executing them!
 
@@ -38,17 +24,15 @@ People will summarize your life in a sentence - pick it now
 
 Great leadership question: if you were me how would you do this differently?
 
-Leaders, you gain influence (in part) by demonstrating you can 'Get Things Done!'#leadership 
+Leaders, you gain influence (in part) by demonstrating you can 'Get Things Done!' #leadership 
 
-The human spirit thrives on challenge
-
-it's easier to act your way into a new way of thinking than to think your way into a new way of acting. - Millard Fuller
+The human spirit thrives on challenge.
 
 Surround yourself with incredible people and you'll go from "How could I ever do that?" to "How could I not?"
 
 Most people settle for very average goals because it's "reasonable". One problem: average has a lot of competition. Go big and succeed more.
 
-The #1 productivity secret; wake up early
+The #1 productivity secret; wake up early.
 
 Become a self-feeder: make sure you are continually learning, growing, and developing both mentally, spiritually, and physically.
 
@@ -64,8 +48,6 @@ The people you surround yourself with are your greatest asset. Those who have wa
 
 Abundance mindset vs. scarcity mindset
 
-"The impediment to action advances action. What stands in the way becomes the way."
-
 "A small team of A players can run circles around a giant team of B and C players." - Steve Jobs
 
 The best way to find a current of good luck is to swim with great people. Jim Collins
@@ -76,23 +58,17 @@ What you believe matters. Belief = self-fulfilling prophecy. Bend reality. Make 
 
 Be enthusiastic!, Smile, thank someone, praise/encourage someone, do random acts of kindness, learn from someone, coach & mentor, selflessness
 
-Act as if...self-fulfilling prophecy
-
 Hire a doer. Rent a thinker. Andy Stanley
 
 Your success rate as a manager is 90% the result of how good you are at hiring the people around you.
 
-Gratitude: the ultimate wonder drug for life
+Gratitude: the ultimate wonder drug for life.
 
-Research shows people are happiest when they express gratitude publicly
-
-What gets measured gets managed
+What gets measured gets managed.
 
 The things that get rewarded get done.
 
-Performance-oriented people like to win. So clarify the win! Give Your team a reason to high-five!@AndyStanley
-
-Our goal is to have more at-bats per unit of time & money than anyone else. Eric Schmidt Google CEO
+Performance-oriented people like to win. So clarify the win! Andy Stanley
 
 Make a lot of small bets--experiment relentlessly.
 
@@ -113,11 +89,11 @@ There's nothing more appealing than someone who wants to try to grow their idea.
 
 Which 20% of sources are driving 80% of my desired outcomes and happiness?
 
-Leave People guessing at whether you are working or playing, the rock stars in life are always doing both
+Leave People guessing at whether you are working or playing, the rock stars in life are always doing both.
 
-Key to having enough time: eliminate TV and meetings
+Key to having enough time: eliminate TV and meetings.
 
-Productivity = wisdom + action
+> Productivity = wisdom + action
 
 Hire the right people and get out of their way
 
@@ -129,17 +105,15 @@ Your life is a choice. No matter the circumstances, you choose the kind of life 
 
 Whatever it is... do your BEST. This is the shortest route to fulfilling your Potential.
 
-Habits are like financial capital: forming one today is an investment that will automatically give out returns for years to come
+Habits are like financial capital: forming one today is an investment that will automatically give out returns for years to come.
 
-"We manage to sameness - We lead to change." Andy Stanley
+Enthusiasm makes difficult tasks easy.
 
-Enthusiasm makes difficult tasks easy
-
-if an undertaking was easy, someone else already would have done it.
+If an undertaking was easy, someone else already would have done it.
 
 Authentic leaders know that one of their primary jobs is 'to replace themselves. Mentor the next generation.
 
-A great leader stands behind his team when they succeed and in front of them when they fail {take the bullets}
+A great leader stands behind his team when they succeed and in front of them when they fail {take the bullets}.
 
 You know, sometimes all need is twenty seconds of insane courage. Just literally twenty seconds of just embarrassing bravery. And I promise you, something great will come of it. Matt Damon from We Bought A Zoo
 
@@ -163,22 +137,21 @@ Learn to value "courage" as a much more important virtue than "success"
 
 Regret minimization framework: when I am 80 yrs old will I regret doing______or regret not doing____?Most people late in life have more regrets about things they didn't try. Jeff Bezos
 
-The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.
-George Bernard Shaw
+The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man. George Bernard Shaw
 
 Change is the universal constant that allows you to get the most out of living and learning.
 
-If you fail at least you failed, and risk being wrong. Life is about grand experiments...having the guts
+If you fail at least you failed, and risk being wrong. Life is about grand experiments...having the guts.
 
-Lifehacker;20/80 focused, minimum effective dose, lifestyle designer, bucket list fanatic
+Lifehacker;20/80 focused, minimum effective dose, lifestyle designer, bucket list fanatic.
 
-I am a learning addict
+I am a learning addict.
 
 The kind of food our minds devour will determine the kind of person we become. John Stott
 
 #1 reason for failure; stop learning, stop growing, stop experimenting
 
-Experiment relentlessly
+Experiment relentlessly.
 
 Take massive action!
 
@@ -188,11 +161,9 @@ Expectations govern results
 
 Leadership = Influence
 
-Who are the key influencers?
-
 Lead with questions rather than statements
 
-When you get inspired, leverage it to the hilt
+When you get inspired, leverage it to the hilt.
 
 Sales vs Finance: it's a lot harder to make it than it is to count it.
 
@@ -286,7 +257,7 @@ Your net worth to the world can usually be determined by what remains after your
 
 Be bold; make things happen!
 
-it is easiest to live with a decision if it is based on an earnest sense of right and wrong
+It is easiest to live with a decision if it is based on an earnest sense of right and wrong
 
 Courage is what takes over when confidence runs out. 
 
