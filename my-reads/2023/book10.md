@@ -2,6 +2,7 @@
 title: The Minimalist Home by Joshua Becker
 date: 2023-01-08 15:30:00
 og-title: booktalk on The Minimalist Home by Joshua Becker
+og-image: './assets/the-minimalist-home.jpg'
 description: booktalk on The Minimalist Home by Joshua Becker.
 slug: 10
 ---
@@ -10,9 +11,13 @@ slug: 10
 
 I have been reading books about all things that matter in life. This is the first book about the most important place on earth "The Home". Each ones home is unique and I am going to talk about this book from a working class person living in India.
 
+> Home is a place for rest & focus. Find alignment between purpose & pocessions in life.
+
 ## About the author
 
 The author is a minimalist guru and a staunch advocate of minimalism. If you are going to search for the word minimalist on any search engine or social media platform, you might run into the works of Joshua Becker. He has written multiple books on the topic of minimalism.
+
+> Goals shape us, goals change us
 
 One of the ideas from his previous books which I follow meticulously is `remove duplicates`. Have 2 towels instead of 5. Wash the blankets and use it within same day. You do not need to maintain multiple blankets.
 
@@ -24,9 +29,13 @@ I wanted you to observe people around you. Some of them are super focussed on th
 
 In success literature, its a trend to observe and reverse engineer the qualities of successful people or reversing the trend which is followed by masses. In this context `minimalism` has hit a niche market and there is a good amount of education, adoption and evangalism available out there.
 
+> You are bound by home instead of being freed by home.
+
 Lets answer the `why`, Minimalism is a philosophy so its hard to punch in a scientific definition to minimalism. Minimalism is about focussing on things that matter to you and your goal in life. A minimalist tries to turn his sorroundings, tools and thoughts towards the main goal in life.
 
 Lets observe Steve Jobs, he believed in good design. According to Jobs, design is not how it looks but how it works. His car, dress, office, products and his entire life was obssesively driven by design instead of being missold to random ideas or whims of the market. Nevertheless, he acheived greate things in life.
+
+> Reimagine the environment around the goals in life.
 
 ## Top ideas from the book
 
