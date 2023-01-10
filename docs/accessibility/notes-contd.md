@@ -130,3 +130,65 @@ Developers can adopt progressive enhancement or graceful degradation technique. 
 
 Not all AT support the modern HTML5 semantic tagss like the browsers, the work around is to provide the role attribute. These roles are redundant in modern browserss and AT. However HTML vaidators will throw a warning.
 
+> There are some aria attributes without aria prefix, `alt` tag in image element is one of them.
+
+## Basic WAI-ARIA
+
+### Landmark roles
+
+> Landmark roles are all static
+
+- banner - top area of the page, mostly at the top includes header
+- complementary - right side bar which contains ads and links
+- contentinfo - generally the footer of the web page
+- form
+- main
+- navigation
+- region - defining custom regions
+- search
+
+### Custom regions
+
+while most of the landmarks are self explanatory in terms of what they should contain, `role=region` needs some explanation. This landmark role can be used to contain specific information that is not effectively described by one of the other landmark roles.
+
+> role="region" must be accompanied by `aria-label` or `aria-labelledby`
+
+The whole page is defined in regions. No part of the page should be orphaned.
+
+- role="menubar" contains role="menu" as child items
+- nested lists have attributes `aria-haspopup="true"` or `aria-haspopup="menu"`
+- aria-describedby
+- aria-labelledby
+- aria-label
+- aria-required
+- aria-controls
+- aria-details
+- aria-haspopup
+- aria-live
+- aria-owns
+- aria-relevant
+- aria-roledescription
+
+For alert messages, error messages and notifications, we use `aria-live="assertive"` and `aria-atomic="true"`.
+
+Modal dialogs are defined using role="alertdialog" and aria-modal="true". While opening and closing modal window, make sure the focus is within the modal when the modal opens and when the modal is closed, the focus returns to the location where the modal was opened.
+
+## Using tabIndex
+
+the HTML tabindex attribute is the way to order the path of the cursor as the user uses the tab key to navigate through the web app. Adding `tabindex="0"` allows focus on to the element. Adding `tabindex="-1"` is added to remove keyboard accessibility from the element.
+
+Positive numbers can be used in tabIndex. The bigger the number, it takes the focus first.
+
+### Keyboard navigation
+
+keyboard navigation is important for people who cannot use the mouse. Take the case of blind people, they cannot use the mouse. Firstly we need to identify the list of design patterns and keyboard interaction conventions associated with widgets like
+
+- combobox
+- grid
+- listbox
+- menu
+- menu bar
+- radio group
+- tab
+- toolbar
+- treeview
