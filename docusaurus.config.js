@@ -49,11 +49,7 @@ const config = {
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
-        },
-        googleAnalytics: {
-          trackingID: "G-SVE5EZKFD4",
-          anonymizeIP: true,
-        },
+        }
       }),
     ],
   ],
@@ -125,6 +121,12 @@ const config = {
         path: "./my-reads",
         blogTitle: "dhbalaji non-fiction reads & book talks",
         blogSidebarCount: 8
+      },
+    ],
+    [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'G-VGQ399LJC8'
       },
     ],
   ],
