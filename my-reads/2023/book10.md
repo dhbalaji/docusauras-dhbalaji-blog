@@ -11,7 +11,7 @@ slug: 10
 
 I have been reading books about all things that matter in life. This is the first book about the most important place on earth "The Home". Each one's home is unique and I am going to talk about this book from a working-class person living in India.
 
-> Home is a place for rest & focus. Find alignment between purpose & passions in life.
+> Home is a place for rest & focus. Find alignment between purpose & possession in life.
 
 ## About the author
 
