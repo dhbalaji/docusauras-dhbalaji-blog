@@ -118,6 +118,7 @@ Hands on experience with
 - No Colloquial influence while you talk
 - Positive and solution oriented
 - Inclined towards inclusion & visibility
+- Updated with tech changes
 
 ### Perks to look for
 
