@@ -112,6 +112,8 @@ Hands on experience with
 
 ### Unwritten rules
 
+- Certifications from reputated colleges
+- Certifications related to works
 - Self motivated
 - Self managing
 - Look good & well groomed
