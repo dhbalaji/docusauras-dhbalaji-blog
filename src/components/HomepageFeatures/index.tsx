@@ -3,18 +3,18 @@ import Prism from "prismjs";
 
 import styles from "./styles.module.css";
 const whoami = `{
-  fullName: "Balaji D",
-  alias: "dhbalaji",
-  designation: "Lead Design Technologist",
-  employer: "Sabre",
-  location: "Near Bangalore, India",
+  name: "Balaji",
+  employer: "Sabre Travel Tech",
+  skilledAt: [
+    "Frontend Consulting",
+    "Enterprise JS architecture",
+    "Public speaking"
+  ],
   tags: [
     "Lead Frontend Engineer",
-    "React Design Systems",
-    "EDL Library Maintainer",
-    "Life Long Learner",
-    "Passionate Geek"
-  ]
+    "React Design Systems"
+  ],
+  location: "Bangalore, India",
 }`;
 
 export default function HomepageFeatures(): JSX.Element {
