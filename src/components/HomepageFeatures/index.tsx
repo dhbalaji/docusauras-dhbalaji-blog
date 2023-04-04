@@ -4,11 +4,9 @@ import Prism from "prismjs";
 import styles from "./styles.module.css";
 const whoami = `{
   name: "Balaji",
-  employer: "Sabre Travel Tech",
   skilledAt: [
     "Frontend Consulting",
-    "Enterprise JS architecture",
-    "Public speaking"
+    "Technical Speaker"
   ],
   tags: [
     "Lead Frontend Engineer",
