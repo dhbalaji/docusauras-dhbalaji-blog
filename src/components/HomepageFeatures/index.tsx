@@ -46,6 +46,14 @@ export default function HomepageFeatures(): JSX.Element {
             to keep you updated in frontend technologies
           </p>
         </section>
+        <section>
+          <h2>Certifications</h2>
+          <ul>
+            <li>
+              <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72350171" alt="Google analytics" />
+            </li>
+          </ul>
+        </section>
       </div>
     </section>
   );
