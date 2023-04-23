@@ -49,7 +49,7 @@ export default function HomepageFeatures(): JSX.Element {
         <section>
           <h2>Certifications</h2>
           <ul>
-            <li>
+            <li style={{ listStyle: "none" }}>
               <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72350171" alt="Google analytics" />
             </li>
           </ul>
