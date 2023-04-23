@@ -71,6 +71,21 @@ Let us say you are saving for child college, then the ripe time to think of with
 
 Investment options should be evaluated in the context of risk and return.
 
+### Trends
+
+Everyone like to be a part of a trend which is bullish, has a long run raking profits for its share holders.
+
+Here are few things we need to be aware of
+
+- Markets follow cycles like accumulation phase, distribution phase, bull phase, bear phase, etc
+- Trends arise out of new market opportunities or opportunities in particular sector
+- Be good at
+  - Identifying trends
+  - Taking calculated risk
+  - Reading trend lines
+  - Trend reversal
+- If you can spot trends ahead of one quarter, then you are going to make profit or book profits.
+
 ## Summary
 
 > Money decisions should be logical and not emotional.
