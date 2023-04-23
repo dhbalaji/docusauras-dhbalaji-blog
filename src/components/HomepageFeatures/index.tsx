@@ -37,9 +37,9 @@ export default function HomepageFeatures(): JSX.Element {
             borderTop: "1px solid lightgrey",
             borderBottom: "1px solid lightgrey",
             paddingTop: "2rem",
-            paddingBottom: "2rem",
+            paddingBottom: "1rem",
             marginTop: "5rem",
-            marginBottom: "5rem",
+            marginBottom: "4rem",
             textAlign: "center",
           }}
         >
