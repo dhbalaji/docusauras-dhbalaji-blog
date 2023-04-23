@@ -35,7 +35,7 @@ The speaker also did not do PR for Groww. The speaker maintained a neutral view 
 
 ## Key takeaways
 
-The general purpose of a speech presented by the CFP would essentially be around having a financial plan in place. The speaker delivered a well crafted speech backed by research and data.
+The general purpose of a speech presented by the CFP would essentially be around having a financial plan in place, identifying goals and arranging corpus for goals. The speaker delivered a well crafted speech backed by research and data.
 
 Let me present the unique points apart from stock selection theory, retirement planning, investment choices which were spoken on the stage.
 
