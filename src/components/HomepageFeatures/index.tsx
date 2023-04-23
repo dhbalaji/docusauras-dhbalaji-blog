@@ -35,8 +35,11 @@ export default function HomepageFeatures(): JSX.Element {
         <section
           style={{
             borderTop: "1px solid lightgrey",
+            borderBottom: "1px solid lightgrey",
             paddingTop: "2rem",
+            paddingBottom: "2rem",
             marginTop: "5rem",
+            marginBottom: "5rem",
             textAlign: "center",
           }}
         >
