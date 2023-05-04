@@ -66,7 +66,7 @@ export default function HomepageFeatures(): JSX.Element {
           <div className="col margin-bottom--xl">
             <h2 className="font--xl">Bio</h2>
             <p className="font--lg margin-bottom--lg">
-              Balaji is a Lead Frontend Developer with over 9 years of
+              Balaji is a Lead Frontend Developer with over 10 years of
               experience in the IT industry. He is currently working at Sabre, a
               global technology company that powers the world's travel industry.
               He has a strong background in JavaScript, TypeScript, React JS,

@@ -7,7 +7,7 @@ authors: [dhbalaji]
 slug: /groww-app-user-meetings
 ---
 
-![Groww welcome photo](../assets/groww-welcome-photo.jpg)
+![Groww welcome photo](../assets/groww-welcome-photo.webp)
 
 Post covid, I do not attend in person meetings. Hey Covid, you added bunch of excuses to the list. I do not use Groww app however I decided to attend this meeting to hear the financial jargon. This meeting was first of its kind, a meeting about finances is not something that happens often in upcoming cities.
 
@@ -17,7 +17,7 @@ The venue was in district headquarters or Taluk. The hotel was in a decent locat
 
 There was a small stage suitable for one speaker to stand and present his contents to a room of 50 to 75 people.
 
-![](../assets/groww-stage.jpg)
+![](../assets/groww-stage.webp)
 
 I reached the venue first, and it was an empty room but towards the end, the hall was full.
 
