@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import Prism from "prismjs";
+import Link from '@docusaurus/Link';
 
 import styles from "./styles.module.css";
 const whoami = `{
@@ -53,7 +54,9 @@ export default function HomepageFeatures(): JSX.Element {
           <h2>Certifications</h2>
           <ul>
             <li style={{ listStyle: "none" }}>
-              <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72350171" alt="Google analytics" />
+            <Link to="docs/certifications/marketing/GA4">
+              <img src={"img/ga4-certified.png"} alt="Google analytics" />
+              </Link>
             </li>
           </ul>
         </section>

@@ -4,13 +4,17 @@ In April 2023, I got Google Analytics 4 certified. Here is the proof and the cre
 
 Upon completion, you receive a certificate which is valid for an year
 
-![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72350171)
+![GA4 Certified certificate](./assets/ga4-certificate.png)
 
 and you would receive a badge that can be used on email signatures, resumes, ppt, etc.
 
-![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72350171)
+![GA4 certified round image](./assets/ga4-certified.png)
 
 Let us get into the details of the certification and the process behind it.
+
+## What is Google Analytics
+
+Google Analytics is a free web analytics service provided by Google that tracks and reports website traffic. It is a powerful tool for website owners, marketers, and analysts to understand user behavior and optimize website performance. Google Analytics collects data such as the number of visitors, their demographics, the sources of their traffic, the pages they visit, and the actions they take on the website. This information can be used to make data-driven decisions about website design, content, and marketing strategies. With Google Analytics, you can measure your website's performance, track your marketing campaigns, and gain insights into your audience, all of which can help you achieve your business goals.
 
 ## What is Google Analytics 4 certification about?
 
