@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import Prism from "prismjs";
 import Link from "@docusaurus/Link";
+import classnames from "classnames";
 
 import styles from "./styles.module.css";
 
@@ -11,26 +12,13 @@ const whoami = `{
     "email": "balaji@dhbalaji.dev",
     "role": "lead frontend developer at Sabre.",
     "location": "Bangalore, India",
-    "experience": "9+ years",
     "skills": [
       "JavaScript",
       "TypeScript",
       "React JS",
       "Web Analytics",
       "Accessibility",
-    ],
-    "domains": [
-      "Enterprise Design Language",
-      "E-commerce",
-      "Fin-tech",
-      "Enterprise application development"
-    ],
-    "education": ["BE, PES University"],
-    "work_experience": [
-      "Sabre",
-      "Landmark Group",
-      "Rare mile tech",
-      "Tata Consultancy Services"
+      "Public Speaking"
     ]
 }`;
 
@@ -39,55 +27,76 @@ export default function HomepageFeatures(): JSX.Element {
     Prism.highlightAll();
   }, []);
   return (
-    <section className={styles.features}>
+    <>
+      <header className={classnames("hero hero--primary", styles.heroBanner)}>
+        <div className="container">
+          <h1 className="hero__title">{"Balaji"}</h1>
+          <p className={classnames("hero__subtitle", styles.subTitle)}>
+            {
+              "A seasoned Frontend Engineer, Design Technologist, and Developer Evangelist who excels in the art of oratory and savors the written word of non-fiction!"
+            }
+          </p>
+          <div className={styles.buttons}>
+            <a
+              className={classnames(
+                "button button--outline button--secondary button--lg",
+                styles.getStarted
+              )}
+              href={"/files/dhbalaji-frontend-short-resume-v23-05-11.pdf"}
+              target="_blank"
+            >
+              Resume
+            </a>
+          </div>
+        </div>
+      </header>
+
       <div className="container">
-        <article className="whoami">
-          <div className={"grid-container"}>
-            <div className={"grid-item-left"}>whoami</div>
-            <div className={"grid-item-right"}>
-              <pre>
-                <code className="language-js">{whoami}</code>
-              </pre>
+        <div className="row margin-top--xl ">
+          <div className="col margin-bottom--xl">
+            <h2 className="font--xl">Bio</h2>
+            <p className="font--lg">
+              Balaji is a Lead Frontend Developer with 9+ years of experience in
+              the IT industry. He is currently working at Sabre, a global
+              technology company that powers the world's travel industry. Balaji
+              has a strong background in JavaScript, TypeScript, React JS, Web
+              Analytics, and Accessibility. He is also proficient in Enterprise
+              Design Language, E-commerce, Fin-tech, and Enterprise application
+              development. Balaji has a BE degree from PES University. He has
+              worked at Sabre, Landmark Group, Rare mile tech, and Tata
+              Consultancy Services.
+            </p>
+            <div className="row text--center">
+              <a
+                className={
+                  "col--3 col--offset-1 button button--primary button--md"
+                }
+                href="files/dhbalaji-frontend-detailed-resume-v23-05-11.pdf"
+                target="_blank"
+              >
+                Download Detailed Resume
+              </a>
+              <a
+                className={classnames(
+                  "col--3 col--offset-1 button button--primary button--md"
+                )}
+                href={"/files/dhbalaji-frontend-short-resume-v23-05-11.pdf"}
+                target="_blank"
+              >
+                Download Short Resume
+              </a>
             </div>
           </div>
-        </article>
-        <section
-          style={{
-            paddingTop: "2rem",
-            paddingBottom: "1rem",
-            textAlign: "center",
-          }}
-        >
-          <p>
-            I have compiled a{" "}
-            <a href="/news">list of newsletters, podcasts, and videos</a> that
-            will keep you up-to-date on the latest frontend technologies.
-          </p>
-        </section>
-        <section>
-          <ul style={{ textAlign: "center" }}>
-            <li style={{ listStyle: "none" }}>
-              <Link to="docs/certifications/marketing/GA4">
-                <img src={"img/ga4-certified.png"} alt="Google analytics" />
-              </Link>
-            </li>
-          </ul>
-        </section>
-        <section className={styles.mtop2}>
-          <div className={styles.flexContainer}>
-            <button
-              className={"clean-btn button button--primary margin-left--md"}
-            >
-              Short Resume
-            </button>
-            <button
-              className={"clean-btn button button--primary margin-right--md"}
-            >
-              Detailed Resume
-            </button>
+          <div className="col margin-bottom--xl">
+            <h2 className="font--xl">
+              <code>whoami</code>
+            </h2>
+            <pre>
+              <code className="language-js">{whoami}</code>
+            </pre>
           </div>
-        </section>
+        </div>
       </div>
-    </section>
+    </>
   );
 }

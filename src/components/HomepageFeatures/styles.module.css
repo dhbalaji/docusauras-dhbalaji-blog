@@ -20,3 +20,37 @@
     margin-top: 2rem;
     margin-bottom: 1rem;
 }
+
+.heroBanner {
+    padding: 4rem 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 966px) {
+    .heroBanner {
+        padding: 2rem;
+    }
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subTitle {
+    padding: 0;
+}
+
+@media screen and (min-width: 966px) {
+    .subTitle {
+        padding: 0 10rem !important;
+    }
+}
+
+.featureImage {
+    height: 200px;
+    width: 200px;
+}

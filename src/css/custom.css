@@ -94,3 +94,24 @@
 .token.operator {
     background: none !important;
 }
+
+
+.font--xs {
+    font-size: 0.8rem;
+}
+
+.font--md {
+    font-size: 1rem;
+}
+
+.font--lg {
+    font-size: 1.5rem;
+}
+
+.font--xl {
+    font-size: 2rem;
+}
+
+.font--xxl {
+    font-size: 3rem;
+}
