@@ -1,19 +1,37 @@
 import React, { useEffect } from "react";
 import Prism from "prismjs";
-import Link from '@docusaurus/Link';
+import Link from "@docusaurus/Link";
 
 import styles from "./styles.module.css";
+
 const whoami = `{
-  name: "Balaji",
-  skilledAt: [
-    "Frontend Consulting",
-    "Technical Speaker"
-  ],
-  tags: [
-    "Lead Frontend Engineer",
-    "React Design Systems"
-  ],
-  location: "Bangalore, India",
+    "id": 1234567890,
+    "name": "Balaji",
+    "username": "dhbalaji",
+    "email": "balaji@dhbalaji.dev",
+    "role": "lead frontend developer at Sabre.",
+    "location": "Bangalore, India",
+    "experience": "9+ years",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React JS",
+      "Web Analytics",
+      "Accessibility",
+    ],
+    "domains": [
+      "Enterprise Design Language",
+      "E-commerce",
+      "Fin-tech",
+      "Enterprise application development"
+    ],
+    "education": ["BE, PES University"],
+    "work_experience": [
+      "Sabre",
+      "Landmark Group",
+      "Rare mile tech",
+      "Tata Consultancy Services"
+    ]
 }`;
 
 export default function HomepageFeatures(): JSX.Element {
@@ -35,30 +53,39 @@ export default function HomepageFeatures(): JSX.Element {
         </article>
         <section
           style={{
-            borderTop: "1px solid lightgrey",
-            borderBottom: "1px solid lightgrey",
             paddingTop: "2rem",
             paddingBottom: "1rem",
-            marginTop: "5rem",
-            marginBottom: "4rem",
             textAlign: "center",
           }}
         >
           <p>
-            Here are my{" "}
-            <a href="/news">compilation of newsletters, podcasts and videos</a>{" "}
-            to keep you updated in frontend technologies
+            I have compiled a{" "}
+            <a href="/news">list of newsletters, podcasts, and videos</a> that
+            will keep you up-to-date on the latest frontend technologies.
           </p>
         </section>
         <section>
-          <h2>Certifications</h2>
-          <ul>
+          <ul style={{ textAlign: "center" }}>
             <li style={{ listStyle: "none" }}>
-            <Link to="docs/certifications/marketing/GA4">
-              <img src={"img/ga4-certified.png"} alt="Google analytics" />
+              <Link to="docs/certifications/marketing/GA4">
+                <img src={"img/ga4-certified.png"} alt="Google analytics" />
               </Link>
             </li>
           </ul>
+        </section>
+        <section className={styles.mtop2}>
+          <div className={styles.flexContainer}>
+            <button
+              className={"clean-btn button button--primary margin-left--md"}
+            >
+              Short Resume
+            </button>
+            <button
+              className={"clean-btn button button--primary margin-right--md"}
+            >
+              Detailed Resume
+            </button>
+          </div>
         </section>
       </div>
     </section>
