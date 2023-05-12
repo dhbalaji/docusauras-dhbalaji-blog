@@ -4,7 +4,7 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
-/** @type {import('@docusaurus/types').Config} */
+/** @type {import("@docusaurus/types").Config} */
 const config = {
   title: "dhbalaji, frontend engineer | developer evangelist",
   tagline: "Sponsored by dhbalaji.dev",
@@ -25,17 +25,17 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en"]
   },
 
   presets: [
     [
       "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
+      /** @type {import("@docusaurus/preset-classic").Options} */
       ({
         docs: {
           path: "docs",
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve("./sidebars.js")
         },
         blog: {
           path: "blog",
@@ -44,66 +44,66 @@ const config = {
           blogSidebarCount: 8,
           feedOptions: {
             type: "rss",
-            title: "dhbalaji.dev feed",
-          },
+            title: "dhbalaji.dev feed"
+          }
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: require.resolve("./src/css/custom.css")
         },
         googleTagManager: {
-          containerId: 'GTM-5T8W8LD',
-        },
-      }),
+          containerId: "GTM-5T8W8LD"
+        }
+      })
     ]
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+  /** @type {import("@docusaurus/preset-classic").ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: "dark",
+        defaultMode: "dark"
       },
       navbar: {
         hideOnScroll: true,
-        title: "dhbalaji.dev",
+        title: "Home",
         items: [
           {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Notes",
+            label: "Notes"
           },
           {
             to: "/my-reads",
             label: "Reads",
-            position: "left",
+            position: "left"
           },
           {
             to: "/blog",
             label: "Blog",
-            position: "left",
+            position: "left"
           },
           {
             href: "https://github.com/dhbalaji",
             label: "GitHub",
-            position: "right",
+            position: "right"
           },
           {
             href: "https://www.linkedin.com/in/dhbalaji/",
             label: "Linkedin",
-            position: "right",
-          },
-        ],
+            position: "right"
+          }
+        ]
       },
       footer: {
         style: "dark",
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} dhbalaji.dev`,
+        copyright: `Copyright © ${new Date().getFullYear()} dhbalaji.dev`
       },
       prism: {
         theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
+        darkTheme: darkCodeTheme
+      }
     }),
   plugins: [
     [
@@ -124,15 +124,15 @@ const config = {
         path: "./my-reads",
         blogTitle: "dhbalaji non-fiction reads & book talks",
         blogSidebarCount: 8
-      },
+      }
     ],
     [
-      '@docusaurus/plugin-google-gtag',
+      "@docusaurus/plugin-google-gtag",
       {
-        trackingID: 'G-VGQ399LJC8'
-      },
-    ],
-  ],
+        trackingID: "G-VGQ399LJC8"
+      }
+    ]
+  ]
 };
 
 module.exports = config;

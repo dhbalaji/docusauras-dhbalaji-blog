@@ -97,7 +97,7 @@
 
 
 .font--xs {
-    font-size: 0.8rem;
+    font-size: 0.75rem;
 }
 
 .font--md {
@@ -105,13 +105,13 @@
 }
 
 .font--lg {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
 
 .font--xl {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .font--xxl {
-    font-size: 3rem;
+    font-size: 2rem;
 }

@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import Prism from "prismjs";
-import Link from "@docusaurus/Link";
 import classnames from "classnames";
 
 import styles from "./styles.module.css";
@@ -10,14 +9,11 @@ const whoami = `{
     "name": "Balaji",
     "username": "dhbalaji",
     "email": "balaji@dhbalaji.dev",
-    "role": "lead frontend developer at Sabre.",
+    "role": "lead frontend developer",
     "location": "Bangalore, India",
     "skills": [
-      "JavaScript",
-      "TypeScript",
-      "React JS",
-      "Web Analytics",
-      "Accessibility",
+      "React Apps",
+      "Design Language",
       "Public Speaking"
     ]
 }`;
@@ -30,7 +26,7 @@ export default function HomepageFeatures(): JSX.Element {
     <>
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{"Balaji"}</h1>
+          <h1 className="hero__title">{"Hi, Balaji here!"}</h1>
           <p className={classnames("hero__subtitle", styles.subTitle)}>
             {
               "A seasoned Frontend Engineer, Design Technologist, and Developer Evangelist who excels in the art of oratory and savors the written word of non-fiction!"
@@ -55,35 +51,25 @@ export default function HomepageFeatures(): JSX.Element {
         <div className="row margin-top--xl ">
           <div className="col margin-bottom--xl">
             <h2 className="font--xl">Bio</h2>
-            <p className="font--lg">
-              Balaji is a Lead Frontend Developer with 9+ years of experience in
-              the IT industry. He is currently working at Sabre, a global
-              technology company that powers the world's travel industry. Balaji
-              has a strong background in JavaScript, TypeScript, React JS, Web
-              Analytics, and Accessibility. He is also proficient in Enterprise
-              Design Language, E-commerce, Fin-tech, and Enterprise application
-              development. Balaji has a BE degree from PES University. He has
-              worked at Sabre, Landmark Group, Rare mile tech, and Tata
-              Consultancy Services.
+            <p className="font--lg margin-bottom--lg">
+              Balaji is a Lead Frontend Developer with over 9 years of
+              experience in the IT industry. He is currently working at Sabre, a
+              global technology company that powers the world's travel industry.
+              He has a strong background in JavaScript, TypeScript, React JS,
+              Web Analytics, and Accessibility. He is also proficient in
+              Enterprise Design Language, E-commerce, Fin-tech, and Enterprise
+              application development. Balaji has a BE degree from PES
+              University. He has worked at Sabre, Landmark Group, Rare mile
+              tech, and Tata Consultancy Services. He is a lifelong learner who
+              enjoys reading books and cycling in peaceful countryside.
             </p>
-            <div className="row text--center">
+            <div className={"text--center"}>
               <a
-                className={
-                  "col--3 col--offset-1 button button--primary button--md"
-                }
+                className={"button button--primary button--md font-md"}
                 href="files/dhbalaji-frontend-detailed-resume-v23-05-11.pdf"
                 target="_blank"
               >
                 Download Detailed Resume
-              </a>
-              <a
-                className={classnames(
-                  "col--3 col--offset-1 button button--primary button--md"
-                )}
-                href={"/files/dhbalaji-frontend-short-resume-v23-05-11.pdf"}
-                target="_blank"
-              >
-                Download Short Resume
               </a>
             </div>
           </div>
@@ -91,9 +77,20 @@ export default function HomepageFeatures(): JSX.Element {
             <h2 className="font--xl">
               <code>whoami</code>
             </h2>
-            <pre>
+            <pre className={"margin-bottom--lg"}>
               <code className="language-js">{whoami}</code>
             </pre>
+            <div className={"text--center"}>
+              <a
+                className={classnames(
+                  "button button--primary button--md font-md"
+                )}
+                href={"/files/dhbalaji-frontend-short-resume-v23-05-11.pdf"}
+                target="_blank"
+              >
+                Download Short Resume
+              </a>
+            </div>
           </div>
         </div>
       </div>
