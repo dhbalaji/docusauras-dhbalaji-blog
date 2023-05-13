@@ -1,8 +1,9 @@
 import React, { useEffect } from "react";
 import Prism from "prismjs";
 import classnames from "classnames";
-
-import styles from "./styles.module.css";
+import styles from "./styles.module.scss";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 const whoami = `{
     "id": 1234567890,
@@ -22,14 +23,19 @@ export default function HomepageFeatures(): JSX.Element {
   useEffect(() => {
     Prism.highlightAll();
   }, []);
+
+  const {
+    siteConfig: { customFields },
+  } = useDocusaurusContext();
+
   return (
     <>
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{"Hi, Balaji here!"}</h1>
+          <h1 className="hero__title">{"Hi, I'm Balaji"}</h1>
           <p className={classnames("hero__subtitle", styles.subTitle)}>
             {
-              "Meet the Senior Frontend Engineer, Design Technologist, Developer Evangelist, Charismatic Speaker and Eclectic Reader"
+              "Professional Frontend Engineer, Design Technologist, Developer Evangelist, Charismatic Speaker and Eclectic Reader"
             }
           </p>
           <div className={styles.buttons}>
@@ -38,11 +44,19 @@ export default function HomepageFeatures(): JSX.Element {
                 "button button--outline button--secondary button--lg",
                 styles.getStarted
               )}
-              href={"/files/dhbalaji-frontend-short-resume-v23-05-11.pdf"}
+              href={customFields.singlePageResume}
               target="_blank"
             >
               Resume
             </a>
+            <Link
+              className={classnames(
+                "button button--outline button--secondary button--lg"
+              )}
+              href={"/docs/portfolio"}
+            >
+              Portfolio
+            </Link>
           </div>
         </div>
       </header>
@@ -66,7 +80,7 @@ export default function HomepageFeatures(): JSX.Element {
             <div className={"text--center"}>
               <a
                 className={"button button--primary button--md font-md"}
-                href="files/dhbalaji-frontend-detailed-resume-v23-05-11.pdf"
+                href={customFields.detailedResume}
                 target="_blank"
               >
                 Download Detailed Resume
@@ -85,7 +99,7 @@ export default function HomepageFeatures(): JSX.Element {
                 className={classnames(
                   "button button--primary button--md font-md"
                 )}
-                href={"/files/dhbalaji-frontend-short-resume-v23-05-11.pdf"}
+                href={customFields.singlePageResume}
                 target="_blank"
               >
                 Download Short Resume

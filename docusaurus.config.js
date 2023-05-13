@@ -25,7 +25,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"]
+    locales: ["en"],
   },
 
   presets: [
@@ -35,7 +35,7 @@ const config = {
       ({
         docs: {
           path: "docs",
-          sidebarPath: require.resolve("./sidebars.js")
+          sidebarPath: require.resolve("./sidebars.js"),
         },
         blog: {
           path: "blog",
@@ -44,24 +44,24 @@ const config = {
           blogSidebarCount: 8,
           feedOptions: {
             type: "rss",
-            title: "dhbalaji.dev feed"
-          }
+            title: "dhbalaji.dev feed",
+          },
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css")
+          customCss: require.resolve("./src/css/custom.css"),
         },
         googleTagManager: {
-          containerId: "GTM-5T8W8LD"
-        }
-      })
-    ]
+          containerId: "GTM-5T8W8LD",
+        },
+      }),
+    ],
   ],
 
   themeConfig:
-  /** @type {import("@docusaurus/preset-classic").ThemeConfig} */
+    /** @type {import("@docusaurus/preset-classic").ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: "dark"
+        defaultMode: "dark",
       },
       navbar: {
         hideOnScroll: true,
@@ -71,39 +71,39 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Notes"
+            label: "Workspace",
           },
           {
             to: "/my-reads",
             label: "Reads",
-            position: "left"
+            position: "left",
           },
           {
             to: "/blog",
             label: "Blog",
-            position: "left"
+            position: "left",
           },
           {
             href: "https://github.com/dhbalaji",
             label: "GitHub",
-            position: "right"
+            position: "right",
           },
           {
             href: "https://www.linkedin.com/in/dhbalaji/",
             label: "Linkedin",
-            position: "right"
-          }
-        ]
+            position: "right",
+          },
+        ],
       },
       footer: {
         style: "dark",
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} dhbalaji.dev`
+        copyright: `Copyright © ${new Date().getFullYear()} dhbalaji.dev`,
       },
       prism: {
         theme: lightCodeTheme,
-        darkTheme: darkCodeTheme
-      }
+        darkTheme: darkCodeTheme,
+      },
     }),
   plugins: [
     [
@@ -123,16 +123,32 @@ const config = {
          */
         path: "./my-reads",
         blogTitle: "dhbalaji non-fiction reads & book talks",
-        blogSidebarCount: 8
-      }
+        blogSidebarCount: 8,
+      },
     ],
     [
       "@docusaurus/plugin-google-gtag",
       {
-        trackingID: "G-VGQ399LJC8"
-      }
-    ]
-  ]
+        trackingID: "G-VGQ399LJC8",
+      },
+    ],
+    "docusaurus-plugin-sass",
+    [
+      "@docusaurus/plugin-ideal-image",
+      {
+        quality: 70,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. if original is lower, use that size.
+        steps: 2, // the max number of images generated between min and max (inclusive)
+        disableInDev: false,
+      },
+    ],
+  ],
+  customFields: {
+    // Put your custom environment here
+    detailedResume: "/files/dhbalaji-frontend-detailed-resume-v23-05-11.pdf",
+    singlePageResume: "/files/dhbalaji-frontend-short-resume-v23-05-11.pdf",
+  },
 };
 
 module.exports = config;
