@@ -26,7 +26,5 @@ preparation. Candidates should still study the relevant textbooks and materials,
 practical experience in the field. However, the study notes section can supplement these efforts by providing additional
 study materials, tips, and strategies.
 
-## Work notes
-
 
 
