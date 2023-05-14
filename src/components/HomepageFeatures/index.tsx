@@ -44,6 +44,7 @@ export default function HomepageFeatures(): JSX.Element {
                 "button button--outline button--secondary button--lg",
                 styles.getStarted
               )}
+              style={{ display: "none" }}
               href={customFields.singlePageResume}
               target="_blank"
             >
