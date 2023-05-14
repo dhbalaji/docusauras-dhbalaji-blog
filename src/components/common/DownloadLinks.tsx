@@ -1,22 +1,30 @@
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import React from "react";
 
-function ResumeDownloadLinks() {
+type ResumeDownload = {
+  isInLine: boolean;
+};
+
+function ResumeDownloadLinks({ isInLine = true }: ResumeDownload): JSX.Element {
   const {
     siteConfig: { customFields },
   } = useDocusaurusContext();
 
+  const Wrapper = isInLine ? "span" : "p";
+  const downloadText = isInLine ? "download" : "Download";
+
   return (
-    <p>
-      Download{" "}
+    <Wrapper>
+      {downloadText}{" "}
       <a href={customFields.detailedResume} target="_blank">
-        Detailed Resume
+        detailed resume
       </a>{" "}
-      |{" "}
+      or{" "}
       <a href={customFields.singlePageResume} target="_blank">
-        Short Resume
-      </a>
-    </p>
+        short resume
+      </a>{" "}
+      pdf.
+    </Wrapper>
   );
 }
 
