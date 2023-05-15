@@ -41,7 +41,7 @@ export default function HomepageFeatures(): JSX.Element {
           <div className={styles.buttons}>
             <a
               className={classnames(
-                "button button--outline button--secondary button--lg",
+                "button button--secondary button--lg",
                 styles.getStarted
               )}
               style={{ display: "none" }}
@@ -51,12 +51,10 @@ export default function HomepageFeatures(): JSX.Element {
               Resume
             </a>
             <Link
-              className={classnames(
-                "button button--outline button--secondary button--lg"
-              )}
+              className={classnames("button button--secondary button--lg")}
               href={"/docs/portfolio"}
             >
-              Portfolio
+              Portfolio ☆
             </Link>
           </div>
         </div>
@@ -103,7 +101,7 @@ export default function HomepageFeatures(): JSX.Element {
                 href={customFields.singlePageResume}
                 target="_blank"
               >
-                Download Short Resume
+                Download One Page Resume
               </a>
             </div>
           </div>

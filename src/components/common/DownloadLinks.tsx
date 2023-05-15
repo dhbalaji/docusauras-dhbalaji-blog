@@ -17,11 +17,11 @@ function ResumeDownloadLinks({ isInLine = true }: ResumeDownload): JSX.Element {
     <Wrapper>
       {downloadText}{" "}
       <a href={customFields.detailedResume} target="_blank">
-        detailed resume
+        Detailed resume
       </a>{" "}
       or{" "}
       <a href={customFields.singlePageResume} target="_blank">
-        short resume
+        One page resume
       </a>{" "}
       pdf.
     </Wrapper>
