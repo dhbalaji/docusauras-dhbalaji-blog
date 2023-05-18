@@ -115,3 +115,9 @@
 .font--xxl {
     font-size: 2rem;
 }
+
+.pull-bottom {
+    position: fixed;
+    bottom: 1rem;
+    width: 10rem;
+}
