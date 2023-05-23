@@ -82,7 +82,7 @@ export default function HomepageFeatures(): JSX.Element {
                 href={customFields.detailedResume}
                 target="_blank"
               >
-                Download Detailed Resume
+                Descriptive Resume
               </a>
             </div>
           </div>
@@ -101,7 +101,7 @@ export default function HomepageFeatures(): JSX.Element {
                 href={customFields.singlePageResume}
                 target="_blank"
               >
-                Download One Page Resume
+                One Page Resume
               </a>
             </div>
           </div>

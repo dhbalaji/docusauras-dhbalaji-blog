@@ -146,8 +146,8 @@ const config = {
   ],
   customFields: {
     // Put your custom environment here
-    detailedResume: "/files/dhbalaji-frontend-detailed-resume-v23-05-15.pdf",
-    singlePageResume: "/files/dhbalaji-frontend-short-resume-v23-05-15.pdf",
+    detailedResume: "/files/dhbalaji-lead-frontend-lg-v23052023.pdf",
+    singlePageResume: "/files/dhbalaji-lead-frontend-sm-v23052023.pdf",
   },
 };
 
