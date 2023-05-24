@@ -70,39 +70,91 @@ const config = {
           {
             type: "doc",
             docId: "intro",
-            position: "left",
+            position: "right",
             label: "Workspace",
           },
           {
             to: "/my-reads",
             label: "Reads",
-            position: "left",
+            position: "right",
           },
           {
             to: "/blog",
             label: "Blog",
-            position: "left",
-          },
-          {
-            href: "https://github.com/dhbalaji",
-            label: "GitHub",
             position: "right",
-          },
-          {
-            href: "https://www.linkedin.com/in/dhbalaji/",
-            label: "Linkedin",
-            position: "right",
-          },
+          }
         ],
       },
       footer: {
         style: "dark",
-        links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} dhbalaji.dev`,
+        links: [
+          {
+            title: "Technical",
+            items: [
+              {
+                label: "Portfolio",
+                to: "docs/portfolio"
+              },
+              {
+                label: "Certifications",
+                to: "docs/certifications/marketing/GA4"
+              },
+              {
+                label: "Notes",
+                to: "docs/Notes/accessibility/notes"
+              }
+            ]
+          },
+          {
+            title: "Non Technical",
+            items: [
+              {
+                label: "Reads",
+                to: "my-reads"
+              },
+              {
+                label: "Blog",
+                to: "blog"
+              },
+              {
+                label: "Youtube",
+                href: "https://www.youtube.com/channel/UCH1nhBYxxLLXUHO6TdOTcQA"
+              }
+            ]
+          },
+          {
+            title: "Contact me",
+            items: [
+              {
+                label: "Email",
+                href: "mailto:balaji@dhbalaji.dev"
+              },
+              {
+                label: "Linkedin",
+                href: "https://www.linkedin.com/in/dhbalaji/"
+              },
+              {
+                label: "Github",
+                href: "https://www.github.com/dhbalaji/"
+              }
+            ]
+          }
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} dhbalaji.dev`
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        appId: "9TX3UC8FQ4",
+        apiKey: "e9a6c8006bc03be4f3e58123b0293e8a",
+        indexName: "dhbalaji",
+        contextualSearch: true,
+        searchParameters: {},
+        searchPagePath: false,
+        disableUserPersonalization: true,
+        placeholder: "Search Site"
       },
     }),
   plugins: [
@@ -124,6 +176,7 @@ const config = {
         path: "./my-reads",
         blogTitle: "dhbalaji non-fiction reads & book talks",
         blogSidebarCount: 8,
+        showReadingTime: true,
       },
     ],
     [
