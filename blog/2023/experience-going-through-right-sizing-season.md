@@ -6,6 +6,8 @@ date: 2023-05-24 15:30:22
 authors: [ dhbalaji ]
 ---
 
+Here is a short memoir about the right sizing function happening at all major organizations in 2023.
+
 ![](../assets/no-vaccancies.webp)
 
 ## Businesses Cycles are Real
