@@ -1,5 +1,5 @@
 ---
-title: Lets talk money by Monika Halan, personal financial genre
+title: Lets talk money by Monika Halan, personal finance genre
 date: 2023-07-24 15:30:00
 og-title: booktalk on Lets talk money by Monika Halan
 og-image: './assets/the-minimalist-home.jpg'
