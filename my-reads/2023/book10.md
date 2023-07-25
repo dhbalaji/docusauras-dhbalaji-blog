@@ -2,7 +2,7 @@
 title: The Minimalist Home by Joshua Becker
 date: 2023-01-08 15:30:00
 og-title: booktalk on The Minimalist Home by Joshua Becker
-og-image: './assets/the-minimalist-home.jpg'
+og-image: './assets/the-minimalist-home.webp'
 description: booktalk on The Minimalist Home by Joshua Becker.
 slug: 10
 ---

@@ -2,7 +2,7 @@
 title: Stock Market Investing for Beginners Essentials to Start Investing Successfully by Tycho Press
 date: 2023-01-14 15:30:00
 og-title: booktalk on Stock Market Investing for Beginners Essentials to Start Investing Successfully by Tycho Press
-og-image: './assets/the-minimalist-home.jpg'
+og-image: './assets/stock-market-investing.webp'
 description: booktalk on Stock Market Investing for Beginners Essentials to Start Investing Successfully by Tycho Press
 slug: 11
 ---
