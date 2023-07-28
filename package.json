@@ -1,6 +1,6 @@
 {
-  "name": "blog2",
-  "version": "0.0.1",
+  "name": "docusaurus-blog",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -37,7 +37,7 @@
     "cross-env": "^7.0.3",
     "docusaurus-plugin-sass": "^0.2.3",
     "sass": "^1.62.1",
-    "typescript": "^4.9.4"
+    "typescript": "^5.1.6"
   },
   "browserslist": {
     "production": [
