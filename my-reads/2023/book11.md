@@ -34,7 +34,7 @@ Some topics from the fundamental and technical analysis are touched upon.
 
 Frankly speaking, there isn't a face behind the book or a page thanking mother/wife, etc. This book is published by a corporate author. That's all we know.
 
-This is good in one way because we do not have to emphasize their anecdotes. We can read the facts and go ahead.
+This is good in one way because we do not have to emphatize with their anecdotes. We can read the facts and go ahead.
 
 ## Top ideas from the book
 
