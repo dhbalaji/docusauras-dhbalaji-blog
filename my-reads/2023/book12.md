@@ -1,9 +1,9 @@
 ---
-title: Lets talk money by Monika Halan, personal finance genre
+title: Lets talk mutual funds by Monika Halan, personal finance genre
 date: 2023-07-24 15:30:00
-og-title: booktalk on Lets talk money by Monika Halan
+og-title: booktalk on Lets talk mutual funds by Monika Halan
 og-image: './assets/lets-talk-mutual-fund.webp'
-description: booktalk on Lets talk money by Monika Halan
+description: booktalk on Lets talk mutual funds by Monika Halan
 slug: 12
 ---
 
