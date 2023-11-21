@@ -16,9 +16,9 @@ Channel: [Book Talks by Balaji on YouTube](https://www.youtube.com/@booktalksbyb
 
 ## Frontend Hut
 
-Objective: To provide commentary on frontend job roles and interviews.
+Objective: To provide commentary on intern frontend job roles and interviews.
 
-In "Frontend Hut," I put the spotlight on frontend interviews. Here, I offer commentary on job descriptions within the frontend industry, share insights into the frontend interview process, and provide tips for interview preparation. If you're looking to navigate the world of frontend development and job interviews more effectively, this channel is designed with you in mind.
+In "Frontend Hut," I put the spotlight on intern frontend interviews. Here, I offer commentary on job descriptions within the frontend industry, share insights into the frontend interview process, and provide tips for interview preparation. If you're looking to navigate the world of frontend development and job interviews more effectively, this channel is designed with you in mind.
 
 Channel: [Frontend Hut on YouTube](https://www.youtube.com/@FrontendHut/featured)
 
