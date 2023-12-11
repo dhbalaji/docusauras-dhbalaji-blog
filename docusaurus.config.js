@@ -71,7 +71,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "right",
-            label: "Workspace",
+            label: "Portfolio",
           },
           {
             to: "/my-reads",
@@ -115,10 +115,6 @@ const config = {
               {
                 label: "Blog",
                 to: "blog"
-              },
-              {
-                label: "Youtube",
-                href: "https://www.youtube.com/channel/UCH1nhBYxxLLXUHO6TdOTcQA"
               }
             ]
           },
