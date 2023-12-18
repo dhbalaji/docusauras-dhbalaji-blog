@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import("@docusaurus/types").Config} */
 const config = {
-  title: "dhbalaji, frontend engineer | developer evangelist",
+  title: "dhbalaji, Lead Frontend Engineer",
   tagline: "Sponsored by dhbalaji.dev",
   url: "https://dhbalaji.dev",
   baseUrl: "/",

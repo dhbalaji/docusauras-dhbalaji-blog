@@ -1,5 +1,5 @@
 ---
-title: Employer Assessment Checklist
+title: Employer Assessment Checklist (India)
 ---
 # Choosing the Right Workplace: A Comprehensive Checklist for Job Seekers
 
@@ -20,6 +20,7 @@ Use the later rounds of the interview to gather information related to the job y
 3. Meet your future coworkers or know the team profile
 4. Negotiate your Job offer terms
 5. Ask for employee manual
+6. Check if its a true equal opportunity employer
 
 Here are few items that you need to research post interview
 
@@ -106,6 +107,7 @@ Here are few items that you need to research post interview
     * Career needs and career plan alignment
     * Is this a new job or replacement (collect the reason during interview)
     * Do you have friend or past coworker working there (useful to collect information at personal level)
+    * Travel requirements
     * Daycare for kids
     * Medical support tie-ups
     * Volunteering
