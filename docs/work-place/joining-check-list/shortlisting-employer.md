@@ -1,5 +1,7 @@
 ---
 title: Employer Assessment Checklist (India)
+description: Embarking on a new career journey is a pivotal moment in one's life, and selecting the right employer is crucial for long-term satisfaction and success. This checklist will help you access your next employer.
+
 ---
 # Choosing the Right Workplace: A Comprehensive Checklist for Job Seekers
 
