@@ -123,3 +123,12 @@ Remember, this checklist is not merely a static tool but a dynamic guide that sh
 In the pursuit of professional fulfillment, the holistic evaluation of a company's structure, leadership, financial health, social media presence, growth prospects, and cultural nuances empowers you to make a choice that resonates with your long-term goals. LinkedIn, a powerful networking platform, can further aid in leveraging your professional connections to gain valuable insights into the company culture.
 
 As you embark on this journey, may your career decisions be not just jobs but stepping stones toward a gratifying and harmonious professional future. Best of luck in choosing the workplace that aligns seamlessly with your ambitions and values.
+
+
+## Questions for thought
+
+1. Should I have multiple job offers in hand while making a switch?
+2. Should I fixate on a reputed company and scout for opportunities to get in?
+3. Should I choose little known job profiles or go for mainstream jobs?
+4. Should I make a career transition and job hunt accordingly?
+5. Should I accept offers for jobs where job requirements are overwhelming but salary is not at par?
