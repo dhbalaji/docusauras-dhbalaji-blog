@@ -23,7 +23,7 @@ The laptop keyboard is a critical input device. It's also prone to issues like t
 
 ## How to change the registry to change delete button functionality with other
 
-1. Download `sharpkeys` software. Its a freeware. Visit <https://github.com/randyrants/sharpkeys>
+1. Download `sharpkeys` software. Its a freeware. Visit <a href="https://github.com/randyrants/sharpkeys">Github Repo</a>
 
 2. Asks for admin permission, grant it. It's your personal computer and you want to edit the registry on Windows OS
 

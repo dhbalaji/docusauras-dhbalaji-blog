@@ -80,7 +80,7 @@ I did not find this setup appealing because the configuration file is quite leng
 
 3. CSS 
 
-Refer <https://github.com/gsoft-inc/craco/blob/master/packages/craco/README.md#configuration-file>
+Refer <a href="https://github.com/gsoft-inc/craco/blob/master/packages/craco/README.md#configuration-file">Github Repo</a>
 
 I still tried craco with Purge CSS with React CRA without ejecting. Still, the build system was not working.
 
@@ -90,4 +90,4 @@ I tried to run PostCSS with purgeCSS on top of the build folder contents. Alas s
 
 It is still a work in progress. I will keep you posted when I have a breakthrough.
 
-Till then keep referring to stack overflow <https://stackoverflow.com/questions/tagged/css-purge?sort=unanswered>
+Till then keep referring to stack overflow <a href="https://stackoverflow.com/questions/tagged/css-purge?sort=unanswered">Stackoverflow</a>

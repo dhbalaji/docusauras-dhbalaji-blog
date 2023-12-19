@@ -3,6 +3,8 @@ title: Employer Assessment Checklist (India)
 ---
 # Choosing the Right Workplace: A Comprehensive Checklist for Job Seekers
 
+![Job Interview Success](/img/docs/job-interview.jpg)
+
 ## Introduction
 
 Embarking on a new career journey is a pivotal moment in one's life, and selecting the right employer is crucial for long-term satisfaction and success. Joining a company that aligns with your lifestyle and values is essential to avoiding the pitfalls of discontent and frequent job hopping. To empower job seekers in making informed decisions, I've crafted a comprehensive checklist encompassing five key categories.

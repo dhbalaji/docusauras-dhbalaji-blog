@@ -42,7 +42,7 @@ Overall, we are engineering a lot of code to run efficiently on the browser. It 
 
 2. We need a more powerful server-side infrastructure because sending JSON data via API is less memory & CPU consuming than sending the whole page to the client
 
-{% asset_img server-side-infra.jpg server-infra for server-side rendering %}
+<!-- ![server-infra for server-side rendering](./assets/server-side-infra.jpg) -->
 
 ## Client-side or Server-side rendering? Which one triumph?
 

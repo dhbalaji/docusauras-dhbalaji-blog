@@ -60,4 +60,4 @@ if (navigator.connection.saveData) {
 
 ## How to know more about "Chrome lite mode"?
 
-You should google for "Google data compression proxy". A detailed article can be found at <https://research.google/pubs/pub43447/> but the article is outdated.
+You should google for "Google data compression proxy". A detailed article can be found at <a href="https://research.google/pubs/pub43447/">Google research</a> but the article is outdated.

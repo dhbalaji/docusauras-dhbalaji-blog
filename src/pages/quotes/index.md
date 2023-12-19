@@ -113,7 +113,7 @@ If an undertaking was easy, someone else already would have done it.
 
 Authentic leaders know that one of their primary jobs is 'to replace themselves. Mentor the next generation.
 
-A great leader stands behind his team when they succeed and in front of them when they fail {take the bullets}.
+A great leader stands behind his team when they succeed and in front of them when they fail (take the bullets).
 
 You know, sometimes all need is twenty seconds of insane courage. Just literally twenty seconds of just embarrassing bravery. And I promise you, something great will come of it. Matt Damon from We Bought A Zoo
 
@@ -524,7 +524,7 @@ career advancement
 
 "Be selfless." the number-one quality of the successful entrepreneur
 
-The decision to grow always involves a choice between risk and comfort{John Ortberg}
+The decision to grow always involves a choice between risk and comfort (John Ortberg)
 
 The choices you make today will be in your biography tomorrow
 

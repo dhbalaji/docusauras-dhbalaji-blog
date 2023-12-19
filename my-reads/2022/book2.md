@@ -67,6 +67,6 @@ This book is recommended for people who want to guard their time, build focus an
 
 ## Useful links
 
-<https://myreadforchange.com/do-it-today-book-summary-i-darius-foroux/>
+<a href="https://myreadforchange.com/do-it-today-book-summary-i-darius-foroux">Link 1</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TieI0FanmdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

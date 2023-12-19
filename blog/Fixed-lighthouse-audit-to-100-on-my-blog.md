@@ -34,7 +34,7 @@ I changed the text to "Continue reading". That fixed the problem.
 
 The SEO score raised to 100%.
 
-{% asset_img lighthouse-score-dhbalaji-fixed.webp lighthouse score%}
+![lighthouse score](./assets/lighthouse-score-dhbalaji-fixed.webp)
 
 ## How to run the lighthouse
 
