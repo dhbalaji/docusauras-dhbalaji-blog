@@ -1,10 +1,23 @@
 ---
-title: Enterprise React
+title: Enterprise React Notes
 sidebar_position: 1
-description: Contains notes from Steve Kinney testing course and others
+description: Contains notes from my experience and few other courses like Steve Kinney testing course, etc.
 ---
 
-## Enterprise Software Overview
+<head>
+  <meta charSet="utf-8" />
+  <meta property="og:title" content="Enterprise React Notes" />
+  <meta property="og:image" content="/img/docs/react-code.webp" />
+  <meta property="og:url" content="http://dhbalaji.dev/docs/Notes/enterprise-react" />
+  <meta property="og:description" content="Contains notes from my experience and few other courses like Steve Kinney testing course, etc" />
+  <meta property="og:type " content="article" />
+
+  <meta name="twitter:title" content="Enterprise React Notes" />
+  <meta name="twitter:image" content="/img/docs/react-code.webp" />
+  <meta name="twitter:description" content="Contains notes from my experience and few other courses like Steve Kinney testing course, etc" />
+</head>
+
+![React Code](/img/docs/react-code.webp)
 
 Enterprise software refers to expansive projects characterized by several key attributes:
 
@@ -127,5 +140,5 @@ The **feedback loop** acts as the crucial link connecting developers with test r
 
 > Unit testing is first line of defense
 
-
+-- To Be Continued ... --
 

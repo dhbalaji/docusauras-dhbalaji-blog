@@ -1,8 +1,21 @@
 ---
 title: Employer Assessment Checklist (India)
 description: Embarking on a new career journey is a pivotal moment in one's life, and selecting the right employer is crucial for long-term satisfaction and success. This checklist will help you access your next employer.
-
 ---
+
+<head>
+  <meta charSet="utf-8" />
+  <meta property="og:title" content="Employer Assessment Checklist (India)" />
+  <meta property="og:image" content="/img/docs/job-interview.jpg" />
+  <meta property="og:url" content="http://dhbalaji.dev/docs/work-place/joining-check-list/shortlisting-employer" />
+  <meta property="og:description" content="This checklist will help you access your next employer. Helps you decide if the company is right for you." />
+  <meta property="og:type " content="article" />
+
+  <meta name="twitter:title" content="Employer Assessment Checklist (India)" />
+  <meta name="twitter:image" content="/img/docs/job-interview.jpg" />
+  <meta name="twitter:description" content="This checklist will help you access your next employer. Helps you decide if the company is right for you." />
+</head>
+
 # Choosing the Right Workplace: A Comprehensive Checklist for Job Seekers
 
 ![Job Interview Success](/img/docs/job-interview.jpg)
