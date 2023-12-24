@@ -335,6 +335,46 @@ getData((msg: string) => {
 
 2. Promises
 
+```typescript
 
+function fetchData():Promise<string> {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            resolve("success")
+        }, 1000)
+    })
+}
+
+fetchData().then((data) => {
+    console.log(data)
+}).catch((e) => {
+    console.log(e)
+})
+```
+
+3. Async await
+
+```typescript
+async function fetchData():Promise<string> {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            resolve("success")
+        })
+    })
+}
+
+async function getData() {
+    try {
+        const data = await fetchData();
+        console.log(data); // success
+    } catch(e) {
+        console.error(e)
+    }
+}
+
+getData()
+```
 
 ## Updates to TS
+
+--- coming soon! ---
