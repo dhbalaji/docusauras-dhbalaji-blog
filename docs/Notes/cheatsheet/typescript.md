@@ -203,5 +203,138 @@ person.sayHi();
 
 1. Union types -allows multiple types `|`
 2. Intersection types - combine multiple types `&`
+3. Type aliases - create custom names for types
+4. Generics - reusable methods that can work with multiple types
+5. Module - encapsulate code into seperate files
+    - export
+    - import
+    - default export
+6. Namespace - internal modules, code organization
+7. Type inference - auto infer types of variables
+8. Type guards - infer type during runtime `typeof`
+9. Module resolution - relative path, package import
+10. Decorators - add metadata, modify the behavior of classes, methods at design time
+11. Inheritance - can `extend` classes
+12. Encapsulation - bundle related properties and methods `private`, `public` and `protected`
+13. Polymorphism - method overloading
+
+
+### Generics
+
+1. Methods
+
+```typescript
+function identity<T>(arg: T) {
+    return arg;
+}
+```
+
+2. Classes
+
+```typescript
+class Box<T> {
+    private value: T;
+
+    constructor(value: T) {
+        this.value = value;
+    }
+
+    getValue(): T {
+        return this.value;
+    }
+}
+
+let stringBox = new Box<string>("Typescript");
+console.log(stringBox.getValue());
+
+let numberBox = new Box<number>(40);
+console.log(numberBox.getValue());
+```
+
+3. Constraints with Generics
+
+```typescript
+interface LengthType {
+    length: number;
+}
+
+function getLength<T extends LengthType>(arg: T): number {
+    return arg.length
+}
+
+let arrayLength = getLength([1,2,3,4,5]);
+console.log(arrayLength);
+```
+
+### Decorators
+
+Special declaration that can be attached to classes, methods, properties or parameters. Prefixed with `@`. Executed at runtime.
+
+```typescript
+function log(target: any) {
+    console.log("target is", target);
+}
+
+@log
+class MyClass {
+    // class body
+}
+
+class MyClass {
+
+    @readonly
+    name: string = "John";
+
+    @log
+    method() {
+        // method body
+    }
+
+    method1(@dec input: string) {
+        // method body
+    }
+}
+```
+
+### metadata
+
+Attach additional data to classes, methods, properties or parameters.
+
+```typescript
+class MyClass {
+    // Set metadata
+    @Reflect.metadata("custom tag", "some data");
+    method() {
+        // method body
+    }
+}
+
+const metadata = Reflect.getMetadata("custom:tag", MyClass.prototype, "method");
+console.log(metadata); // some data
+```
+
+Useful in logging and debugging. Argument decorators can be used in input validation. Dependency injection for frameworks, routing and middleware.
+
+From architecture perspective, the above features can help in code modularity by seperating concerns.Others being readability and runtime reflection.
+
+### Async
+
+1. Callback
+
+```
+function getData(callback: (data: string) => void) {
+    setTimeout(() => {
+        callback("Hello")
+    }, 1000)
+}
+
+getData((msg: string) => {
+    console.log(msg)
+})
+```
+
+2. Promises
+
+
 
 ## Updates to TS
