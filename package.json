@@ -22,10 +22,10 @@
     "@docusaurus/plugin-ideal-image": "^3.0.1",
     "@docusaurus/preset-classic": "^3.0.1",
     "@mdx-js/react": "^3.0.0",
-    "classnames": "^2.3.2",
+    "classnames": "^2.5.0",
     "clsx": "^2.0.0",
     "husky": "^8.0.3",
-    "prism-react-renderer": "^2.3.0",
+    "prism-react-renderer": "^2.3.1",
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -35,9 +35,9 @@
     "@tsconfig/docusaurus": "^2.0.2",
     "babel-plugin-prismjs": "^2.1.0",
     "cross-env": "^7.0.3",
-    "docusaurus-plugin-sass": "^0.2.3",
-    "sass": "^1.62.1",
-    "typescript": "^5.2.2"
+    "docusaurus-plugin-sass": "^0.2.5",
+    "sass": "^1.69.5",
+    "typescript": "^5.3.3"
   },
   "browserslist": {
     "production": [
