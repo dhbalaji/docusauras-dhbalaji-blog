@@ -14,8 +14,8 @@ const whoami = `{
     "location": "Bangalore, India",
     "skills": [
       "React Apps",
-      "Design Language",
-      "Public Speaking"
+      "Product Engineering",
+      "Design Language"
     ]
 }`;
 
