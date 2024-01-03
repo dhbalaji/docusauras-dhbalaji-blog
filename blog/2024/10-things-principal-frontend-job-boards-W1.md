@@ -10,13 +10,13 @@ authors: [dhbalaji]
 <head>
   <meta charSet="utf-8" />
   <meta property="og:title" content="Highlights from Senior Frontend Engineers Job Descriptions - Week 1, 2024" />
-  <meta property="og:image" content="../assets/2024/week-1-linkedin-jobs.png" />
+  <meta property="og:image" content="/img/2024/week-1-linkedin-jobs.png" />
   <meta property="og:url" content="http://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#9-proficiency-in-frontend-ecosystem" />
   <meta property="og:description" content="Discover the pulse of Bangalore's software development job market for senior frontend engineers with 8+ years of experience through LinkedIn insights. This is first post in the series for week 1 of 2024.  From validating design choices to leading project teams, the top 10 observations unveil the multifaceted skill set required. The blog also explores jargons like Omni Stack, scalable product experiences, hypothesis-building, design thinking, and large-scale frontend applications. Stay ahead with these insights, ensuring your code lasts for years, reflecting the resilience of a seasoned frontend engineer." />
   <meta property="og:type " content="article" />
 
   <meta name="twitter:title" content="Highlights from Senior Frontend Engineers Job Descriptions - Week 1, 2024" />
-  <meta name="twitter:image" content="../assets/2024/week-1-linkedin-jobs.png" />
+  <meta name="twitter:image" content="/img/2024/week-1-linkedin-jobs.png" />
   <meta name="twitter:description" content="Discover the pulse of Bangalore's software development job market for senior frontend engineers with 8+ years of experience through LinkedIn insights. This is first post in the series for week 1 of 2024.  From validating design choices to leading project teams, the top 10 observations unveil the multifaceted skill set required. The blog also explores jargons like Omni Stack, scalable product experiences, hypothesis-building, design thinking, and large-scale frontend applications. Stay ahead with these insights, ensuring your code lasts for years, reflecting the resilience of a seasoned frontend engineer." />
 </head>
 
