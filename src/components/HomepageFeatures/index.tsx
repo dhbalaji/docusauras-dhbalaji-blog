@@ -107,6 +107,12 @@ export default function HomepageFeatures(): JSX.Element {
           </div>
         </div>
       </div>
+
+      <div className={classnames("hero hero--secondary")}>
+        <div className={`row ${styles.readingGoals}`}>
+          <a href="/reading-goals/2024">Reading goals, book picks for 2024 </a>
+          </div>
+        </div>
     </>
   );
 }
