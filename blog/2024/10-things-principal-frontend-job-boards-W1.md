@@ -1,10 +1,10 @@
 ---
-title: Insights from Senior Frontend Engineers Job Descriptions - Week 1, 2024
+title: Insights from Senior Frontend Engineers Job Descriptions - Month 1, 2024
 tags:
   - job-boards
   - senior-frontend
   - job-descriptions
-date: 2024-03-01 13:30:30
+date: 2024-01-03 13:30:30
 authors: [dhbalaji]
 ---
 

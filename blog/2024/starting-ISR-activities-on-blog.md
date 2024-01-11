@@ -3,7 +3,7 @@ title: Introducing Developer Social Responsibility (DSR), A New Avenue for Impac
 tags:
   - blogging
   - DSR-post
-date: 2024-08-01 6:30:30
+date: 2024-01-08 6:30:30
 authors: [dhbalaji]
 ---
 
