@@ -59,6 +59,10 @@
     font-size: 10px;
 }
 
+.language-js .token.property {
+    color: #ffba00 !important;
+}
+
 @media screen and (max-width: 767px) {
     .grid-container {
         grid-template-columns: 100fr;
