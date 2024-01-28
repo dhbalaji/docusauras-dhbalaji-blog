@@ -10,7 +10,7 @@ authors: [dhbalaji]
   <meta charSet="utf-8" />
   <meta property="og:title" content="Exploring the Design Technologist Role: A Deep Dive into Amazon's Job Posting" />
   <meta property="og:image" content="/img/2024/design-technologist-job-amazon.png" />
-  <meta property="og:url" content="http://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#9-proficiency-in-frontend-ecosystem" />
+  <meta property="og:url" content="https://dhbalaji.dev/blog/2024/discussing-design-tech-job-from-amazon" />
   <meta property="og:description" content="Explore the rare opportunity of becoming a Design Technologist at Amazon Bangalore. Dive into the contours of the job, unique requirements, and qualifications. Learn valuable insights from a lead design technologist on how to stand out in this competitive landscape. Prepare for success in a scarce yet rewarding field. Read more about the job posting and its nuances. #DesignTechnologist #AmazonJobs #TechCareers #BangaloreOpportunity" />
   <meta property="og:type " content="article" />
 
