@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[6662],{31789:e=>{e.exports=JSON.parse('{"label":"online-payments","permalink":"/blog/tags/online-payments","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

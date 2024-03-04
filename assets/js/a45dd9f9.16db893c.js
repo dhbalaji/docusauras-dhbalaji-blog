@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[7082],{42036:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/human-psychology","page":1,"postsPerPage":8,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

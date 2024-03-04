@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[7127],{19489:s=>{s.exports=JSON.parse('{"label":"ux-design","permalink":"/blog/tags/ux-design","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

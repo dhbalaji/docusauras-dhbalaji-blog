@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[1570],{95406:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/learning","page":1,"postsPerPage":8,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

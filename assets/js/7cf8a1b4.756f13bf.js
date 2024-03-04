@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[2885],{72956:e=>{e.exports=JSON.parse('{"label":"tech-conference","permalink":"/blog/tags/tech-conference","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

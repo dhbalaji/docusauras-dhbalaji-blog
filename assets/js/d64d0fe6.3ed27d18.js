@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[2710],{14271:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/software-tools","page":1,"postsPerPage":8,"totalPages":1,"totalCount":7,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

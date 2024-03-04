@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[7295],{56019:e=>{e.exports=JSON.parse('{"label":"tech-solved-it","permalink":"/blog/tags/tech-solved-it","allTagsPath":"/blog/tags","count":4,"unlisted":false}')}}]);

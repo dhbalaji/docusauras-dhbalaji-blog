@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[7115],{63926:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/youtube","page":1,"postsPerPage":8,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

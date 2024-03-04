@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[7275],{51583:a=>{a.exports=JSON.parse('{"label":"personal-finance","permalink":"/blog/tags/personal-finance","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

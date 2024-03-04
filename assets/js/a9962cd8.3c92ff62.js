@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[3777],{20798:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/dev-work","page":1,"postsPerPage":8,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

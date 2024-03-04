@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[2481],{29:e=>{e.exports=JSON.parse('{"label":"performance-eng","permalink":"/blog/tags/performance-eng","allTagsPath":"/blog/tags","count":4,"unlisted":false}')}}]);

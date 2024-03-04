@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[6031],{48476:a=>{a.exports=JSON.parse('{"label":"npm-packages","permalink":"/blog/tags/npm-packages","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

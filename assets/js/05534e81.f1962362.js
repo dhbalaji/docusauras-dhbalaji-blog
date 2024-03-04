@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[3461],{39247:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/job-boards","page":1,"postsPerPage":8,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

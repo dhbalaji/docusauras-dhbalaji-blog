@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[2446],{62130:s=>{s.exports=JSON.parse('{"label":"how-it-works","permalink":"/blog/tags/how-it-works","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

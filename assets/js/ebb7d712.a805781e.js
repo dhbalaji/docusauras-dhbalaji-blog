@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[4288],{74180:e=>{e.exports=JSON.parse('{"label":"tech-interviews","permalink":"/blog/tags/tech-interviews","allTagsPath":"/blog/tags","count":5,"unlisted":false}')}}]);

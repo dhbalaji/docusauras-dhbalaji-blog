@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[1657],{12694:s=>{s.exports=JSON.parse('{"label":"DSR-post","permalink":"/blog/tags/dsr-post","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

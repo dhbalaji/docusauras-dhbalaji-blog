@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[454],{25610:e=>{e.exports=JSON.parse('{"label":"youtube","permalink":"/blog/tags/youtube","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
