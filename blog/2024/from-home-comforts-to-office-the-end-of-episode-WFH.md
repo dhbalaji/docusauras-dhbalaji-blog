@@ -1,5 +1,5 @@
 ---
-title: From Home Comforts to Office the end of episode WFH
+title: From Home Comforts to Office, the end of episode WFH
 tags:
   - workplace
 date: 2024-06-02 1:30:30
@@ -14,7 +14,7 @@ authors: [dhbalaji]
   <meta property="og:description" content="Discover the evolving dynamics of work as tech companies call their resources back to the office. Unpack the reasons behind the return, management strategies, and personal reflections on this shift. Dive into the debate on whether this transition is a step forward or a step back in the modern work landscape." />
   <meta property="og:type " content="article" />
 
-  <meta name="twitter:title" content="Resources get back to office episode 2024" />
+  <meta name="twitter:title" content="From Home Comforts to Office, the end of episode WFH" />
   <meta name="twitter:image" content="/img/2024/coming-back-to-city-for-work.webp" />
   <meta name="twitter:description" content="Discover the evolving dynamics of work as tech companies call their resources back to the office. Unpack the reasons behind the return, management strategies, and personal reflections on this shift. Dive into the debate on whether this transition is a step forward or a step back in the modern work landscape." />
 </head>
