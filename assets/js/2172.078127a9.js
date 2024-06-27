@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[2172],{59791:(e,s,b)=>{b.r(s)}}]);

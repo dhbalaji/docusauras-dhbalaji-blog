@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>dhbalaji.dev feed</title>
+        <link>https://dhbalaji.dev/blog</link>
+        <description>dhbalaji, Lead Frontend Engineer Blog</description>
+        <lastBuildDate>Wed, 12 Jun 2024 06:30:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Is Amazon Prime Saving Delivery Charges? Amazon Seller Comments with inside details.]]></title>
+            <link>https://dhbalaji.dev/blog/2024/observations-on-amazon-prime-as-a-seller</link>
+            <guid>https://dhbalaji.dev/blog/2024/observations-on-amazon-prime-as-a-seller</guid>
+            <pubDate>Wed, 12 Jun 2024 06:30:30 GMT</pubDate>
+            <description><![CDATA[Disclaimer: Amazon is used as a reference only, the issue of delivery charges is omnipresent in the ecommerce world. Treat the below article as an education material only.]]></description>
+            <content:encoded><![CDATA[<p><strong>Disclaimer</strong>: Amazon is used as a reference only, the issue of delivery charges is omnipresent in the ecommerce world. Treat the below article as an education material only.</p>
+<p>On Amazon marketplace, the delivery charges or logistics charges are unavoidable because the amazon products are to be delivered to the customer by Amazon itself.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="amazon-charges-for-the-delivery-directly-and-indirectly">Amazon charges for the delivery directly and indirectly<a class="hash-link" aria-label="Direct link to Amazon charges for the delivery directly and indirectly" title="Direct link to Amazon charges for the delivery directly and indirectly" href="https://dhbalaji.dev/blog/2024/observations-on-amazon-prime-as-a-seller#amazon-charges-for-the-delivery-directly-and-indirectly">​</a></h2>
+<p>Amazon marketplace makes money from both sides.</p>
+<ol>
+<li>Money from Customers who buy on Amazon</li>
+<li>Money from Sellers who sell on Amazon</li>
+</ol>
+<p>This is when things turn awry for me. As a seller I pay delivery charges based on multiple factors like location of the seller and how far the location is relative to the seller location. As a seller I have no visibility on if the customer is a prime member or not. Neither any discounts on prime are shown to me. As a seller, I have to factor in the delivery charges in the MRP or collect separate delivery fees. As a amazon prime member if I buy the product, I am already paying for the delivery charge which is factored into the pricing by the seller.</p>
+<p>If a non amazon prime member does the purchase below the threshold, then the amazon customer has to pay delivery charges twice because the seller has already factored in, the delivery charges along with the cost price and profit.</p>
+<p>But Amazon prime members are not really given any "Free Delivery" as promised, its just a waive off of an platform charge associated with Amazon. The 1499 per year is not a discount voucher for delivery charges. In fact, you might have noticed that some products are less than 50 INR in physical stores like pens but on Amazon they are 150Rs etc because of the delivery charges.</p>
+<p>Overall the delivery charges are unavoidable on any ecommerce platform and diminishes the value of the sales if the shopper is not careful. To be careful, the shopper need to be aware of the prices in the real world.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="summary">Summary<a class="hash-link" aria-label="Direct link to Summary" title="Direct link to Summary" href="https://dhbalaji.dev/blog/2024/observations-on-amazon-prime-as-a-seller#summary">​</a></h2>
+<ol>
+<li>Both Amazon Prime and Non Prime members bear the shipping charges directly and indirectly</li>
+<li>As a online shopper, think of the value of the shopping transaction before you close the purchase along with myriad other quality and other concerns.</li>
+</ol>
+<blockquote>
+<p>Price is what you pay, value is what you get.</p>
+</blockquote>]]></content:encoded>
+            <category>amazon</category>
+            <category>subscriptions</category>
+        </item>
+        <item>
+            <title><![CDATA[From Home Comforts to Office, the end of episode WFH]]></title>
+            <link>https://dhbalaji.dev/blog/2024/from-home-comforts-to-office-the-end-of-episode-WFH</link>
+            <guid>https://dhbalaji.dev/blog/2024/from-home-comforts-to-office-the-end-of-episode-WFH</guid>
+            <pubDate>Sun, 02 Jun 2024 01:30:30 GMT</pubDate>
+            <description><![CDATA[In the army, the personnel are called soldiers. In tech companies, the personnel are called resources. The army trains in camps and carries weapons. Resources work in offices, GCC, and carry laptops. In 2020 due to covid pandemic outbreak, the resources were asked to work from home. Thats how the resources experienced work from home lifestyle, the episode started. Fast forward 2024, the resources are asked to leave behind the work from home and come back to office marking the end of episode work from home, lovingly called the WFH.]]></description>
+            <content:encoded><![CDATA[
+<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/coming-back-to-city-for-work-0219587ed411df531b661be0d3cf2769.webp" width="1024" height="1024" class="img_D5_e"></p>
+<p>In the army, the personnel are called soldiers. In tech companies, the personnel are called resources. The army trains in camps and carries weapons. Resources work in offices, GCC, and carry laptops. In 2020 due to covid pandemic outbreak, the resources were asked to work from home. Thats how the resources experienced work from home lifestyle, the episode started. Fast forward 2024, the resources are asked to leave behind the work from home and come back to office marking the end of episode work from home, lovingly called the WFH.</p>
+<p>Some companies went the extra mile and allowed the resources to work from anywhere forever. In a similar time frame, I wrote an article about <a href="https://dhbalaji.dev/blog/WFH-vs-Remote-working#what-is-the-difference-between-wfh-and-remote-working" target="_blank" rel="noopener noreferrer">work from home vs remote working</a>. The key takeaway was that working from home was a temporary fix unless the company adopted the culture mentioned in the book <a href="https://readingraphics.com/book-summary-remote-office-not-required/" target="_blank" rel="noopener noreferrer">Remote, Office Not Required</a>.</p>
+<p>Fast forward to the start of 2024, almost all companies have given a first call, second call, or in some cases, a final call asking resources to get back to working from the office. This means that the comfort of working from home and the associated lifestyle is no more. But there have to be a few reasons why the back-to-office movement is happening. Of course, there are many reasons; here are a few as quoted by management.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="reasons-to-get-back-to-the-office">Reasons to get back to the office<a class="hash-link" aria-label="Direct link to Reasons to get back to the office" title="Direct link to Reasons to get back to the office" href="https://dhbalaji.dev/blog/2024/from-home-comforts-to-office-the-end-of-episode-WFH#reasons-to-get-back-to-the-office">​</a></h2>
+<ol>
+<li>Covid is out of the picture; we can get back to the old way of working from the office. Our senior management is already doing it.</li>
+<li>Operating in silos or as small teams won't boost the morale of the team or the culture of the company.</li>
+<li>Use the office as a space to build your personal brand.</li>
+<li>Please come to the office and use the building; we have purchased or leased it already for the long term. We have made it better in the recent renovation.</li>
+<li>The economy depends on your return to the office; the cab drivers, janitors, and realtors need you.</li>
+</ol>
+<p>If you ask me, except for the first reason, the others should not be taken seriously.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="how-management-is-pulling-resources-back-to-the-office">How management is pulling resources back to the office<a class="hash-link" aria-label="Direct link to How management is pulling resources back to the office" title="Direct link to How management is pulling resources back to the office" href="https://dhbalaji.dev/blog/2024/from-home-comforts-to-office-the-end-of-episode-WFH#how-management-is-pulling-resources-back-to-the-office">​</a></h2>
+<ol>
+<li>The company-wide call announcing mandatory work from the office for a minimum of 3 days.</li>
+<li>Check if employees have punched into the office for a minimum of 3 days or 50% of working days.</li>
+<li>Bring in a policy that allows reduced pay for people working remotely.</li>
+<li>Bring in another policy that values presence in the office. No promotion if not working from the office. Personally, this statement is dangerous. Companies pay higher salaries to retain employees and not out of obligation. Having said that, more salary reduction could mean being on the layoff list.</li>
+<li>In-office meetings and not having the option for online participation from WFH resources.</li>
+</ol>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="my-reaction-to-the-back-to-office-episode">My reaction to the back-to-office episode<a class="hash-link" aria-label="Direct link to My reaction to the back-to-office episode" title="Direct link to My reaction to the back-to-office episode" href="https://dhbalaji.dev/blog/2024/from-home-comforts-to-office-the-end-of-episode-WFH#my-reaction-to-the-back-to-office-episode">​</a></h2>
+<ol>
+<li>In late 2020, after analyzing the implementation of WFH, it was clear that this was a temporary arrangement.</li>
+<li>I condemn the press statements and town hall speeches by the management of tech companies in favor of working from anywhere. Everyone believed that working from home would continue forever.</li>
+<li>Later in 2023, the management was the first to step into the office, followed by their immediate teams. This set an example for the whole company that working from the office is the way to conduct business.</li>
+<li>Working from the office could mean perks like team lunches and client visits happening soon. Good for those with passports ready.</li>
+<li>Companies need to be mindful about the transition and set the deadlines accordingly. Some employees were working in their pyjamas for long hours at home. In the work-from-office arrangement, they will waste time commuting, etc.</li>
+<li>I am surprised when no management person said that working from the office is an opportunity for osmosis of ideas, easy to mentor juniors, or have fun moments. It looks like none of these happen at the workplace anymore or have been forgotten because of insufficient use.</li>
+</ol>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="dont-go-to-extremes">Don't go to extremes<a class="hash-link" aria-label="Direct link to Don't go to extremes" title="Direct link to Don't go to extremes" href="https://dhbalaji.dev/blog/2024/from-home-comforts-to-office-the-end-of-episode-WFH#dont-go-to-extremes">​</a></h2>
+<p>One person got into an argument where he refused to take the laptop home in the work-from-office arrangement, which led to tensions at the workplace. Accept that no system is perfect and software has bugs. In a long career span of 40 years, anything can happen. Many trends come and go.</p>
+<p>We lived the WFH moment; it's time to move on.</p>]]></content:encoded>
+            <category>workplace</category>
+        </item>
+        <item>
+            <title><![CDATA[Exploring the Capgemini UI Director Role, A Deep Dive]]></title>
+            <link>https://dhbalaji.dev/blog/2024/discussing-UI-director-job-role-capgemini</link>
+            <guid>https://dhbalaji.dev/blog/2024/discussing-UI-director-job-role-capgemini</guid>
+            <pubDate>Mon, 05 Feb 2024 13:30:30 GMT</pubDate>
+            <description><![CDATA[When we delve into the realm of frontend engineering, the position of a Director of UI Frontend Architects emerges not just as a job but as a beacon on the intricate career ladder of frontend engineers. The intrigue deepens as we unravel the specifics of this captivating role, as posted by Capgemini on Linkedin Jobs. Let's embark on this exploration.]]></description>
+            <content:encoded><![CDATA[
+<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/capgemini-job-ad-cf57b9967fa857e76c3b8187140b08e2.png" width="999" height="540" class="img_D5_e"></p>
+<p>When we delve into the realm of frontend engineering, the position of a Director of UI Frontend Architects emerges not just as a job but as a beacon on the intricate career ladder of frontend engineers. The intrigue deepens as we unravel the specifics of this captivating role, as posted by <a href="https://www.linkedin.com/jobs/view/3806301109/?midToken=AQEa_NYA1JbugQ&amp;midSig=1Lc7O1sDMx2r81" target="_blank" rel="noopener noreferrer">Capgemini on Linkedin Jobs</a>. Let's embark on this exploration.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="exploring-the-job-landscape">Exploring the Job Landscape<a class="hash-link" aria-label="Direct link to Exploring the Job Landscape" title="Direct link to Exploring the Job Landscape" href="https://dhbalaji.dev/blog/2024/discussing-UI-director-job-role-capgemini#exploring-the-job-landscape">​</a></h2>
+<p><strong>Location</strong>: Mumbai</p>
+<p><strong>Company</strong>: Capgemini</p>
+<p><strong>Department</strong>: Not mentioned</p>
+<p><strong>Subjects</strong>: Lead other frontend architects</p>
+<p><strong>Position</strong>: Director</p>
+<p><strong>Experience</strong>: 18-22 years</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="decoding-the-directors-role">Decoding the Director's Role<a class="hash-link" aria-label="Direct link to Decoding the Director's Role" title="Direct link to Decoding the Director's Role" href="https://dhbalaji.dev/blog/2024/discussing-UI-director-job-role-capgemini#decoding-the-directors-role">​</a></h2>
+<p>The role of a Director of Frontend typically involves overseeing and leading the frontend development team within a company.</p>
+<ol>
+<li>
+<p>Lead and manage a team of frontend architects, providing guidance, mentorship, and support.</p>
+</li>
+<li>
+<p>Collaborate with other departments, such as product management and design, to understand business goals and translate them into frontend development strategies.</p>
+</li>
+<li>
+<p>Evaluate and make decisions on the adoption of new technologies to improve the frontend development process.</p>
+</li>
+<li>
+<p>Foster collaboration and communication between different teams to achieve common goals.</p>
+</li>
+<li>
+<p>Drive a culture of continuous improvement within the frontend team, encouraging learning, experimentation, and innovation.</p>
+</li>
+<li>
+<p>Ensure that frontend projects are delivered on time, within scope, and meet the specified requirements.</p>
+</li>
+<li>
+<p>Work with QA teams to establish and maintain testing processes for frontend applications, ensuring high-quality and bug-free releases.</p>
+</li>
+</ol>
+<blockquote>
+<p>TLDR - Technical leadership + Frontend experience = Director of frontend</p>
+</blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="job-prerequisites">Job Prerequisites<a class="hash-link" aria-label="Direct link to Job Prerequisites" title="Direct link to Job Prerequisites" href="https://dhbalaji.dev/blog/2024/discussing-UI-director-job-role-capgemini#job-prerequisites">​</a></h2>
+<p>The Director of Frontend is not merely a manager; it is a leadership role that entails steering the frontend development team within a company.</p>
+<ul>
+<li>
+<p>Team Leadership: Guide and manage a team of frontend architects, offering mentorship and support.</p>
+</li>
+<li>
+<p>Cross-Functional Collaboration: Collaborate with other departments, such as product management and design, to align frontend development with business goals.</p>
+</li>
+<li>
+<p>Technological Decision-Making: Evaluate and make decisions regarding the adoption of new technologies to enhance the frontend development process.</p>
+</li>
+<li>
+<p>Team Collaboration: Foster collaboration and communication between diverse teams to achieve shared objectives.</p>
+</li>
+<li>
+<p>Continuous Improvement Advocate: Instill a culture of continuous improvement, encouraging learning, experimentation, and innovation within the frontend team.</p>
+</li>
+<li>
+<p>Project Delivery Assurance: Ensure timely delivery of frontend projects within scope and meeting specified requirements.</p>
+</li>
+<li>
+<p>Quality Assurance: Collaborate with QA teams to establish and maintain testing processes for frontend applications, ensuring high-quality, bug-free releases.</p>
+</li>
+</ul>
+<blockquote>
+<p>TLDR - Technical Leadership + Frontend Expertise = Director of Frontend</p>
+</blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="qualifications">Qualifications<a class="hash-link" aria-label="Direct link to Qualifications" title="Direct link to Qualifications" href="https://dhbalaji.dev/blog/2024/discussing-UI-director-job-role-capgemini#qualifications">​</a></h2>
+<p>The qualifications listed for this role encompass:</p>
+<ul>
+<li>
+<p>Experience: Proven track record in frontend and mobile technologies.</p>
+</li>
+<li>
+<p>Business Contribution: Demonstrated contribution to sales and profit &amp; loss (P&amp;L).</p>
+</li>
+<li>
+<p>Tech Acumen: Good understanding of Metaverse, XR, and GenAI.</p>
+</li>
+<li>
+<p>Project Management: Managed deliveries of large and complex engagements as a Frontend/Enterprise architect.</p>
+</li>
+<li>
+<p>Pre-sales and Business Development: Proficiency in presales and business development activities across geographies as a technical solution architect.</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="my-insight">My Insight<a class="hash-link" aria-label="Direct link to My Insight" title="Direct link to My Insight" href="https://dhbalaji.dev/blog/2024/discussing-UI-director-job-role-capgemini#my-insight">​</a></h2>
+<p>This mid-senior level position implies that the Director of UI could potentially be at the helm of a research division, horizontal team, or internal team. Responsibilities include coordinating with frontend architects and presenting clients with tailored business solutions. The role demands awareness of cutting-edge technologies like the Metaverse and GenAI.</p>
+<p>Preparation for this role leans heavily on job experience (60%), networking for referrals (20%), and the remaining 30% can be attributed to strategic preparation.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="in-conclusion">In Conclusion<a class="hash-link" aria-label="Direct link to In Conclusion" title="Direct link to In Conclusion" href="https://dhbalaji.dev/blog/2024/discussing-UI-director-job-role-capgemini#in-conclusion">​</a></h2>
+<p>The emergence of frontend job roles for professionals with two decades of experience is intriguing. A commanding grasp of frontend intricacies, coupled with business domain knowledge, excellent communication skills, and self-confidence, is imperative for the Director of Frontend.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="reference">Reference<a class="hash-link" aria-label="Direct link to Reference" title="Direct link to Reference" href="https://dhbalaji.dev/blog/2024/discussing-UI-director-job-role-capgemini#reference">​</a></h2>
+<p><a href="https://www.linkedin.com/jobs/view/3806301109/?midToken=AQEa_NYA1JbugQ&amp;midSig=1Lc7O1sDMx2r81" target="_blank" rel="noopener noreferrer">Capgemini, Director frontend Job Ad</a></p>]]></content:encoded>
+            <category>work</category>
+        </item>
+        <item>
+            <title><![CDATA[Exploring the Amazon Design Technologist Role, A Deep Dive]]></title>
+            <link>https://dhbalaji.dev/blog/2024/discussing-design-tech-job-from-amazon</link>
+            <guid>https://dhbalaji.dev/blog/2024/discussing-design-tech-job-from-amazon</guid>
+            <pubDate>Sun, 28 Jan 2024 13:30:30 GMT</pubDate>
+            <description><![CDATA[In the vast landscape of job opportunities in the Indian subcontinent, the niche role of design technologists remains as elusive as the majestic tigers that roam the region. Job postings for design technologists are a rarity, and it's not every day that one comes across such an opportunity. Recently, I stumbled upon a job posting from Amazon Bangalore for the position of Design Technologist. As a lead design technologist, I feel compelled to delve into the contours of this intriguing job opportunity.]]></description>
+            <content:encoded><![CDATA[
+<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/design-technologist-job-amazon-007fe159941b1a9758e377666e1740ac.png" width="951" height="609" class="img_D5_e"></p>
+<p>In the vast landscape of job opportunities in the Indian subcontinent, the niche role of design technologists remains as elusive as the majestic tigers that roam the region. Job postings for design technologists are a rarity, and it's not every day that one comes across such an opportunity. Recently, I stumbled upon a job posting from <a href="https://www.linkedin.com/jobs/view/3812056674/?alternateChannel=search&amp;refId=Dz%2BIExfUI9357n%2BKI2VWsA%3D%3D&amp;trackingId=lY7zJQJjL%2Bd6EeIWSGrk8Q%3D%3D" target="_blank" rel="noopener noreferrer">Amazon Bangalore for the position of Design Technologist</a>. As a lead design technologist, I feel compelled to delve into the contours of this intriguing job opportunity.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="contour-of-the-job">Contour of the Job<a class="hash-link" aria-label="Direct link to Contour of the Job" title="Direct link to Contour of the Job" href="https://dhbalaji.dev/blog/2024/discussing-design-tech-job-from-amazon#contour-of-the-job">​</a></h2>
+<p><strong>Location</strong>: Bangalore</p>
+<p><strong>Company</strong>: Amazon</p>
+<p><strong>Department</strong>: Amazon Ads Design Team</p>
+<p><strong>Subjects</strong>: Digital Advertising, Multi-channel Ads, E-commerce</p>
+<p><strong>Position</strong>: Design Technologist</p>
+<p><strong>Team</strong>: Design Leaders</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="defining-design-technologist">Defining Design Technologist<a class="hash-link" aria-label="Direct link to Defining Design Technologist" title="Direct link to Defining Design Technologist" href="https://dhbalaji.dev/blog/2024/discussing-design-tech-job-from-amazon#defining-design-technologist">​</a></h2>
+<p>The role of a design technologist lacks a universally accepted definition in the job market, prompting the Amazon recruiter to articulate their interpretation. As a Design Technologist at Amazon, one is expected to strike a balance between technical execution and design strategy, contributing to the creation of innovative landing pages and digital ad solutions. The ideal candidate possesses a passion for both design and development, demonstrating strong front-end proficiency, creative problem-solving skills, and a discerning eye for world-class functional design.</p>
+<blockquote>
+<p>TLDR: Design and Technical Leadership = Design Technologist</p>
+</blockquote>
+<p>The core attributes of a design technologist encompass conveying design strategy through code, proficiency in front-end technologies, UX patterns, and best practices, building prototypes with vanilla JS and CSS, attention to detail in library maintenance, and the ability to work on multiple projects while creatively solving business challenges.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="job-requirements">Job Requirements<a class="hash-link" aria-label="Direct link to Job Requirements" title="Direct link to Job Requirements" href="https://dhbalaji.dev/blog/2024/discussing-design-tech-job-from-amazon#job-requirements">​</a></h2>
+<p>The Amazon recruiter has outlined several unique requirements for the design technologist role:</p>
+<ul>
+<li>Web development experience across multiple devices, web-views, and browsers.</li>
+<li>Delivery of functional prototypes on new devices.</li>
+<li>Full participation in the lifecycle of design and development.</li>
+<li>Inclusion of an online portfolio with process examples.</li>
+<li>Ability to develop ad campaign strategy, use cases, and technical requirements.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="qualifications">Qualifications<a class="hash-link" aria-label="Direct link to Qualifications" title="Direct link to Qualifications" href="https://dhbalaji.dev/blog/2024/discussing-design-tech-job-from-amazon#qualifications">​</a></h2>
+<p>Beyond the common prerequisites such as end-to-end ownership and web/mobile app development experience, the unique qualifications include:</p>
+<ul>
+<li>Development of visually polished, engaging, and highly fluid UX prototypes using Figma/Sketch.</li>
+<li>Previous experience in complex UI animations, with an emphasis on understanding webGL, React Spring, and Framer Motion.</li>
+<li>Familiarity with Tensorflow and ThreeJS, along with prior experience as a UX/Interaction designer.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="my-observation">My Observation<a class="hash-link" aria-label="Direct link to My Observation" title="Direct link to My Observation" href="https://dhbalaji.dev/blog/2024/discussing-design-tech-job-from-amazon#my-observation">​</a></h2>
+<p>The job requirements clearly emphasize mastery in frontend development, design, and UI with a focus on animations. An ideal candidate may have undergone a career transition from UX to Frontend or vice versa at some point. This role may not align with the skill set of full-stack engineers.</p>
+<p>Rigorous preparation is paramount for applicants aiming to stand out in a competitive landscape. The scarcity of job openings necessitates a 10x effort in interview preparation, with priority often given to candidates from top colleges, those with resumes from reputed companies, and those with referrals. Design technologist roles demand intensive preparation, as exemplified by the specifics outlined in the discussed Amazon job posting.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="conclusion">Conclusion<a class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" href="https://dhbalaji.dev/blog/2024/discussing-design-tech-job-from-amazon#conclusion">​</a></h2>
+<p>In a scenario where job openings are scarce, candidates must elevate their interview preparation to tenfold levels due to heightened competition. The discussed design technologist job at Amazon provides a comprehensive overview of the responsibilities, qualifications, and desirable skills, serving as a guide for professionals aspiring to thrive in this specialized field.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="reference">Reference<a class="hash-link" aria-label="Direct link to Reference" title="Direct link to Reference" href="https://dhbalaji.dev/blog/2024/discussing-design-tech-job-from-amazon#reference">​</a></h2>
+<p><a href="https://www.linkedin.com/jobs/view/3812056674/?alternateChannel=search&amp;refId=Dz%2BIExfUI9357n%2BKI2VWsA%3D%3D&amp;trackingId=lY7zJQJjL%2Bd6EeIWSGrk8Q%3D%3D" target="_blank" rel="noopener noreferrer">Amazon Bangalore, Design Technologist Job Ad</a></p>]]></content:encoded>
+            <category>work</category>
+        </item>
+        <item>
+            <title><![CDATA[Insights from Principle Frontend Job Descriptions - Week 2, 2024]]></title>
+            <link>https://dhbalaji.dev/blog/2024/insights-from-job-boards-week2</link>
+            <guid>https://dhbalaji.dev/blog/2024/insights-from-job-boards-week2</guid>
+            <pubDate>Mon, 15 Jan 2024 13:30:30 GMT</pubDate>
+            <description><![CDATA[Welcome back to our ongoing series, "Insights from Job Boards." In this week's edition, we delve into the crucial job market requirements for senior-level Frontend Managers. These insights are gathered from the second week of 2024, shedding light on the skills and expertise demanded by today's dynamic professional landscape. More posts related to this series can be found with hash-tag job-descriptions.]]></description>
+            <content:encoded><![CDATA[
+<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/week-1-linkedin-jobs-896acdd1e103f23114bb59dc3bed75da.png" width="2298" height="1512" class="img_D5_e"></p>
+<p>Welcome back to our ongoing series, "Insights from Job Boards." In this week's edition, we delve into the crucial job market requirements for senior-level Frontend Managers. These insights are gathered from the second week of 2024, shedding light on the skills and expertise demanded by today's dynamic professional landscape. More posts related to this series can be found with hash-tag <a href="https://dhbalaji.dev/blog/tags/job-descriptions">job-descriptions</a>.</p>
+<ol>
+<li>
+<p>Extensive Experience and Academic Prowess:
+Senior Frontend Managers are expected to bring over a decade of hands-on experience to the table, coupled with a valid Computer Science degree. Proficiency in application architecture, software R&amp;D, product engineering, and full-stack development is paramount.</p>
+</li>
+<li>
+<p>Mastery of Architectural Paradigms:
+Candidates should exhibit proficiency in both monolith and micro frontend architectures, showcasing their adaptability to diverse technological frameworks.</p>
+</li>
+<li>
+<p>Proficiency in Key Frontend Technologies:
+A prerequisite for the role is proficiency in React and Redux, complemented by expertise in at least one MV* framework such as Angular. This ensures a well-rounded skill set in the rapidly evolving frontend landscape.</p>
+</li>
+<li>
+<p>Embrace of Testing and CI/CD Best Practices:
+Senior Frontend Managers must be well-versed in testing tools and the setup of Continuous Integration/Continuous Deployment (CI/CD) processes. The expectation is to design and deploy robust frameworks and governance structures for SaaS engineering.</p>
+</li>
+<li>
+<p>Leadership and Project Management Skills:
+Successful candidates will have a proven track record of leading large development teams, crafting elegant solutions, managing engineering scope, schedules, and costs. Additionally, they should be adept at assessing developer productivity and ensuring comprehensive technical documentation.</p>
+</li>
+<li>
+<p>Expertise in Data Visualization:
+Experience in contributing to interactive dashboards, visualization platforms, and GIS applications is highly desirable. This reflects the growing importance of data representation and user engagement in modern web development.</p>
+</li>
+<li>
+<p>Continuous Learning and Thought Leadership:
+A commitment to staying abreast of the latest software engineering developments is crucial. Candidates are expected to establish reference architectures, generate thought leadership, and contribute to high-end intellectual property generation.</p>
+</li>
+<li>
+<p>Accessibility Awareness:
+Strong familiarity with Web Accessibility standards is a must. Knowledge of tools and libraries like Canvas, SVG, and others is an added advantage, showcasing a commitment to inclusive and user-friendly design.</p>
+</li>
+<li>
+<p>Holistic Understanding of Software Engineering Practices:
+Candidates should possess knowledge in Agile/Scrum methodologies, API Lifecycle Management, DevOps, Microservices, and SaaS/PaaS engineering. Exposure to major cloud platforms (preferably GCP), Open Source projects, and industry best practices is essential.</p>
+</li>
+<li>
+<p>Advanced Scripting Skills:
+Proficiency in scripting languages such as Python, Perl, TCL, UNIX shells, or equivalent is expected. Familiarity with public cloud providers (AWS, GCP, Azure), as well as container technologies like Docker and Kubernetes, is a valuable asset in the modern tech landscape.</p>
+</li>
+</ol>
+<p>In conclusion, the role of a Senior Frontend Manager in 2024 demands a comprehensive skill set that spans technology, leadership, and innovation. As the digital landscape continues to evolve, staying at the forefront of these requirements will be key to thriving in the competitive job market.</p>]]></content:encoded>
+            <category>job-boards</category>
+            <category>senior-frontend</category>
+            <category>job-descriptions</category>
+        </item>
+        <item>
+            <title><![CDATA[3 step process to keep your NPM packages updated in VS Code]]></title>
+            <link>https://dhbalaji.dev/blog/2024/3-step-process-for-npm-package-updates</link>
+            <guid>https://dhbalaji.dev/blog/2024/3-step-process-for-npm-package-updates</guid>
+            <pubDate>Sun, 14 Jan 2024 13:30:30 GMT</pubDate>
+            <description><![CDATA[Here is a short post detailing the methodology used by me to keep the npm packages up to date.]]></description>
+            <content:encoded><![CDATA[<p>Here is a short post detailing the methodology used by me to keep the npm packages up to date.</p>
+<ol>
+<li>Install vs-code extension called <a href="https://marketplace.visualstudio.com/items?itemName=codeandstuff.package-json-upgrade" target="_blank" rel="noopener noreferrer">package-json-upgrade</a> which will give information about the latest version available.</li>
+</ol>
+<blockquote>
+<p>Extension ID of the extension - <code>codeandstuff.package-json-upgrade</code></p>
+</blockquote>
+<ol start="2">
+<li>
+<p>Use <code>package-json-upgrade</code> extension tooltip to update the package.</p>
+</li>
+<li>
+<p>Run <code>npm update</code> to update the packages and modify the <code>package-lock.json</code></p>
+</li>
+</ol>
+<p>Once updates are performed, check if the application can build successfully.</p>]]></content:encoded>
+            <category>npm-packages</category>
+            <category>work</category>
+        </item>
+        <item>
+            <title><![CDATA[Pitfalls of Standing Instructions, Techies Guide to Avoiding Unwanted Charges]]></title>
+            <link>https://dhbalaji.dev/blog/2024/3-times-got-fooled-by-standing-instruction</link>
+            <guid>https://dhbalaji.dev/blog/2024/3-times-got-fooled-by-standing-instruction</guid>
+            <pubDate>Fri, 12 Jan 2024 13:30:30 GMT</pubDate>
+            <description><![CDATA[As a techie, managing digital spending has come with its own set of challenges, particularly when it comes to managing finances and subscriptions. One recurring issue that has cost me money on multiple occasions is the use of standing instructions for payments, where entering credit card details during free trials can lead to unforeseen financial consequences. In this blog post, I will share three instances where standing instructions resulted in financial loss and discuss strategies to mitigate these risks.]]></description>
+            <content:encoded><![CDATA[
+<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/online-payments-e879a14ffa423d349f447942d7aa05d8.webp" width="1280" height="853" class="img_D5_e"></p>
+<p>As a techie, managing digital spending has come with its own set of challenges, particularly when it comes to managing finances and subscriptions. One recurring issue that has cost me money on multiple occasions is the use of standing instructions for payments, where entering credit card details during free trials can lead to unforeseen financial consequences. In this blog post, I will share three instances where standing instructions resulted in financial loss and discuss strategies to mitigate these risks.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="google-cloud-the-silent-bill-accumulator">Google Cloud: The Silent Bill Accumulator<a class="hash-link" aria-label="Direct link to Google Cloud: The Silent Bill Accumulator" title="Direct link to Google Cloud: The Silent Bill Accumulator" href="https://dhbalaji.dev/blog/2024/3-times-got-fooled-by-standing-instruction#google-cloud-the-silent-bill-accumulator">​</a></h2>
+<blockquote>
+<p>Same can happen on any cloud services aggregator</p>
+</blockquote>
+<p>Google Cloud's free tier is a playground for developers, offering a range of services to experiment with. However, the requirement to enter credit card information exposes users to potential financial risks. Some dormant services can accumulate bills, and unpaid amounts accrue interest at a hefty 30% per annum. To avoid an unpleasant surprise, it is crucial for developers to actively monitor their Google Cloud billing section, even when services are in a dormant stage. While setting budgets can help control costs, it's imperative to note that alerts alone may not prevent services from running over the set limit.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="netflix-and-allies-the-subscription-renewal-trap">Netflix and Allies: The Subscription Renewal Trap<a class="hash-link" aria-label="Direct link to Netflix and Allies: The Subscription Renewal Trap" title="Direct link to Netflix and Allies: The Subscription Renewal Trap" href="https://dhbalaji.dev/blog/2024/3-times-got-fooled-by-standing-instruction#netflix-and-allies-the-subscription-renewal-trap">​</a></h2>
+<p>Managing media consumption subscriptions can be challenging, especially when juggling multiple platforms. To optimize costs, my family cycles through apps every two months to watch all available titles without paying for them simultaneously. The challenge lies in remembering to cancel subscriptions before they auto-renew. Forgetting to do so results in wasted money. Vigilance and regular subscription audits are essential to avoid unnecessary charges.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="overcharging-after-subscription-renewal">Overcharging after Subscription Renewal<a class="hash-link" aria-label="Direct link to Overcharging after Subscription Renewal" title="Direct link to Overcharging after Subscription Renewal" href="https://dhbalaji.dev/blog/2024/3-times-got-fooled-by-standing-instruction#overcharging-after-subscription-renewal">​</a></h2>
+<p>Yearly renewing subscriptions often come with an unwelcome surprise—the increased subscription price. Unfortunately, standing instructions automatically accept the higher cost, even if the renewed service may no longer be worth the investment. To prevent this, it's crucial to reassess the value of the service before allowing standing instructions to renew it automatically.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="how-to-avoid-unwanted-charges">How to Avoid Unwanted Charges<a class="hash-link" aria-label="Direct link to How to Avoid Unwanted Charges" title="Direct link to How to Avoid Unwanted Charges" href="https://dhbalaji.dev/blog/2024/3-times-got-fooled-by-standing-instruction#how-to-avoid-unwanted-charges">​</a></h2>
+<ol>
+<li>
+<p>Maintain a Detailed Record: Create and regularly update an Excel sheet containing all websites where you've authorized standing instructions for payments. This centralized record will serve as a quick reference and aid in monitoring financial commitments.</p>
+</li>
+<li>
+<p>Stay Informed: Actively monitor notifications and emails related to payments and billing. Ignoring these alerts can lead to unintended financial consequences. Stay informed to take timely action. In India we have sihub website where we can see all the autopay instructions in one place.</p>
+</li>
+<li>
+<p>Seek Remedies: In case of discrepancies or unexpected charges, don't hesitate to seek help from customer support. Engage with the respective platforms to find a suitable remedy, which might include closing an account or modifying standing instructions.</p>
+</li>
+</ol>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="conclusion">Conclusion<a class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" href="https://dhbalaji.dev/blog/2024/3-times-got-fooled-by-standing-instruction#conclusion">​</a></h2>
+<p>As a techie, navigating the world of standing instructions requires diligence and strategic planning. By learning from my experiences with Google Cloud, media subscriptions, and renewal surprises, you can implement proactive strategies to avoid financial losses. Maintain meticulous records, stay informed, and don't hesitate to seek help when needed. With these precautions, you can enjoy the benefits of standing instructions without falling victim to their potential pitfalls.</p>]]></content:encoded>
+            <category>online-payments</category>
+            <category>subscriptions</category>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Developer Social Responsibility (DSR), A New Avenue for Impactful Blogging]]></title>
+            <link>https://dhbalaji.dev/blog/2024/starting-ISR-activities-on-blog</link>
+            <guid>https://dhbalaji.dev/blog/2024/starting-ISR-activities-on-blog</guid>
+            <pubDate>Mon, 08 Jan 2024 06:30:30 GMT</pubDate>
+            <description><![CDATA[In the ever-evolving landscape of technical blogs, where discussions often revolve around technology trends, career advice, and personal life hacks, there emerges a new wave of content – one rooted in societal impact. Enter DSR, or Developer Social Responsibility, a concept akin to the Corporate Social Responsibility (CSR) undertaken by companies.]]></description>
+            <content:encoded><![CDATA[
+<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/students-near-pump-66fcd2975e488c203e3fef5d15ab70af.jpg" width="1279" height="853" class="img_D5_e"></p>
+<p>In the ever-evolving landscape of technical blogs, where discussions often revolve around technology trends, career advice, and personal life hacks, there emerges a new wave of content – one rooted in societal impact. Enter DSR, or Developer Social Responsibility, a concept akin to the Corporate Social Responsibility (CSR) undertaken by companies.</p>
+<p>Traditionally, major corporations like Tata Consultancy Services (TCSL) allocate a portion of their resources towards community-centric initiatives through CSR. In a similar vein, I, as a developer, am embarking on a novel journey – utilizing my platform to craft posts that serve the local community or residents of my locality. The underlying ethos of DSR is to provide valuable information that may not be readily available in the public domain, thereby bridging knowledge gaps and fostering a sense of community support.</p>
+<p>Understanding the Principles of DSR Posts:</p>
+<ol>
+<li>
+<p><strong>Conciseness is Key:</strong>
+DSR posts will embody brevity without compromising on substance. By distilling information into concise and digestible content, the aim is to deliver maximum value in a minimal timeframe. This ensures that readers can easily assimilate the information and apply it to their lives.</p>
+</li>
+<li>
+<p><strong>Positive Tone:</strong>
+DSR posts will steer clear of a complaining or negative tone. The objective is to inspire and uplift, offering solutions and insights that empower readers rather than dwelling on issues. This positive approach not only resonates better with the audience but also aligns with the constructive spirit of social responsibility.</p>
+</li>
+<li>
+<p><strong>Limited Social Media Promotion:</strong>
+Unlike conventional blog posts that often rely heavily on social media channels for promotion, DSR posts will take a different route. By abstaining from aggressive promotion on platforms, the focus remains on organic reach and genuine engagement. This approach ensures that the content reaches those genuinely interested in community-centric information.</p>
+</li>
+</ol>
+<p>In adopting the DSR framework, the intention is clear: to create content that transcends the digital realm and makes a tangible impact on the lives of individuals within the community. This initiative seeks to foster a sense of responsibility among developers, urging them to leverage their skills and knowledge for the betterment of society.</p>
+<p>As the DSR journey unfolds, the commitment to concise, positive, and community-centric content remains steadfast. By embracing this unique approach, developers can play an active role in shaping a more informed, empowered, and connected society, one blog post at a time.</p>]]></content:encoded>
+            <category>blogging</category>
+            <category>DSR-post</category>
+        </item>
+        <item>
+            <title><![CDATA[Insights from Senior Frontend Engineers Job Descriptions - Week 1, 2024]]></title>
+            <link>https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1</link>
+            <guid>https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1</guid>
+            <pubDate>Wed, 03 Jan 2024 13:30:30 GMT</pubDate>
+            <description><![CDATA[In the dynamic world of software development, staying ahead of the curve is crucial for success. Much like monitoring the stock market for investors, software developers, especially those in senior roles, need to keep a close eye on the job market trends. LinkedIn, being a powerhouse of professional networking and job opportunities, provides valuable insights into the demands and expectations of the industry.]]></description>
+            <content:encoded><![CDATA[
+<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/week-1-linkedin-jobs-896acdd1e103f23114bb59dc3bed75da.png" width="2298" height="1512" class="img_D5_e"></p>
+<p>In the dynamic world of software development, staying ahead of the curve is crucial for success. Much like monitoring the stock market for investors, software developers, especially those in senior roles, need to keep a close eye on the job market trends. LinkedIn, being a powerhouse of professional networking and job opportunities, provides valuable insights into the demands and expectations of the industry.</p>
+<p>Let's delve into the top 10 insights extracted from the LinkedIn job descriptions for positions labeled as 'senior frontend engineer' and above in the thriving tech hub of <code>Bangalore</code>, catering to professionals with 8 or more years of experience.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="1-validating-design-choices-through-prototyping">1. Validating Design Choices through Prototyping<a class="hash-link" aria-label="Direct link to 1. Validating Design Choices through Prototyping" title="Direct link to 1. Validating Design Choices through Prototyping" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#1-validating-design-choices-through-prototyping">​</a></h2>
+<p>Senior frontend engineers are expected to be at the forefront of innovation. Researching and developing proof of concepts to validate design and technology choices ensures that the team adopts the best-fit solutions to tackle challenges efficiently.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="2-a-multifaceted-skill-set">2. A Multifaceted Skill Set<a class="hash-link" aria-label="Direct link to 2. A Multifaceted Skill Set" title="Direct link to 2. A Multifaceted Skill Set" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#2-a-multifaceted-skill-set">​</a></h2>
+<p>A strong command over modern frontend development is a prerequisite. This includes expertise in micro frontend architecture, design patterns, version control, enterprise architecture, and software engineering principles. The ideal candidate should be adept at translating initial wireframes into final products, working with any web framework, understanding browser architecture, and handling cross-browser compatibility.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="3-code-quality-matters">3. Code Quality Matters<a class="hash-link" aria-label="Direct link to 3. Code Quality Matters" title="Direct link to 3. Code Quality Matters" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#3-code-quality-matters">​</a></h2>
+<p>Demonstrating the ability to write clean, accessible, and responsive code is non-negotiable. An active GitHub portfolio, involvement in side projects, and a commitment to well-tested code are indicators of a senior frontend engineer's proficiency.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="4-collaborative-quality-assurance">4. Collaborative Quality Assurance<a class="hash-link" aria-label="Direct link to 4. Collaborative Quality Assurance" title="Direct link to 4. Collaborative Quality Assurance" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#4-collaborative-quality-assurance">​</a></h2>
+<p>Working closely with QA engineers is a key responsibility. Providing inputs to test plans, writing end-to-end tests, and ensuring the health of the CI/CD pipeline contribute to the overall product quality.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="5-active-participation-in-technical-discussions">5. Active Participation in Technical Discussions<a class="hash-link" aria-label="Direct link to 5. Active Participation in Technical Discussions" title="Direct link to 5. Active Participation in Technical Discussions" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#5-active-participation-in-technical-discussions">​</a></h2>
+<p>Active involvement in technical discussions and planning events showcases the candidate's commitment to contributing to the team's success. Full participation in such activities ensures that the knowledge transfer within the team remains robust.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="6-leadership-skills">6. Leadership Skills<a class="hash-link" aria-label="Direct link to 6. Leadership Skills" title="Direct link to 6. Leadership Skills" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#6-leadership-skills">​</a></h2>
+<p>The ability to lead multiple project teams is a distinguishing factor. Managing relationships with both internal and outsourced development partners is crucial for effective collaboration and project success.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="7-continuous-learning">7. Continuous Learning<a class="hash-link" aria-label="Direct link to 7. Continuous Learning" title="Direct link to 7. Continuous Learning" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#7-continuous-learning">​</a></h2>
+<p>The tech landscape evolves rapidly, and senior frontend engineers must keep pace. Continuous learning, both in technical and non-technical domains, is essential for professional growth.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="8-code-reviews-and-documentation">8. Code Reviews and Documentation<a class="hash-link" aria-label="Direct link to 8. Code Reviews and Documentation" title="Direct link to 8. Code Reviews and Documentation" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#8-code-reviews-and-documentation">​</a></h2>
+<p>Leading code reviews and maintaining comprehensive documentation are responsibilities that senior frontend engineers shoulder. Taking on complex bug fixes ensures the longevity and stability of the codebase.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="9-proficiency-in-frontend-ecosystem">9. Proficiency in Frontend Ecosystem<a class="hash-link" aria-label="Direct link to 9. Proficiency in Frontend Ecosystem" title="Direct link to 9. Proficiency in Frontend Ecosystem" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#9-proficiency-in-frontend-ecosystem">​</a></h2>
+<p>An in-depth understanding of the modern frontend ecosystem, including bundling, linting, testing, and releasing, is vital for seamless development processes.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="10-web3-application-experience">10. Web3 Application Experience<a class="hash-link" aria-label="Direct link to 10. Web3 Application Experience" title="Direct link to 10. Web3 Application Experience" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#10-web3-application-experience">​</a></h2>
+<p>With the rise of blockchain technology, experience in shipping production applications using Web3 libraries, such as Web3.js/Ether.js, is becoming increasingly valuable.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="jargons-explored">Jargons Explored<a class="hash-link" aria-label="Direct link to Jargons Explored" title="Direct link to Jargons Explored" href="https://dhbalaji.dev/blog/2024/10-things-principal-frontend-job-boards-W1#jargons-explored">​</a></h2>
+<p><strong>Omni Stack:</strong> A software-defined platform that integrates storage, computing, and networking resources into a unified system, simplifying data center operations.</p>
+<p><strong>Scalable Product Experiences:</strong> Designing and building products that can adapt and grow gracefully as user base and business needs expand.</p>
+<p><strong>Hypothesis-building:</strong> Formulating educated guesses about user behavior or system performance and designing experiments to test those hypotheses.</p>
+<p><strong>Design Thinking:</strong> A human-centered problem-solving approach in software development that emphasizes understanding user needs, iterative prototyping, and continuous testing.</p>
+<p><strong>Large-scale Frontend Applications:</strong> Complex, dynamic applications serving a vast user base, presenting unique challenges and requiring specific architectural approaches.</p>
+<p>In conclusion, senior frontend engineers in Bangalore must embody a diverse skill set, exhibit leadership qualities, and remain adaptable to the ever-evolving tech landscape. By staying informed and embracing new technologies and methodologies, they can navigate the software development job market successfully.</p>]]></content:encoded>
+            <category>job-boards</category>
+            <category>senior-frontend</category>
+            <category>job-descriptions</category>
+        </item>
+        <item>
+            <title><![CDATA[One last financial advice blog post for bachelor techies in India]]></title>
+            <link>https://dhbalaji.dev/blog/2024/the-last-personal-finance-advice-techies</link>
+            <guid>https://dhbalaji.dev/blog/2024/the-last-personal-finance-advice-techies</guid>
+            <pubDate>Wed, 03 Jan 2024 13:30:30 GMT</pubDate>
+            <description><![CDATA[In a world inundated with financial advice, it's surprising that many young professionals, especially the techies, still find themselves struggling financially. As someone who has risen from financial difficulties, I feel compelled to share my insights in what might be my last blog post on personal finance. This one's dedicated to my fellow bachelor employee countrymen who are navigating the complexities of finances without a strategy. Remember you need money from even before you are born and after you are dead.]]></description>
+            <content:encoded><![CDATA[
+<p>In a world inundated with financial advice, it's surprising that many young professionals, especially the techies, still find themselves struggling financially. As someone who has risen from financial difficulties, I feel compelled to share my insights in what might be my last blog post on personal finance. This one's dedicated to my fellow bachelor employee countrymen who are navigating the complexities of finances without a strategy. Remember you need money from even before you are born and after you are dead.</p>
+<blockquote>
+<p>TLDR: This article is my last blog article about financial planning for bachelor techies in India.</p>
+</blockquote>
+<p>Understanding the Types:</p>
+<p>I've observed that bachelor techies can be broadly classified into two types:</p>
+<p><strong>Type 1:</strong> No Debt</p>
+<p><strong>Type 2:</strong> Have Debt</p>
+<p>Let us assume your salary is 100 INR in your bank account, how to allocate salary of 100 INR? Now, let's delve into the nitty-gritty of an ideal financial plan based on your type.</p>
+<blockquote>
+<p>Depending on your salary, you may adjust the percentage split but ensure you have plan to send money into each category.</p>
+</blockquote>
+<h3 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="type-1-no-debt">Type 1: No Debt<a class="hash-link" aria-label="Direct link to Type 1: No Debt" title="Direct link to Type 1: No Debt" href="https://dhbalaji.dev/blog/2024/the-last-personal-finance-advice-techies#type-1-no-debt">​</a></h3>
+<p>For those fortunate enough to have no outstanding commitments, allocating your salary wisely is relatively simple:</p>
+<p>First Batch - Investment</p>
+<ol>
+<li>15Rs: Retirement Savings</li>
+<li>15Rs: Stocks/Business</li>
+<li>15Rs: Short-Term Savings</li>
+</ol>
+<p>Second Batch - Expenses</p>
+<ol>
+<li>20Rs: Rent/HRA</li>
+<li>20Rs: General Expenses</li>
+</ol>
+<p>Third Batch - Others</p>
+<ol>
+<li>5Rs: Discretionary</li>
+<li>5Rs: Parents/Cultural Expenses</li>
+</ol>
+<h3 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="type-2-have-debt">Type 2: Have Debt<a class="hash-link" aria-label="Direct link to Type 2: Have Debt" title="Direct link to Type 2: Have Debt" href="https://dhbalaji.dev/blog/2024/the-last-personal-finance-advice-techies#type-2-have-debt">​</a></h3>
+<p>If you find yourself burdened with loans, a strategic approach is necessary:</p>
+<p>Priority Batch - Debt Servicing</p>
+<ol>
+<li>25Rs: EMI</li>
+<li>10Rs: Principal Repayment</li>
+</ol>
+<p>First Batch - Investment</p>
+<ol>
+<li>5Rs: Retirement Savings</li>
+<li>5Rs: Stocks/Business</li>
+<li>10Rs: Short-Term Savings</li>
+</ol>
+<p>Second Batch - Expenses</p>
+<ol>
+<li>20Rs: Rent/HRA</li>
+<li>20Rs: General Expenses</li>
+</ol>
+<p>Third Batch - Others</p>
+<ol>
+<li>5Rs: Parents/Cultural Expenses</li>
+</ol>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="key-takeaways">Key Takeaways<a class="hash-link" aria-label="Direct link to Key Takeaways" title="Direct link to Key Takeaways" href="https://dhbalaji.dev/blog/2024/the-last-personal-finance-advice-techies#key-takeaways">​</a></h2>
+<p>Two critical points emerge from these allocations:</p>
+<ul>
+<li>
+<p>Survival Mode: Until your loans are fully serviced, you're essentially in survival mode. This phase might be tough, but it's essential to secure a healthy financial future.</p>
+</li>
+<li>
+<p>Future Planning: Without a strategic approach, you might compromise your financial stability in the long run.</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="other-tips">Other Tips<a class="hash-link" aria-label="Direct link to Other Tips" title="Direct link to Other Tips" href="https://dhbalaji.dev/blog/2024/the-last-personal-finance-advice-techies#other-tips">​</a></h2>
+<p>Apart from allocating your salary smartly, consider these practical tips to bolster your financial health:</p>
+<ol>
+<li>
+<p>Debt Refinancing: Explore options to reduce interest rates on existing loans. If possible, avoid debt leverage to raise wealth or buy consumables.</p>
+</li>
+<li>
+<p>Lean Lifestyle: Embrace a frugal lifestyle and look for value buys.</p>
+</li>
+<li>
+<p>Family Support: Seek assistance from family to share the financial burden.</p>
+</li>
+<li>
+<p>Expense Prevention: Avoid unnecessary expenses that can lead to a chain of additional financial burdens.</p>
+</li>
+<li>
+<p>Health and Safety: Maintain a healthy lifestyle to prevent unexpected medical expenses.</p>
+</li>
+</ol>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="conclusion">Conclusion<a class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" href="https://dhbalaji.dev/blog/2024/the-last-personal-finance-advice-techies#conclusion">​</a></h2>
+<p>Everyone aspires to retire peacefully with financial security. Being in survival mode, you cannot retire even in your old age. In a world where loans and notices clutter newspapers, leading a debt-free life simplifies everything. As bachelor techies, understanding your financial type and making strategic decisions today will pave the way for a secure and stress-free tomorrow.</p>
+<blockquote>
+<p>Newspapers would have less pages if nobody defaulted on their loans. Your life would be simple and stress free without debt.</p>
+</blockquote>]]></content:encoded>
+            <category>personal-finance</category>
+            <category>software-engineers</category>
+        </item>
+        <item>
+            <title><![CDATA[Unveiling Insights, Devfest 2023 Bangalore Edition Recap]]></title>
+            <link>https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore</link>
+            <guid>https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore</guid>
+            <pubDate>Fri, 29 Dec 2023 15:30:22 GMT</pubDate>
+            <description><![CDATA[dev fest 2023 banner]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="dev fest 2023 banner" src="https://dhbalaji.dev/assets/images/dev-fest-banner-cf9f4141c53e097f5ef463e44212f487.webp" width="1350" height="673" class="img_D5_e"></p>
+<p>The grandeur of Devfest 2023 unfolded at the prestigious Lalit Ashok, where Google developers took center stage to orchestrate a symphony of innovation. The event served as a vibrant platform for the dissemination of information, featuring insights into new products, APIs, and captivating informational sessions. Here, we delve into the top 10 takeaways that marked the essence of this year's Devfest.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="1-ai-takes-center-stage">1. AI Takes Center Stage<a class="hash-link" aria-label="Direct link to 1. AI Takes Center Stage" title="Direct link to 1. AI Takes Center Stage" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#1-ai-takes-center-stage">​</a></h2>
+<p>The developer landscape is undergoing a paradigm shift towards artificial intelligence, as revealed by comprehensive analyses of developer surveys conducted by eminent organizations such as GitHub, Stack Overflow, Developer Surveys, and JetBrains. The data presented showcased the undeniable trajectory towards the integration of AI across the developer ecosystem.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="2-vertex-ai-and-duet-ai-unveiled">2. Vertex AI and Duet AI Unveiled<a class="hash-link" aria-label="Direct link to 2. Vertex AI and Duet AI Unveiled" title="Direct link to 2. Vertex AI and Duet AI Unveiled" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#2-vertex-ai-and-duet-ai-unveiled">​</a></h2>
+<p>Hall 1 witnessed an in-depth exploration of Vertex AI and Duet AI, unraveling the intricacies of these cutting-edge technologies. The sessions provided attendees with valuable insights into the functionalities and applications of these powerful tools.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="3-android-14-apis-elevating-the-premium-experience">3. Android 14 APIs: Elevating the Premium Experience<a class="hash-link" aria-label="Direct link to 3. Android 14 APIs: Elevating the Premium Experience" title="Direct link to 3. Android 14 APIs: Elevating the Premium Experience" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#3-android-14-apis-elevating-the-premium-experience">​</a></h2>
+<p>A premium Android session captivated the audience with a focus on Android 14 APIs designed specifically for premium phones. The emphasis lay on delivering high-tech specifications, longevity through security fixes, and a seamless experience on larger screens with enhanced polish.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="4-ux-design-for-foldable-and-flippable-phones">4. UX Design for Foldable and Flippable Phones<a class="hash-link" aria-label="Direct link to 4. UX Design for Foldable and Flippable Phones" title="Direct link to 4. UX Design for Foldable and Flippable Phones" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#4-ux-design-for-foldable-and-flippable-phones">​</a></h2>
+<p>The evolution of foldable and flippable phones necessitates a distinctive approach to UX design. The discussions highlighted the need for unique designs tailored to large screens, presenting developers with the challenge of crafting engaging user experiences for these innovative form factors.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="5-generative-ai-unleashed">5. Generative AI Unleashed<a class="hash-link" aria-label="Direct link to 5. Generative AI Unleashed" title="Direct link to 5. Generative AI Unleashed" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#5-generative-ai-unleashed">​</a></h2>
+<p>A spotlight on generative AI on the backend and the introduction of the Gemini API as a replacement for the Palm API stirred excitement. The Google AI Studio was presented as a playground for developers eager to explore and experiment with the capabilities of the Gemini API.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="6-accelerating-prototyping-with-open-source-llm">6. Accelerating Prototyping with Open Source LLM<a class="hash-link" aria-label="Direct link to 6. Accelerating Prototyping with Open Source LLM" title="Direct link to 6. Accelerating Prototyping with Open Source LLM" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#6-accelerating-prototyping-with-open-source-llm">​</a></h2>
+<p>Open source Large Language Models (LLMs) emerged as a key tool for fast prototyping. To stand out in a crowded landscape, developers were advised to customize or enhance LLMs with specialized data, fostering innovation and differentiation.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="7-flutter-engine-navigating-the-browser">7. Flutter Engine: Navigating the Browser<a class="hash-link" aria-label="Direct link to 7. Flutter Engine: Navigating the Browser" title="Direct link to 7. Flutter Engine: Navigating the Browser" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#7-flutter-engine-navigating-the-browser">​</a></h2>
+<p>Insights into the Flutter engine and its functioning on the browser illuminated the audience. Flutter web's utilization of canvas as middleware between the Flutter engine and DOM was a pivotal topic, shedding light on the nuances of web development with Flutter.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="8-prompt-engineering-for-ai-sanity">8. Prompt Engineering for AI Sanity<a class="hash-link" aria-label="Direct link to 8. Prompt Engineering for AI Sanity" title="Direct link to 8. Prompt Engineering for AI Sanity" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#8-prompt-engineering-for-ai-sanity">​</a></h2>
+<p>The critical aspect of prompt engineering took the spotlight, with complex examples illustrating its necessity to avoid "AI hallucination." Understanding and refining prompts is essential to ensure the ethical and accurate functioning of AI systems.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="9-gemini-nano-on-device-ml-powerhouse">9. Gemini Nano: On-Device ML Powerhouse<a class="hash-link" aria-label="Direct link to 9. Gemini Nano: On-Device ML Powerhouse" title="Direct link to 9. Gemini Nano: On-Device ML Powerhouse" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#9-gemini-nano-on-device-ml-powerhouse">​</a></h2>
+<p>Gemini Nano, a Large Language Model tailored for on-device ML tasks, was introduced, promising a leap forward in the capabilities of machine learning on mobile devices.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="10-optimizing-ui-for-tier-3-regions">10. Optimizing UI for Tier 3 Regions<a class="hash-link" aria-label="Direct link to 10. Optimizing UI for Tier 3 Regions" title="Direct link to 10. Optimizing UI for Tier 3 Regions" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#10-optimizing-ui-for-tier-3-regions">​</a></h2>
+<p>Addressing the challenges posed by low-end Android devices prevalent in rural India, developers were enlightened on optimizing user interfaces using performance metrics like Time to First Byte (TTFB) and end device compute metrics. This strategic approach aims to enhance the user experience in regions with limited processing power and network strength.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="in-conclusion">In Conclusion<a class="hash-link" aria-label="Direct link to In Conclusion" title="Direct link to In Conclusion" href="https://dhbalaji.dev/blog/2023/10-take-aways-from-devfest-bangalore#in-conclusion">​</a></h2>
+<p>Devfest 2023 witnessed a diverse audience converging from various states in India, attesting to its significance in the developer community. The content shared was nothing short of groundbreaking, offering Google developers a glimpse into the future. Despite a few organizational hiccups, such as lengthy queues and seating shortages, the event served as a beacon of innovation and collaboration, leaving attendees inspired and eager to embark on their next development journey.</p>
+<blockquote>
+<p><a href="https://gdg.community.dev/events/details/google-gdg-bangalore-presents-devfest-bangalore-2023/" target="_blank" rel="noopener noreferrer">GDG website</a></p>
+</blockquote>]]></content:encoded>
+            <category>tech-conference</category>
+        </item>
+        <item>
+            <title><![CDATA[Navigating the Essentials, My Useless YouTube Gear Investments]]></title>
+            <link>https://dhbalaji.dev/blog/2023/4-useless-gadgets-purchased-for-youtube</link>
+            <guid>https://dhbalaji.dev/blog/2023/4-useless-gadgets-purchased-for-youtube</guid>
+            <pubDate>Fri, 29 Dec 2023 15:30:22 GMT</pubDate>
+            <description><![CDATA[Useless Youtube Gear]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Useless Youtube Gear" src="https://dhbalaji.dev/assets/images/youtube-camera-gear-0626be2f30f9f04906087fb992243d30.webp" width="1280" height="853" class="img_D5_e"></p>
+<p>In the pursuit of YouTube success, many content creators find themselves on a quest for the perfect gadgets to enhance their production quality. I too embarked on this journey, investing in four gadgets with the hope of elevating my content. However, hindsight has brought clarity, revealing that these purchases did not contribute significantly to my YouTube success. In this blog post, I'll delve into each gadget and share the lessons learned.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="1-whiteboard-and-marker-pens-simplicity-vs-practicality">1. Whiteboard and Marker Pens: Simplicity vs. Practicality<a class="hash-link" aria-label="Direct link to 1. Whiteboard and Marker Pens: Simplicity vs. Practicality" title="Direct link to 1. Whiteboard and Marker Pens: Simplicity vs. Practicality" href="https://dhbalaji.dev/blog/2023/4-useless-gadgets-purchased-for-youtube#1-whiteboard-and-marker-pens-simplicity-vs-practicality">​</a></h2>
+<p>At first glance, a whiteboard and marker pens seemed like a practical investment to recreate a classroom setting for content demonstrations. However, I soon realized that this setup required a level of confidence and was better suited for academic content. For my YouTube endeavors, originality, presentation, uniqueness, and searchability took precedence over the traditional classroom approach.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="2-digital-pens-the-unanticipated-learning-curve">2. Digital Pens: The Unanticipated Learning Curve<a class="hash-link" aria-label="Direct link to 2. Digital Pens: The Unanticipated Learning Curve" title="Direct link to 2. Digital Pens: The Unanticipated Learning Curve" href="https://dhbalaji.dev/blog/2023/4-useless-gadgets-purchased-for-youtube#2-digital-pens-the-unanticipated-learning-curve">​</a></h2>
+<p>Digital pens promised seamless scribbling and emphasis during screen sharing. Unfortunately, the reality included a steep learning curve. The basic digital pen I initially purchased turned out to be of little use without acquiring the specific skills needed. This experience underscored the importance of thoroughly researching and understanding the tools before making a purchase.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="3-software-for-editing-a-windows-update-and-more">3. Software for Editing: A Windows Update and More<a class="hash-link" aria-label="Direct link to 3. Software for Editing: A Windows Update and More" title="Direct link to 3. Software for Editing: A Windows Update and More" href="https://dhbalaji.dev/blog/2023/4-useless-gadgets-purchased-for-youtube#3-software-for-editing-a-windows-update-and-more">​</a></h2>
+<p>Video editing is an indispensable aspect of content creation, and I invested time in updating my Windows and learning the nuances of video editing. While I achieved some success, the hardware limitations of my PC hindered the production of high-quality, full-HD videos. This realization highlighted the need for a balance between software proficiency and hardware capabilities to meet the standards of modern YouTube content.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="4-lavalier-microphone-battling-ambient-noise">4. Lavalier Microphone: Battling Ambient Noise<a class="hash-link" aria-label="Direct link to 4. Lavalier Microphone: Battling Ambient Noise" title="Direct link to 4. Lavalier Microphone: Battling Ambient Noise" href="https://dhbalaji.dev/blog/2023/4-useless-gadgets-purchased-for-youtube#4-lavalier-microphone-battling-ambient-noise">​</a></h2>
+<p>Capturing pristine audio in a less-than-ideal environment posed a significant challenge. Despite the assistance of a lavalier microphone, the ambient noise from barking dogs and honking drivers persisted, preventing the attainment of studio-quality audio. This experience emphasized the importance of considering the external factors that can impact audio quality and exploring alternative solutions.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="conclusion-a-pragmatic-approach-to-youtube-success">Conclusion: A Pragmatic Approach to YouTube Success<a class="hash-link" aria-label="Direct link to Conclusion: A Pragmatic Approach to YouTube Success" title="Direct link to Conclusion: A Pragmatic Approach to YouTube Success" href="https://dhbalaji.dev/blog/2023/4-useless-gadgets-purchased-for-youtube#conclusion-a-pragmatic-approach-to-youtube-success">​</a></h2>
+<p>In conclusion, achieving YouTube success requires a blend of skills, awareness, and time commitment—factors that I found myself lacking. While certain gadgets, like a camera stand and a reliable camera phone, proved to be useful, the shift towards shorts and reels emerged as a more practical strategy. Testing content with shorter formats allows creators to gauge audience response without the need for an expensive infrastructure required for full-length videos.</p>
+<p>Aspiring YouTubers should prioritize understanding their niche, refining their content, and gradually investing in tools that align with their evolving needs. Rather than hastily diving into full-length videos, a strategic focus on shorts and reels can provide valuable insights and pave the way for a more sustainable path to YouTube success.</p>
+<blockquote>
+<p>To grow Youtube channel in a lean way, focus of shorts creation and pivot in a inexpensive way</p>
+</blockquote>]]></content:encoded>
+            <category>content</category>
+            <category>youtube</category>
+        </item>
+        <item>
+            <title><![CDATA[Why I Quit Creating Content on YouTube A Reflection on the Changing Landscape]]></title>
+            <link>https://dhbalaji.dev/blog/2023/bye-youtube-content-creation</link>
+            <guid>https://dhbalaji.dev/blog/2023/bye-youtube-content-creation</guid>
+            <pubDate>Mon, 11 Dec 2023 15:30:22 GMT</pubDate>
+            <description><![CDATA[Introduction:]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/youtube-app-f4b96955f2bb12aed9f265cdf98b6dc6.webp" width="1280" height="853" class="img_D5_e"></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="introduction">Introduction:<a class="hash-link" aria-label="Direct link to Introduction:" title="Direct link to Introduction:" href="https://dhbalaji.dev/blog/2023/bye-youtube-content-creation#introduction">​</a></h2>
+<p>In the dynamic world of content creation, platforms like YouTube have played a pivotal role in connecting creators with their audiences. As someone who embarked on a YouTube journey in 2020, I experienced the highs and lows of content creation. However, after three years of dedication, I found myself at a crossroads, leading me to make the tough decision to step away from the platform. In this post, I'll delve into the three primary reasons that prompted me to bid farewell to YouTube and explore an alternative path that aligns better with my goals.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="reason-1-landscape-has-changed">Reason 1: Landscape has changed<a class="hash-link" aria-label="Direct link to Reason 1: Landscape has changed" title="Direct link to Reason 1: Landscape has changed" href="https://dhbalaji.dev/blog/2023/bye-youtube-content-creation#reason-1-landscape-has-changed">​</a></h2>
+<p>The onset of the COVID-19 pandemic saw a surge in content creation as people sought new ways to spend their time. The demand for content was high, but by 2023, the landscape had transformed significantly. Educational content creators faced a daunting challenge of standing out amidst the crowd pullers like news, comics, and film-related content. Unfortunately, educational content struggled to capture the audience's attention, making it increasingly challenging for solo creators to thrive.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="reason-2-posted-content-does-not-get-promoted">Reason 2: Posted content does not get promoted<a class="hash-link" aria-label="Direct link to Reason 2: Posted content does not get promoted" title="Direct link to Reason 2: Posted content does not get promoted" href="https://dhbalaji.dev/blog/2023/bye-youtube-content-creation#reason-2-posted-content-does-not-get-promoted">​</a></h2>
+<p>While YouTube serves as a vast platform with immense potential, getting content noticed became an uphill battle. The algorithmic changes and sheer volume of content meant that creators had to rely on their existing subscriber base or invest in promotional efforts. For those starting from scratch, breaking through the noise proved to be as challenging as finding a needle in a haystack. The lack of organic promotion made it difficult for new creators without a substantial audience to showcase their work.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="reason-3-form-over-content">Reason 3: Form over content<a class="hash-link" aria-label="Direct link to Reason 3: Form over content" title="Direct link to Reason 3: Form over content" href="https://dhbalaji.dev/blog/2023/bye-youtube-content-creation#reason-3-form-over-content">​</a></h2>
+<p>The evolution of content creation standards brought forth new challenges. The days when a front camera sufficed for creating engaging content are long gone. Today, success demands high-quality cameras, aesthetically pleasing backgrounds, captivating thumbnail graphics, and more. The time-consuming process of adhering to these visual standards often took away from the core focus – the content itself. This shift towards a more polished presentation, while visually appealing, did not necessarily translate into increased viewership.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="alternative">Alternative<a class="hash-link" aria-label="Direct link to Alternative" title="Direct link to Alternative" href="https://dhbalaji.dev/blog/2023/bye-youtube-content-creation#alternative">​</a></h2>
+<p>In light of these challenges, I've decided to retreat from YouTube content creation and refocus my efforts on traditional blogging. Leveraging the power of AI tools, my blogging endeavors have seen a resurgence. The efficiency and effectiveness of these tools have allowed me to rediscover the joy of content creation without the constraints and challenges posed by the ever-evolving landscape of YouTube.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="conclusion">Conclusion:<a class="hash-link" aria-label="Direct link to Conclusion:" title="Direct link to Conclusion:" href="https://dhbalaji.dev/blog/2023/bye-youtube-content-creation#conclusion">​</a></h2>
+<p>The decision to step away from YouTube was not made lightly, and it's essential for content creators to regularly reassess their chosen platforms. While YouTube remains a giant in the industry, the shifting landscape and challenges faced by solo creators necessitate adaptability. For those seeking a more flexible and personally fulfilling creative outlet, exploring alternative mediums, like traditional blogging with AI enhancements, might prove to be the key to sustained success and satisfaction.</p>]]></content:encoded>
+            <category>content</category>
+            <category>youtube</category>
+        </item>
+        <item>
+            <title><![CDATA[Keeping Updated at Frontend Tech, 4 Strategies Beyond Blogs and Podcasts]]></title>
+            <link>https://dhbalaji.dev/blog/2023/4-step-process-to-stay-updated</link>
+            <guid>https://dhbalaji.dev/blog/2023/4-step-process-to-stay-updated</guid>
+            <pubDate>Wed, 18 Oct 2023 15:30:22 GMT</pubDate>
+            <description><![CDATA[As a dedicated frontend engineer, complacency is not an option. Staying at the forefront of technology is vital to navigate the ever-evolving landscape and provide innovative solutions to your clients. In this article, we'll explore four unconventional approaches to keeping up with frontend tech that don't involve traditional blogs or podcasts.]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/confused-boy-d9d070205429f6f9c3c8af0fdcc04f6a.webp" width="1280" height="720" class="img_D5_e"></p>
+<p>As a dedicated frontend engineer, complacency is not an option. Staying at the forefront of technology is vital to navigate the ever-evolving landscape and provide innovative solutions to your clients. In this article, we'll explore four unconventional approaches to keeping up with frontend tech that don't involve traditional blogs or podcasts.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="1-follow-the-titans">1. Follow the Titans<a class="hash-link" aria-label="Direct link to 1. Follow the Titans" title="Direct link to 1. Follow the Titans" href="https://dhbalaji.dev/blog/2023/4-step-process-to-stay-updated#1-follow-the-titans">​</a></h2>
+<p>One effective way to stay informed is by closely monitoring the thought leaders in the industry. These experts not only share their extensive knowledge but also disseminate the latest developments in frontend technology. For instance, Addy Osmani, a prominent figure in this field, is renowned for publishing cutting-edge research and providing real-time updates via Twitter or follow their talks or conferences. Here are some more influential figures to follow:</p>
+<ul>
+<li>Ben Frain</li>
+<li>Jake Archibald</li>
+<li>Lea Verou</li>
+<li>Addy Osmani</li>
+<li>David Walsh</li>
+<li>John Resig</li>
+<li>Paul Irish</li>
+<li>Alex Russell</li>
+<li>Chris Coyier</li>
+<li>Chris Lilley</li>
+<li>Dan Abramov</li>
+<li>David Khourshid</li>
+<li>Harry Roberts</li>
+<li>Kent C. Dodds</li>
+<li>Lin Clark</li>
+<li>Nicole Sullivan</li>
+<li>Sara Soueidan</li>
+<li>Wes Bos</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="2-embrace-conferences-and-meetups">2. Embrace Conferences and Meetups<a class="hash-link" aria-label="Direct link to 2. Embrace Conferences and Meetups" title="Direct link to 2. Embrace Conferences and Meetups" href="https://dhbalaji.dev/blog/2023/4-step-process-to-stay-updated#2-embrace-conferences-and-meetups">​</a></h2>
+<p>Frontend conferences and meetups are a treasure trove of insights. While it might not be feasible to watch every presentation on YouTube, you can gain valuable information by skimming through the talk titles. If a particular topic repeatedly surfaces, it's a clear indication of its significance. Here are some noteworthy conferences and meetups to keep an eye on:</p>
+<p>Conferences:</p>
+<ul>
+<li>Smashing Conference (San Francisco, CA, USA)</li>
+<li>React Advanced (London, UK)</li>
+<li>VueConf (Multiple locations)</li>
+<li>Svelte Summit (Multiple locations)</li>
+<li>CSSConf (Multiple locations)</li>
+<li>Front-end Developers Conference (Multiple locations)</li>
+<li>Full-Stack Web Dev Conference (Multiple locations)</li>
+<li>JavaScript Conference (Multiple locations)</li>
+</ul>
+<p>Meetups:</p>
+<ul>
+<li>Front-End Developers Meetup</li>
+<li>React Meetup</li>
+<li>Vue Meetup</li>
+<li>Svelte Meetup</li>
+<li>CSS Meetup</li>
+<li>Full-Stack Web Dev Meetup</li>
+<li>JavaScript Meetup</li>
+<li>Web Performance Meetup</li>
+<li>Accessibility Meetup</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="3-dive-into-the-specs">3. Dive into the Specs<a class="hash-link" aria-label="Direct link to 3. Dive into the Specs" title="Direct link to 3. Dive into the Specs" href="https://dhbalaji.dev/blog/2023/4-step-process-to-stay-updated#3-dive-into-the-specs">​</a></h2>
+<p>Frontend development thrives on open standards, and there are no secrets in this domain. A true professional must dive into the technical specifications. Keep a vigilant eye on the following organizations and their corresponding standards:</p>
+<ul>
+<li>For JavaScript, stay updated with TC39.</li>
+<li>For HTML and CSS, rely on W3C.</li>
+<li>Accessibility standards are set by WCAG.</li>
+<li>TypeScript enthusiasts should monitor TypeScript proposals.</li>
+</ul>
+<p>Becoming adept at deciphering these proposals can qualify you as a tech speaker and provide instant insights for your fellow developers.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="4-explore-case-studies-job-boards-and-journals">4. Explore Case Studies, Job boards and Journals<a class="hash-link" aria-label="Direct link to 4. Explore Case Studies, Job boards and Journals" title="Direct link to 4. Explore Case Studies, Job boards and Journals" href="https://dhbalaji.dev/blog/2023/4-step-process-to-stay-updated#4-explore-case-studies-job-boards-and-journals">​</a></h2>
+<p>Periodically, top-tier tech companies, such as Slack and Airbnb, release quality blogs that provide invaluable insights. Studying such content, which is tried and tested at scale on millions of users, can lead to innovative breakthroughs in your work. Notable publications, like Thoughtworks' Radar, delve into a wide array of frontend topics discussed at a CTO level, making them a must-read resource for any serious developer.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="conclusion">Conclusion<a class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" href="https://dhbalaji.dev/blog/2023/4-step-process-to-stay-updated#conclusion">​</a></h2>
+<p>Staying updated in frontend tech is no cakewalk. The methods outlined above may not be the easiest or most convenient, but they are highly effective. There is no easy way, the above said methods are not the easiest like skimming a newsletter or tech blog but I believe you can ascend to the ranks of an expert frontend developer with the above 4 strategies.</p>]]></content:encoded>
+            <category>frontend</category>
+        </item>
+        <item>
+            <title><![CDATA[Reflections on Fifth work anniversary, Embracing Challenges and Growth]]></title>
+            <link>https://dhbalaji.dev/blog/2023/4-things-to-ponder-about-fifth-work-anniversary</link>
+            <guid>https://dhbalaji.dev/blog/2023/4-things-to-ponder-about-fifth-work-anniversary</guid>
+            <pubDate>Sun, 30 Jul 2023 15:30:22 GMT</pubDate>
+            <description><![CDATA[In the pursuit of professional excellence, one occasionally stumbles upon the state of being set in flow—a harmonious engagement where time seems to slip away effortlessly. Today, as I mark my fifth work anniversary with my fourth employer, I am overwhelmed with the euphoria of this accomplishment. Throughout my career, I have experienced various moments of significance, and in this blog, I wish to share four events that have shaped my journey.]]></description>
+            <content:encoded><![CDATA[<p>In the pursuit of professional excellence, one occasionally stumbles upon the state of being set in flow—a harmonious engagement where time seems to slip away effortlessly. Today, as I mark my fifth work anniversary with my fourth employer, I am overwhelmed with the euphoria of this accomplishment. Throughout my career, I have experienced various moments of significance, and in this blog, I wish to share four events that have shaped my journey.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="embracing-opportunities-the-impact-of-a-tech-conference">Embracing Opportunities: The Impact of a Tech Conference<a class="hash-link" aria-label="Direct link to Embracing Opportunities: The Impact of a Tech Conference" title="Direct link to Embracing Opportunities: The Impact of a Tech Conference" href="https://dhbalaji.dev/blog/2023/4-things-to-ponder-about-fifth-work-anniversary#embracing-opportunities-the-impact-of-a-tech-conference">​</a></h2>
+<p>As fate would have it, the most promising opportunities often arise when one is least expecting them. Such was the case when I attended the GIDS conference in 2018. Among the myriad of stalls, Sabre's presence caught my attention. Completing intriguing challenges and applying for hiring opportunities, I secured some delightful takeaways from the event. Little did I know that my enthusiasm would lead to a profound connection with the hiring manager, ultimately leading to my employment at Sabre.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="stepping-into-uncharted-territories-the-cultural-shock-of-full-stack-development">Stepping Into Uncharted Territories: The Cultural Shock of Full Stack Development<a class="hash-link" aria-label="Direct link to Stepping Into Uncharted Territories: The Cultural Shock of Full Stack Development" title="Direct link to Stepping Into Uncharted Territories: The Cultural Shock of Full Stack Development" href="https://dhbalaji.dev/blog/2023/4-things-to-ponder-about-fifth-work-anniversary#stepping-into-uncharted-territories-the-cultural-shock-of-full-stack-development">​</a></h2>
+<p>Having honed my skills in frontend development, joining Sabre introduced me to an entirely new world of full stack development expertise. The experience proved to be both exhilarating and challenging, as I was entrusted with responsibilities beyond the frontend realm. Despite the initial stress, my foundational knowledge in Java enabled me to navigate through unfamiliar territories with confidence and adaptability.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="the-challenges-of-brownfield-software-a-lesson-in-agility">The Challenges of Brownfield Software: A Lesson in Agility<a class="hash-link" aria-label="Direct link to The Challenges of Brownfield Software: A Lesson in Agility" title="Direct link to The Challenges of Brownfield Software: A Lesson in Agility" href="https://dhbalaji.dev/blog/2023/4-things-to-ponder-about-fifth-work-anniversary#the-challenges-of-brownfield-software-a-lesson-in-agility">​</a></h2>
+<p>In the dynamic world of software development, greenfield projects often garner excitement, but the complexities of brownfield issues are seldom met with the same enthusiasm. Overcoming these challenges requires not only technical expertise but also strategic proposals to secure the necessary resources. Adapting to the agile development approach, I learned the significance of addressing outdated software libraries and the importance of proactive solutions.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="embracing-new-horizons-the-power-of-internal-job-postings">Embracing New Horizons: The Power of Internal Job Postings<a class="hash-link" aria-label="Direct link to Embracing New Horizons: The Power of Internal Job Postings" title="Direct link to Embracing New Horizons: The Power of Internal Job Postings" href="https://dhbalaji.dev/blog/2023/4-things-to-ponder-about-fifth-work-anniversary#embracing-new-horizons-the-power-of-internal-job-postings">​</a></h2>
+<p>Throughout my five years, I remained unbound to a single project, exploring different avenues within the organization. This willingness to embrace new opportunities led to a pivotal moment in my career when I received a promotion to lead engineer. Embracing a role within the Enterprise Design Language team, I was immersed in the world of frontend development, which I found to be exhilarating. The experience reinforced the significance of internal job postings, fostering growth and organizational exploration.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="conclusion">Conclusion:<a class="hash-link" aria-label="Direct link to Conclusion:" title="Direct link to Conclusion:" href="https://dhbalaji.dev/blog/2023/4-things-to-ponder-about-fifth-work-anniversary#conclusion">​</a></h2>
+<p>As I reflect upon my journey over the past five years, I am reminded of the power of seizing opportunities, embracing change, and striving for growth. Each experience, whether unexpected or planned, has contributed to my professional development, molding me into a more resilient and adaptable individual. With gratitude for the past and excitement for the future, I eagerly await the challenges and triumphs that await in the next chapter of my career.</p>]]></content:encoded>
+            <category>work</category>
+        </item>
+        <item>
+            <title><![CDATA[4 things you need to know about The Enthralling Annual Book Fair in Hosur, A Haven for Literature Enthusiasts]]></title>
+            <link>https://dhbalaji.dev/blog/2023/4-things-to-know-about-hosur-book-fair</link>
+            <guid>https://dhbalaji.dev/blog/2023/4-things-to-know-about-hosur-book-fair</guid>
+            <pubDate>Sun, 23 Jul 2023 15:30:22 GMT</pubDate>
+            <description><![CDATA["Balaji at Hosur Book Festival"]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="&amp;quot;Balaji at Hosur Book Festival&amp;quot;" src="https://dhbalaji.dev/assets/images/at-hosur-book-festival-39c0dfa3ef2bbf132d65bed874bd24ec.webp" width="1600" height="900" class="img_D5_e"></p>
+<p>As an ardent book enthusiast residing in an emerging city, I have often faced the challenge of finding a well-stocked bookstore or literary hub in the vicinity. However, to invigorate our minds and hearts, the residents of Hosur organize an annual book fair that has become a highly anticipated event on our cultural calendar. Having attended this remarkable fair since 2017, I present here four essential aspects that encapsulate its significance.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="a-celebration-of-tamil-literature">A Celebration of Tamil Literature<a class="hash-link" aria-label="Direct link to A Celebration of Tamil Literature" title="Direct link to A Celebration of Tamil Literature" href="https://dhbalaji.dev/blog/2023/4-things-to-know-about-hosur-book-fair#a-celebration-of-tamil-literature">​</a></h2>
+<p>Happening in the heart of Tamil Nadu, the Hosur Book Fair predominantly showcases an impressive collection of books within the realm of Tamil literature. From timeless classics such as Thirukural to masterpieces like Ponniyan Selvan, the fair offers an array of literary treasures that cater to the diverse tastes of the Tamil-speaking populace. A dedicated book store with books related to Periyar, how about that.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="diverse-religious-book-stalls">Diverse Religious Book Stalls<a class="hash-link" aria-label="Direct link to Diverse Religious Book Stalls" title="Direct link to Diverse Religious Book Stalls" href="https://dhbalaji.dev/blog/2023/4-things-to-know-about-hosur-book-fair#diverse-religious-book-stalls">​</a></h2>
+<p>A distinctive feature of the book fair is the presence of stalls dedicated to various religious themes and spiritual pursuits. Visitors can explore bookshelves teeming with Islamic texts, works by Isha Foundation, and other publications centered around religious ideologies. Importantly, these stalls respect the individual choices of visitors, making the experience inclusive and welcoming.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="unearthing-literary-gems-the-used-book-stalls">Unearthing Literary Gems: The Used Book Stalls<a class="hash-link" aria-label="Direct link to Unearthing Literary Gems: The Used Book Stalls" title="Direct link to Unearthing Literary Gems: The Used Book Stalls" href="https://dhbalaji.dev/blog/2023/4-things-to-know-about-hosur-book-fair#unearthing-literary-gems-the-used-book-stalls">​</a></h2>
+<p>A true delight for bibliophiles, the fair boasts a fascinating array of used book stalls akin to an adventurous treasure hunt. Many of these stalls offer books previously owned by readers or libraries outside India. The books are sold either by weight or individually at a nominal price of Rs 100 per piece, providing exceptional value for those seeking hidden literary treasures.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="the-trustworthy-source-authentic-books-from-distributors">The Trustworthy Source: Authentic Books from Distributors<a class="hash-link" aria-label="Direct link to The Trustworthy Source: Authentic Books from Distributors" title="Direct link to The Trustworthy Source: Authentic Books from Distributors" href="https://dhbalaji.dev/blog/2023/4-things-to-know-about-hosur-book-fair#the-trustworthy-source-authentic-books-from-distributors">​</a></h2>
+<p>In a world rife with counterfeit copies, the book fair stands out as a reliable platform where customers can acquire authentic books directly from esteemed distributors, publishers, and reputable book houses. Unlike some online platforms that occasionally deal in pirated editions, the fair assures visitors of genuine and legally sourced literature. While the prices might marginally exceed those found on certain online retailers, patrons are more than willing to invest in the assurance of authenticity.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="conclusion">Conclusion<a class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" href="https://dhbalaji.dev/blog/2023/4-things-to-know-about-hosur-book-fair#conclusion">​</a></h2>
+<p>The annual Hosur Book Fair has evolved into a remarkable celebration of literature and culture, enchanting the bookworms of the city and beyond. With its emphasis on Tamil literature, diverse religious offerings, captivating used book stalls, and a commitment to genuine publications, this literary extravaganza has etched a special place in the hearts of the attendees. As a devoted visitor, I eagerly look forward to each edition of the fair, for it not only rejuvenates the mind but also fosters a profound appreciation for the world of written words.</p>]]></content:encoded>
+            <category>books</category>
+        </item>
+        <item>
+            <title><![CDATA[4 Pillars of Financial Success for Individuals in India]]></title>
+            <link>https://dhbalaji.dev/blog/2023/4-pillars-of-financial-success</link>
+            <guid>https://dhbalaji.dev/blog/2023/4-pillars-of-financial-success</guid>
+            <pubDate>Tue, 20 Jun 2023 15:30:22 GMT</pubDate>
+            <description><![CDATA[In the pursuit of financial success, individuals often dedicate a significant amount of time to consuming financial news, financial literature, minimalist techniques or simply ask their friends for ideas. In this article, we will focus on four essential pillars of financial success for individuals with an Indian background. By following these principles, individuals can strive towards a more secure and prosperous financial future.]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/money-matters-25a14c6e8e8d16eda2faf7cbd2e4ba75.webp" width="1280" height="853" class="img_D5_e"></p>
+<p>In the pursuit of financial success, individuals often dedicate a significant amount of time to consuming financial news, financial literature, minimalist techniques or simply ask their friends for ideas. In this article, we will focus on four essential pillars of financial success for individuals with an Indian background. By following these principles, individuals can strive towards a more secure and prosperous financial future.</p>
+<p>By focusing on steady income growth, reducing liabilities, avoiding major losses, and holding long-term growth assets, individuals can enhance their financial well-being and build a solid foundation for the future.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="steady-growing-income">Steady growing income<a class="hash-link" aria-label="Direct link to Steady growing income" title="Direct link to Steady growing income" href="https://dhbalaji.dev/blog/2023/4-pillars-of-financial-success#steady-growing-income">​</a></h2>
+<p>Establishing a steady growing income is a fundamental principle for individuals in India who aspire to achieve financial success. In a country where many middle-class individuals experience limited job growth and security, relying on a single source of income can be precarious. Personally they have to rack up atleast one year worth of expenses in a liquid fund or fixed deposit which I categorize as lazy funds.</p>
+<p>Its surprising to see senior advocates, doctors, businessmen making handsome income in their late 80s but a retired engineer making nothing other than his pension if any.</p>
+<blockquote>
+<p>Tip #1: Choosing a retirement proof career is key in financial planning.</p>
+</blockquote>
+<p>If you are already mid way through career, start and grow a promising business because business owner cannot be fired or forced to retire by labour laws.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="declining-or-reduced-liabilities">Declining or reduced liabilities<a class="hash-link" aria-label="Direct link to Declining or reduced liabilities" title="Direct link to Declining or reduced liabilities" href="https://dhbalaji.dev/blog/2023/4-pillars-of-financial-success#declining-or-reduced-liabilities">​</a></h2>
+<p>Traditionally, individuals in India would secure employment within their local communities and often live with extended family or in joint households. Consequently, recurring expenses such as rent, electricity, and locking up money in the form of advances or security deposits were relatively unheard of. However, the modern lifestyle has led to an alarming increase in imprudent accumulation of liabilities. Even before securing employment, individuals often find themselves burdened with education loans, followed by payday loans soon after receiving their first salary. While it is not fair to blame individuals entirely, the expenses associated with metropolitan living necessitate managing multiple financial responsibilities with a limited income, leaving minimal room for savings in their 40s.</p>
+<p>Maintaining strong family connections, prioritizing children's needs, and preserving cultural traditions can quickly deplete financial resources, making one's 30s more challenging than anticipated. Ultimately, achieving financial success requires generating income several times greater than one's liabilities. If it proves difficult to substantially increase income, it is imperative to focus on reducing costs and minimizing liabilities. Many successful individuals have chosen to retain modest lifestyles, refraining from upgrading furniture, driving smaller vehicles, and using the same vehicle for extended periods.</p>
+<blockquote>
+<p>Tip #2: Avoid the shiny, fad and impractical expenses. Think long term before you commit for something.</p>
+</blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="not-incurring-major-losses">Not incurring major losses<a class="hash-link" aria-label="Direct link to Not incurring major losses" title="Direct link to Not incurring major losses" href="https://dhbalaji.dev/blog/2023/4-pillars-of-financial-success#not-incurring-major-losses">​</a></h2>
+<p>It is an undeniable fact that the path to wealth creation has always been filled with risks and uncertainties. A notable story from the book "The Richest Man in Babylon" recounts an individual who lost their investments due to misguided advice when purchasing gold, resulting in poor decision-making. Today, individuals continue to face similar challenges, often influenced by biased recommendations from stockbrokers, mis-selling insurance agents, and other vested interests. Countless individuals have taken leaps of faith only to discover that their ventures led to significant financial losses, whether through failed businesses or ill-informed investment decisions. Such losses can have long-term consequences on one's financial stability and progress.</p>
+<blockquote>
+<p>Tip #3: In new ventures, Diversify even if the returns are less because losing capital means losing the game of financial success.</p>
+</blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="create--holding-long-term-growth-assets">Create &amp; Holding long term growth assets<a class="hash-link" aria-label="Direct link to Create &amp; Holding long term growth assets" title="Direct link to Create &amp; Holding long term growth assets" href="https://dhbalaji.dev/blog/2023/4-pillars-of-financial-success#create--holding-long-term-growth-assets">​</a></h2>
+<p>Anecdotally, we often encounter stories of individuals who achieved substantial wealth by merely leading ordinary lives and retaining inherited ancestral properties. While inheriting wealth is undoubtedly advantageous, those without such fortune must exchange their money for the creation, growth, and retention of assets.</p>
+<p>It is essential to recognize that assets need not be limited to gold, stocks, or land. Owning a thriving tea stall in a strategic location that was once neglected but is now a prime spot exemplifies a valuable asset. Many successful family businesses in India trace their roots back to the entrepreneurial efforts of grandparents who fearlessly embarked on ventures that yielded fruitful returns.</p>
+<p>Rather than advocating for excessively frugal lifestyles or sacrificing vacations to save money, it is more advantageous to focus on creating assets that can generate significant returns over the long term.</p>
+<blockquote>
+<p>Tip #4: Put time in creating assets instead of trying to save rupees in short term</p>
+</blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="summary">Summary<a class="hash-link" aria-label="Direct link to Summary" title="Direct link to Summary" href="https://dhbalaji.dev/blog/2023/4-pillars-of-financial-success#summary">​</a></h2>
+<p>The road to financial success is not easy especially when you have a family which includes dependents, a society who pushes new fads like spending 2 lakhs on child first birthday, a govt which introduces taxes on whatever you do and use, a job where growth is like a slow moving train, etc. But good use of money can make you comfortable financially. Its okay to be comfortable than be miserable in terms of money.</p>
+<p>Achieving financial success in India requires a combination of discipline, informed decision-making, and a long-term perspective. By prioritizing a steady growing income, reducing liabilities, avoiding major losses, and focusing on long-term growth assets, individuals can enhance their financial well-being and increase their chances of achieving their financial goals.</p>]]></content:encoded>
+            <category>finance</category>
+        </item>
+        <item>
+            <title><![CDATA[4 things novice developers ignore and what can be done about it]]></title>
+            <link>https://dhbalaji.dev/blog/2023/4-things-novice-developers-ignore</link>
+            <guid>https://dhbalaji.dev/blog/2023/4-things-novice-developers-ignore</guid>
+            <pubDate>Wed, 14 Jun 2023 15:30:22 GMT</pubDate>
+            <description><![CDATA[Self-taught individuals, boot camp graduates, mentored professionals, accomplished interns, and dedicated experts are some of the remarkable talents that have joined our workforce. While their technical skills are exceptional, it's important to recognize that becoming the best programmer at work entails more than just technical expertise. To make a comprehensive and valuable contribution to our organization, it is crucial to cultivate the following skills:]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/lone-developer-f196b935d9ceb51e95624d62931efc36.webp" width="1279" height="854" class="img_D5_e"></p>
+<p>Self-taught individuals, boot camp graduates, mentored professionals, accomplished interns, and dedicated experts are some of the remarkable talents that have joined our workforce. While their technical skills are exceptional, it's important to recognize that becoming the best programmer at work entails more than just technical expertise. To make a comprehensive and valuable contribution to our organization, it is crucial to cultivate the following skills:</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="plan">Plan<a class="hash-link" aria-label="Direct link to Plan" title="Direct link to Plan" href="https://dhbalaji.dev/blog/2023/4-things-novice-developers-ignore#plan">​</a></h2>
+<p>In the corporate world, even individuals who have been laid off often had a significant workload and a backlog of tasks. This highlights the substantial volume of work within most teams. As new joiners, it is essential to actively and purposefully select assignments that challenge your abilities and contribute to unblocking the team's progress. Additionally, identifying tasks that align with your strengths can further enhance your impact.</p>
+<blockquote>
+<p>Let your peers know your strength through your work that you do.</p>
+</blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="review">Review<a class="hash-link" aria-label="Direct link to Review" title="Direct link to Review" href="https://dhbalaji.dev/blog/2023/4-things-novice-developers-ignore#review">​</a></h2>
+<p>Being a coder goes beyond the act of pushing code to a repository. It involves reviewing, providing feedback, and improving upon the work done by the team. Many codebases contain sections that have remained untouched for years. By reviewing such code, new joiners can engage in knowledge sharing and take the initiative to improve areas that may be unfamiliar to others.</p>
+<blockquote>
+<p>Being proficient in reading and understanding others' code can accelerate your career growth.</p>
+</blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="collaborate">Collaborate<a class="hash-link" aria-label="Direct link to Collaborate" title="Direct link to Collaborate" href="https://dhbalaji.dev/blog/2023/4-things-novice-developers-ignore#collaborate">​</a></h2>
+<p>The contributions of individual developers often go unnoticed in most teams. Exceptional communication skills are highly valued in such environments. Developers who can effectively communicate, lead engaging meetings, facilitate discussions, and manage virtual interactions are highly sought-after. Remember that meetings are an integral part of corporate life at various levels. Adhering to basic meeting etiquette, actively contributing valuable insights, and making meetings enjoyable can make a significant impact.</p>
+<blockquote>
+<p>Keeping mum and over talking on the job are dangerous.</p>
+</blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="professional-behavior">Professional Behavior<a class="hash-link" aria-label="Direct link to Professional Behavior" title="Direct link to Professional Behavior" href="https://dhbalaji.dev/blog/2023/4-things-novice-developers-ignore#professional-behavior">​</a></h2>
+<p>It is common for young engineers to form friendships within their intern groups, typically with individuals of similar experience levels. However, as young joiners in a professional setting, different expectations apply. Actively engaging with senior engineers and learning from their expertise through close collaboration is essential. Displaying good manners, maintaining a professional demeanor, and exhibiting positive attitudes contribute to professional growth and attract attention within the industry. Simple gestures like a firm handshake, a warm smile, and a proactive attitude establish credibility, respect, and foster positive relationships.</p>
+<blockquote>
+<p>Youre being watched by your peers, behave diligently even when out of office.</p>
+</blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="summary">Summary<a class="hash-link" aria-label="Direct link to Summary" title="Direct link to Summary" href="https://dhbalaji.dev/blog/2023/4-things-novice-developers-ignore#summary">​</a></h2>
+<p>A well-rounded professional understands the needs of the team and actively seeks opportunities to contribute rather than being solely focused on individual goals. By honing these skills, you will not only excel in your role but also establish yourself as a valuable asset within our organization.</p>]]></content:encoded>
+            <category>work</category>
+        </item>
+        <item>
+            <title><![CDATA[Right-Sizing, Five Things You Need to Know]]></title>
+            <link>https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season</link>
+            <guid>https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season</guid>
+            <pubDate>Wed, 24 May 2023 15:30:22 GMT</pubDate>
+            <description><![CDATA[Here is a short memoir about the right sizing function happening at all major organizations in 2023.]]></description>
+            <content:encoded><![CDATA[<p>Here is a short memoir about the right sizing function happening at all major organizations in 2023.</p>
+<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/no-vaccancies-90d1292d07197d0468da5488484d018b.webp" width="1279" height="853" class="img_D5_e"></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="businesses-cycles-are-real">Businesses Cycles are Real<a class="hash-link" aria-label="Direct link to Businesses Cycles are Real" title="Direct link to Businesses Cycles are Real" href="https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season#businesses-cycles-are-real">​</a></h2>
+<p>Warren Buffett is a renowned investor who has made a fortune by investing in undervalued companies. He is also known for
+his wit and humor. One of his most famous quotes is:</p>
+<blockquote>
+<p>"Only when the tide goes out do you discover who's been swimming naked."</p>
+</blockquote>
+<p>This quote, which was originally intended for investors, is also applicable to corporate employees. Not long ago, we
+experienced a period of rapid hiring, with employees receiving multiple offers and corporations going on a hiring spree.
+During this time, employees were able to negotiate favorable terms, such as high salaries, compensation packages, and
+positions. However, economic cycles are real, and eventually, companies become overstaffed and their financial results
+suffer. As a result, companies begin to lay off employees.</p>
+<p>The quote "Only when the tide goes out do you discover who's been swimming naked" is a reminder that economic conditions
+can change quickly, and that companies need to be prepared for downturns. When the economy is strong, it is easy to get
+caught up in the excitement and make decisions that are not sustainable in the long run. However, when the economy
+turns, companies that have been overextended will be the ones that suffer the most. The employees at these companies
+will suffer the most.</p>
+<blockquote>
+<p>2023 is the year of right-sizing companies, and it is having a significant impact on Indians working in multinational
+corporations.</p>
+</blockquote>
+<p>The media and press have been reporting on layoffs, and this has created a sense of anxiety and uncertainty among
+employees. When a common person meets a techie, they often inquire about their job security. The abbreviation "CFBR" is
+also becoming increasingly common on LinkedIn. This stands for "Commenting For Better Reach," and it refers to the
+practice of commenting on posts from people who are looking for work.</p>
+<p>There are a number of factors that are contributing to the right-sizing of companies. These include the global economic
+slowdown, the rise of automation, and the increasing competition from emerging markets. As a result of these factors,
+many companies are finding it necessary to reduce their workforces.</p>
+<p>The right-sizing of companies is having a significant impact on Indians working in multinational corporations. Many
+employees have been laid off, and those who remain are facing increased pressure to perform. The job market is also
+becoming more competitive, as more and more people are looking for work.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="observations">Observations<a class="hash-link" aria-label="Direct link to Observations" title="Direct link to Observations" href="https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season#observations">​</a></h2>
+<p>Here are your observations about right sizing and how to mitigate risk, in a more professional tone:</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="there-is-no-good-news">There is no good news<a class="hash-link" aria-label="Direct link to There is no good news" title="Direct link to There is no good news" href="https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season#there-is-no-good-news">​</a></h3>
+<p>Right-sizing, or downsizing is the process of reducing the size of a company's workforce. This can be done through
+layoffs, attrition, or a combination of the two. Right-sizing can be a difficult decision for companies, but it is often
+necessary in order to remain competitive.</p>
+<p>There is no good news for employees who are affected by right-sizing. The job market is already competitive, and
+right-sizing can make it even more difficult to find a new job. In addition, right-sizing can have a negative impact on
+the morale and productivity of the employees who still remain with the organizations.</p>
+<p>Most companies are not actively hiring during this economic downturn.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="the-education-material-may-not-help-you-greatly">The Education material may not help you greatly<a class="hash-link" aria-label="Direct link to The Education material may not help you greatly" title="Direct link to The Education material may not help you greatly" href="https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season#the-education-material-may-not-help-you-greatly">​</a></h3>
+<p>Right-sizing can lead to an increase in demand for education and training. Employees who are laid off may need to
+upskill or re-skill in order to find new jobs. However, the education sector may not be able to keep up with the dynamic
+market nature.</p>
+<p>In addition, employers may be reluctant to hire employees who have only recently completed education or training. They
+may prefer to hire employees who have deeper experience in the field.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="everything-looks-scary-generative-ai--self-doubt">Everything looks scary, Generative AI &amp; Self Doubt<a class="hash-link" aria-label="Direct link to Everything looks scary, Generative AI &amp; Self Doubt" title="Direct link to Everything looks scary, Generative AI &amp; Self Doubt" href="https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season#everything-looks-scary-generative-ai--self-doubt">​</a></h3>
+<p>Right-sizing can be a very stressful experience for employees. It can lead to feelings of uncertainty, anxiety, and
+fear. In addition, employees may start to doubt their own abilities. They may worry that they will not be able to find a
+new job, or that they will not be able to find a job that is as good as their old one.</p>
+<p>Generative AI and other new technologies can also add to the stress of right-sizing. These technologies can make it
+easier for companies to replace employees with machines. This can lead to feelings of insecurity and obsolescence.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="multiple-rounds-of-layoff-disturb-morale-at-work">Multiple rounds of layoff disturb morale at work<a class="hash-link" aria-label="Direct link to Multiple rounds of layoff disturb morale at work" title="Direct link to Multiple rounds of layoff disturb morale at work" href="https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season#multiple-rounds-of-layoff-disturb-morale-at-work">​</a></h3>
+<p>Right-sizing can have a negative impact on morale at work. Employees who are laid off may feel betrayed and resentful.
+In addition, employees who remain may be worried about their own job security. This can lead to a decrease in
+productivity and an increase in turnover. Both physical and mental health will suffer.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="hope-for-the-best-and-prepare-for-the-worst">Hope for the best and prepare for the worst<a class="hash-link" aria-label="Direct link to Hope for the best and prepare for the worst" title="Direct link to Hope for the best and prepare for the worst" href="https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season#hope-for-the-best-and-prepare-for-the-worst">​</a></h3>
+<p>There is no surefire way to avoid being laid off. However, there are some things that employees can do to increase their
+chances of surviving right-sizing.</p>
+<ul>
+<li>
+<p>Join a profitable company. Employees are more likely to be laid off from companies that are struggling financially.
+Therefore, it is important to join a company that is profitable and has a good reputation.</p>
+</li>
+<li>
+<p>Ensure that your work has a business value. Employees who do work that is essential to the company's operations are
+less likely to be laid off. Therefore, it is important to make sure that your work is valuable to the company.</p>
+</li>
+<li>
+<p>Become a valuable asset to the company. Employees who are valuable assets to the company are less likely to be laid
+off. This means being able to do more than one thing, being able to work independently, and being able to think
+outside the box.</p>
+</li>
+<li>
+<p>Be positive and proactive. Employees who are positive and proactive are more likely to be seen as valuable assets to
+the company. They are also more likely to be able to find new jobs if they are laid off.</p>
+</li>
+<li>
+<p>Have a financial cushion. Employees who have a financial cushion are less likely to be stressed out if they are laid
+off. This means having enough money saved up to cover your expenses for at least six months.</p>
+</li>
+<li>
+<p>Embrace rightsizing as part of career and plan accordingly. Avoid spending on lifestyle inflation like a fancy car,
+flat, etc. Instead, spend time on marketing yourself like personal website, network, etc. Employees have a shelf life
+like any other commodity.</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="other-myths">Other myths<a class="hash-link" aria-label="Direct link to Other myths" title="Direct link to Other myths" href="https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season#other-myths">​</a></h2>
+<p>Sure, here are some myths related to right sizing in tech companies, along with some clarifications:</p>
+<p><strong>Myth 1</strong>: Young and low-level engineers are exempted during right sizing.</p>
+<p><strong>Fact</strong>: Everyone is examined through a different lens, regardless of experience level or position. In some cases,
+young
+and low-level engineers may be more likely to be laid off, as they may be seen as less essential to the company's
+operations. However, this is not always the case, and there are many factors that companies consider when making layoff
+decisions. No department is safe during right sizing including human resources and accounting.</p>
+<p><strong>Myth 2</strong>: Seniors and managerial staff are most hit during right sizing.</p>
+<p><strong>Fact</strong>: While managerial staff layoffs and top level exits are widely discussed. In fact, in some cases, companies may
+choose to retain managerial staff in order to maintain continuity and leadership during a time of change.</p>
+<p><strong>Myth 3</strong>: Contractors will be let go first.</p>
+<p><strong>Fact</strong>: Contractors will be impacted, but they are not always let go first during right sizing. In some cases,
+companies may choose to retain
+contractors in order to finish the ongoing projects. Once the work is done, their contracts may not be extended.</p>
+<p><strong>Myth 4</strong>: Companies cut all the extra costs before considering right sizing employees.</p>
+<p><strong>Fact</strong>: While companies may try to cut costs in other areas before laying off employees, this is not always possible.
+The fancy pantry, expensive office buildings will still operate with some modifications.
+In
+some cases, the only way for a company to remain profitable is to lay off employees.</p>
+<p><strong>Myth 5</strong>: Jobs cut in high-cost centers are moved to low-cost centers.</p>
+<p><strong>Fact</strong>: This is not necessarily true. While companies may sometimes move jobs to lower-cost centers, this is not
+always
+possible or feasible. In some cases, the only way for a company to remain profitable is to lay off employees in all
+locations.</p>
+<p>It is important to note that these are just some of the myths related to right sizing in tech companies. The specific
+factors that companies consider when making layoff decisions will vary from company to company.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="summary">Summary<a class="hash-link" aria-label="Direct link to Summary" title="Direct link to Summary" href="https://dhbalaji.dev/blog/2023/experience-going-through-right-sizing-season#summary">​</a></h2>
+<p>To sum up, right-sizing can be a very stressful experience for employees. It can feel like a runtime exception at work,
+where everything is suddenly thrown into chaos. However, by following the tips above, employees can increase their
+chances of surviving right-sizing and finding a new job.</p>
+<p>Only during right sizing activities we realize the value of money and time.</p>]]></content:encoded>
+            <category>work</category>
+        </item>
+        <item>
+            <title><![CDATA[How I created functional custom google domains email address "balaji@dhbalaji.dev"]]></title>
+            <link>https://dhbalaji.dev/blog/custom-email-address</link>
+            <guid>https://dhbalaji.dev/blog/custom-email-address</guid>
+            <pubDate>Sun, 14 May 2023 18:30:22 GMT</pubDate>
+            <description><![CDATA[Here is the story behind functional custom email address balaji@dhbalaji.dev]]></description>
+            <content:encoded><![CDATA[<p>Here is the story behind functional custom email address <code>balaji@dhbalaji.dev</code></p>
+<p><img decoding="async" loading="lazy" src="https://dhbalaji.dev/assets/images/gmail-with-alias-dropdown-0d594d7b718ab29419d96c7fdc4f3d8f.webp" width="666" height="623" class="img_D5_e"></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="why-custom-email-domains">Why custom email domains<a class="hash-link" aria-label="Direct link to Why custom email domains" title="Direct link to Why custom email domains" href="https://dhbalaji.dev/blog/custom-email-address#why-custom-email-domains">​</a></h2>
+<p>The custom email addresses look more professional on the resume or back of the truck, hope you got my point. I have seen all sort of weird email addresses on the resume like <code>sureshnaidu1929@gmail.com</code> but the improved version would be <code>contact@suresh.dev</code></p>
+<blockquote>
+<p>Most developers have a website, why not a custom working email address</p>
+</blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="steps-to-create-a-functional-custom-email-address">Steps to create a functional custom email address<a class="hash-link" aria-label="Direct link to Steps to create a functional custom email address" title="Direct link to Steps to create a functional custom email address" href="https://dhbalaji.dev/blog/custom-email-address#steps-to-create-a-functional-custom-email-address">​</a></h2>
+<ul>
+<li>
+<p>Create a custom email on your domains registar which in my case is Google Domains</p>
+</li>
+<li>
+<p>Setup email forwarding</p>
+</li>
+<li>
+<p>Create an alias in your gmail</p>
+</li>
+<li>
+<p>Set app password</p>
+</li>
+<li>
+<p>Use gmail smtp settings, gmail address and app password to login</p>
+</li>
+<li>
+<p>Confirm the alias addition to gmail</p>
+</li>
+<li>
+<p>Voila, we are done.</p>
+</li>
+<li>
+<p>Extra steps, like custom signature for the domain could be added</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_vGjn" id="next-steps">Next steps<a class="hash-link" aria-label="Direct link to Next steps" title="Direct link to Next steps" href="https://dhbalaji.dev/blog/custom-email-address#next-steps">​</a></h2>
+<p>Before we go any further, let me clarify two things.</p>
+<ol>
+<li>
+<p>I am not going to pen down every step in this process, instead I will share valuable blog posts which <a href="https://alexlenail.medium.com/i-want-to-send-emails-from-my-google-domains-email-through-gmail-992bb3eae4c9" target="_blank" rel="noopener noreferrer">I referred and grateful for</a></p>
+</li>
+<li>
+<p>This is a technical one.</p>
+<p>a. Set up email forwarding by following <a href="https://support.google.com/domains/answer/3251241?hl=en" target="_blank" rel="noopener noreferrer">Google documentation</a>.</p>
+<p>b. You will not create a new gmail inbox but add an alias to the gmail. The gmail UI will show
+a select dropdown with newly added custom domain</p>
+<p>c. Read the <a href="https://support.google.com/mail/answer/22370?hl=en" target="_blank" rel="noopener noreferrer">Google Documentation</a></p>
+</li>
+</ol>]]></content:encoded>
+            <category>email</category>
+        </item>
+    </channel>
+</rss>
