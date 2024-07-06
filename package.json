@@ -17,10 +17,10 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.1.0",
-    "@docusaurus/plugin-google-gtag": "^3.1.0",
-    "@docusaurus/plugin-ideal-image": "^3.1.0",
-    "@docusaurus/preset-classic": "^3.1.0",
+    "@docusaurus/core": "^3.1.1",
+    "@docusaurus/plugin-google-gtag": "^3.1.1",
+    "@docusaurus/plugin-ideal-image": "^3.1.1",
+    "@docusaurus/preset-classic": "^3.1.1",
     "@mdx-js/react": "^3.0.0",
     "classnames": "^2.5.1",
     "clsx": "^2.1.0",
@@ -31,12 +31,12 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.1.0",
+    "@docusaurus/module-type-aliases": "^3.1.1",
     "@tsconfig/docusaurus": "^2.0.2",
     "babel-plugin-prismjs": "^2.1.0",
     "cross-env": "^7.0.3",
     "docusaurus-plugin-sass": "^0.2.5",
-    "sass": "^1.69.7",
+    "sass": "^1.70.0",
     "typescript": "^5.3.3"
   },
   "browserslist": {
