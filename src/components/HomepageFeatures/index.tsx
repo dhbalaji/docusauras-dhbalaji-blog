@@ -35,7 +35,7 @@ export default function HomepageFeatures(): JSX.Element {
           <h1 className="hero__title">{"Hi, I'm Balaji"}</h1>
           <p className={classnames("hero__subtitle", styles.subTitle)}>
             {
-              "Lead Frontend Engineer, Charismatic Speaker and Eclectic Reader"
+              "On a mission to solve grand challenges of humanity with technology"
             }
           </p>
           <div className={styles.buttons}>
@@ -107,12 +107,6 @@ export default function HomepageFeatures(): JSX.Element {
           </div>
         </div>
       </div>
-
-      <div className={classnames("hero hero--secondary")}>
-        <div className={`row ${styles.readingGoals}`}>
-          <a href="/reading-goals/2024">Reading goals, book picks for 2024 </a>
-          </div>
-        </div>
     </>
   );
 }

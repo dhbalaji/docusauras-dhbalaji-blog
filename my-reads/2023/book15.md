@@ -1,6 +1,6 @@
 ---
 title: Making money in stocks - simplified by Aditya Shroff 
-date: 2023-18-10 15:30:00
+date: 2023-10-18 15:30:00
 og-title: Book talk on making money in stocks - simplified by Aditya Shroff
 og-image: './assets/making-money-simplified.jpg'
 description: Book talk on making money in stocks - simplified by Aditya Shroff

@@ -18,15 +18,21 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
       # Node is required for npm
-      - name: Set up Node
-        uses: actions/setup-node@v2
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
         with:
-          node-version: "18"
+          version: 7
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 21
+          cache: pnpm
       # Install and build Docusaurus website
       - name: Build Docusaurus website
         run: |
-          npm install 
-          npm run build
+          pnpm install 
+          pnpm run build
       - name: Deploy to GitHub Pages
         if: success()
         uses: crazy-max/ghaction-github-pages@v2

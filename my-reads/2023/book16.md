@@ -1,6 +1,6 @@
 ---
 title: Learn to Win Arguments and Succeed 20 Powerful Techniques to Never Lose an Argument again, with Real Life Examples. A Life Skill for Everyone by Vishal Gupta 
-date: 2023-23-10 15:30:00
+date: 2023-10-23 15:30:00
 og-title: Book talk on Learn to Win Arguments and Succeed 20 Powerful Techniques to Never Lose an Argument again, with Real Life Examples. A Life Skill for Everyone by Vishal Gupta
 og-image: './assets/win-arguments.webp'
 description: Book talk on Learn to Win Arguments and Succeed 20 Powerful Techniques to Never Lose an Argument again, with Real Life Examples. A Life Skill for Everyone by Vishal Gupta
