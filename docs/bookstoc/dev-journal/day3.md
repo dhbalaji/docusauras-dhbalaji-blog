@@ -20,19 +20,21 @@ Date: 18-Aug-2024
 Tech items
 
 - UI
-- Chakra UI
-- Tailwind CSS
-- emotion
-- framer
+
+  - Chakra UI
+  - Tailwind CSS
+  - emotion
+  - framer
 
 - BE
-- Prisma
-- MongoDB
-- REST Api
-- NextJS
+
+  - Prisma
+  - MongoDB
+  - REST Api
+  - NextJS
 
 - Testing
-- Playwright testing
+  - Playwright testing
 
 ## Todo
 
