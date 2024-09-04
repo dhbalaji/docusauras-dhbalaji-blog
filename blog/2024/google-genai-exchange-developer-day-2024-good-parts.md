@@ -7,6 +7,21 @@ date: 2024-08-5 17:30:30
 authors: [dhbalaji]
 ---
 
+<head>
+  <meta charSet="utf-8" />
+  <meta property="og:title" content="Google GenAI Developer Day Bangalore 2024 Learnings" />
+  <meta property="og:image" content="/img/2024/genai-dev-day.jpeg" />
+  <meta property="og:url" content="http://dhbalaji.dev/blog/2024/google-genai-exchange-developer-day-2024-good-parts" />
+  <meta property="og:description" content=" This concise blog post highlights the React Nexus 2024's best aspects, helping you recap the big ideas that were discussed!" />
+  <meta property="og:type " content="article" />
+  <meta name="twitter:title" content="This concise blog post highlights the Google GenAI Developer Day Bangalore 2024 Learnings, helping you recap the big ideas that were discussed!" />
+  <meta name="twitter:image" content="/img/2024/genai-dev-day.jpeg" />
+  <meta name="twitter:description" content="This concise blog post highlights the Google GenAI Developer Day Bangalore 2024 Learnings, helping you recap the big ideas that were discussed!" />
+</head>
+
+
+![Gen AI Dev Day](../assets/2024/genai-dev-day.jpeg)
+
 This blog post summarizes key takeaways from the Google GenAI Developer Day in Bangalore, focusing on technical aspects relevant to  developers.
 
 ### 1. GenAI Impact and Demand
@@ -58,3 +73,10 @@ While details weren't extensively covered, the session briefly introduced RAG as
 The concluding session featured a hackathon based on the [Codelabs](https://codelabs.developers.google.com/patent-search-alloydb-gemini?hl=en#0).
 
 
+## Links
+
+- Session Recording on Youtube - https://www.youtube.com/live/DqRHWq1IGgs
+- Codelabs - https://codelabs.developers.google.com/patent-search-alloydb-gemini?hl=en#0
+- Related courses - https://www.cloudskillsboost.google/paths/118
+- Google cloud India - https://twitter.com/GoogleCloud_IN
+- Webinars - https://cloudonair.withgoogle.com/
