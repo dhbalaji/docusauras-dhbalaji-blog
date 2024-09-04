@@ -3,7 +3,7 @@ title: Google GenAI Developer Day Bangalore 2024 Learnings
 tags:
   - conferences
   - GenAI
-date: 2024-08-5 17:30:30
+date: 2024-09-4 8:30:30
 authors: [dhbalaji]
 ---
 
