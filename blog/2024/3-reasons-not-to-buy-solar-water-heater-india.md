@@ -29,6 +29,8 @@ Despite the benefits, there are notable challenges with continuous ownership:
 
 - Plumbing, Tank Quality, and Hard Water The long-term success of a solar water heater depends on these factors. Hard water requires periodic servicing, which can cost around ₹2500. Some solar tanks, made of steel alloys, can corrode and leak. The heat from the solar tank can deform pipes, so consult with plumbers about pipe quality. Hard water exacerbates these issues, damaging water-carrying devices.
 
+<!-- truncate -->
+
 ## Cost of Investment and ROI Worries
 
 Here are the numbers from my ownership, to help you with a cost-benefit analysis:
