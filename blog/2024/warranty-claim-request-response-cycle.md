@@ -41,17 +41,17 @@ For example, my experience with a Transcend pen drive's lifetime warranty was fl
 
 ### **Negative Cases: 300, 400, and 500 Errors**
 
-#### **303 See Other (Agency for Warranty)**
+#### **303 See Other Agency for Warranty (Outsourced)**
 
 Instead of resolving your issue directly, the brand redirects you to a third-party service center. This often happens with products bought online. Hello, Amazon warranty maze!
 
 #### **304 Untouched (We’re Looking Into It)**
 
-You’ve submitted your claim, but the company keeps responding with, _“Our team will get back to you soon.”_ Weeks pass, but nothing changes—classic cached response with no updates.
+You’ve submitted your claim, but the company keeps responding with, “Our team will get back to you soon.” Weeks pass, but nothing changes. Classic cached response with no updates.
 
 #### **305 Use Proxy (Only the First Owner Gets Warranty)**
 
-Some motorcycle companies require warranty claims to be made by the original owner. If you’ve bought the motorcycle second-hand, tough luck—find the first owner or kiss the warranty goodbye.
+Some motorcycle companies require warranty claims to be made by the original owner. If you’ve bought the motorcycle second-hand, tough luck finding the first owner or kiss the warranty goodbye.
 
 #### **400 Bad Request (Invalid Warranty Claim)**
 
@@ -76,7 +76,7 @@ Online brands often vanish faster than seasonal discounts. By the time your prod
 
 #### **406 Not Acceptable (Customer-Induced Damage)**
 
-Warranty claims for damage caused by misuse are promptly denied. Spilled coffee on your laptop? Dropped your phone? The terms and conditions were crystal clear—this one's on you.
+Warranty claims for damage caused by misuse are promptly denied. Spilled coffee on your laptop? Dropped your phone? The terms and conditions were crystal clear. This one's on you.
 
 #### **408 Request Timeout (No Response from Company)**
 
@@ -88,7 +88,7 @@ Some companies require you to upload videos or images of the defect, often in sp
 
 #### **426 Upgrade Required (Let Me Upsell You)**
 
-Instead of resolving your claim, companies push you to buy a newer model. It's like saying, _“Why fix your old phone when you can upgrade to this shiny new one?”_
+Instead of resolving your claim, companies push you to buy a newer model. It's like saying, “Why fix your old phone when you can upgrade to this shiny new one?”
 
 #### **500 Internal Server Error (Technicians Are Hopeless)**
 
