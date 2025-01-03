@@ -32,7 +32,7 @@ Additionally, I’ll curate a list of websites to stay updated instead of depend
 
 ## 3. No Two Visits Per Week To Office
 
-Working from the office puts you into a routine which is a supporting stick for those who lack self discipline of waking up early, switching subjects under work naturally. Thats why I am against working from home twice a week.
+Working from the office puts you into a routine which is a supporting stick for those who lack self discipline of waking up early, switching subjects under work naturally. Thats why I am against working from office on select days of the week.
 
 ## 4. No More Reading Goals  
 
