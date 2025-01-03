@@ -30,11 +30,9 @@ Here’s my plan: **Engage with social media just once a week for an hour**, in 
 
 Additionally, I’ll curate a list of websites to stay updated instead of depending on algorithm-driven feeds.  
 
-## 3. Visit Office Only Twice a Week  
+## 3. No Two Visits Per Week To Office
 
-Working from the office has its perks—collaboration, better focus—but the daily commute can be a nightmare, especially in cities like Bangalore. Long hours in traffic, crowded public transport, and the occasional mishap like losing a laptop are not worth it.  
-
-For 2025, I’m committing to **office visits twice a week**, ideally on **Mondays and Fridays**, to strike a balance between in-person interactions and remote productivity.
+Working from the office puts you into a routine which is a supporting stick for those who lack self discipline of waking up early, switching subjects under work naturally. Thats why I am against working from home twice a week.
 
 ## 4. No More Reading Goals  
 
