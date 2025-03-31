@@ -6,8 +6,8 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 const whoami = `{
-    "name": "D.Balaji",
-    "designation": "Lead Design Technologist",
+    "name": "Balaji",
+    "designation": "Lead Frontend Engineer",
     "experience": "10+ years",
     "email": "balaji@dhbalaji.dev",
     "employer": "Sabre",
@@ -16,8 +16,7 @@ const whoami = `{
         "Enterprise Design Language",
         "Team Leadership",
     ],
-    "tagline": "Relentlessly seek business value.
-     Tirelessly solve challenges with technology.",
+    "tagline": "Unlock Business Value. Realize Your Dreams.",
 }`;
 
 export default function HomepageFeatures(): JSX.Element {
@@ -35,9 +34,7 @@ export default function HomepageFeatures(): JSX.Element {
         <div className="container">
           <h1 className="hero__title">{"Hi, I'm Balaji"}</h1>
           <p className={classnames("hero__subtitle", styles.subTitle)}>
-            {
-              "Relentlessly seek business value. Tirelessly solve challenges with technology."
-            }
+            {"Unlock Business Value. Realize Your Dreams."}
           </p>
           <div className={styles.buttons}>
             <a
@@ -67,16 +64,23 @@ export default function HomepageFeatures(): JSX.Element {
             <h2 className="font--xl">About</h2>
             <div className="font--lg margin-bottom--lg">
               <p>
-                Balaji is a seasoned Lead Frontend Developer with over a decade of experience in the IT industry. Currently, he contributes his expertise at Sabre, a global technology leader shaping the future of the travel industry.
+                Balaji is a Lead Frontend Developer & Tech Educator with 10+
+                years of experience in JavaScript, TypeScript, React, Web
+                Analytics, and Accessibility. At Sabre, he builds
+                enterprise-grade solutions, from E-commerce and Fintech to
+                large-scale design systems, driving business impact through
+                technology.
               </p>
               <p>
-                With a strong foundation in JavaScript, TypeScript, React JS, Web Analytics, and Accessibility, Balaji has successfully delivered enterprise-grade solutions across diverse domains, including E-commerce, Fintech, and large-scale enterprise applications. His proficiency extends to developing Enterprise Design Systems and creating seamless digital experiences.
+                Passionate about mentoring and content creation, he helps
+                professionals upskill and navigate career growth. A lifelong
+                learner and entrepreneur, he also explores agriculture and
+                sustainable business models.
               </p>
               <p>
-                Balaji holds a Bachelor of Engineering degree from PES University and has gained valuable experience working with esteemed organizations like Sabre, Landmark Group, Rare Mile Technologies, and Tata Consultancy Services.
-              </p>
-              <p>
-                A passionate lifelong learner, he balances his professional pursuits with personal interests such as reading thought-provoking books and visiting the serene countryside.
+                Balaji holds a B.E. from PES University and has worked with
+                Landmark Group, Rare Mile, and TCS. Outside of tech, he enjoys
+                reading and countryside escapes for fresh inspiration.
               </p>
             </div>
             <div className={"text--center"}>

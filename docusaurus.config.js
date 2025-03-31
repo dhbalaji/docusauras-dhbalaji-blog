@@ -68,7 +68,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "experience/intro",
             position: "right",
             label: "Portfolio",
           },
@@ -81,7 +81,7 @@ const config = {
             to: "/blog",
             label: "Blog",
             position: "right",
-          }
+          },
         ],
       },
       footer: {
@@ -92,50 +92,50 @@ const config = {
             items: [
               {
                 label: "Portfolio",
-                to: "docs/portfolio"
+                to: "docs/portfolio",
               },
               {
                 label: "Certifications",
-                to: "docs/certifications/marketing/GA4"
+                to: "docs/certifications/marketing/GA4",
               },
               {
                 label: "Notes",
-                to: "docs/Notes/accessibility/notes"
-              }
-            ]
+                to: "docs/Notes/accessibility/notes",
+              },
+            ],
           },
           {
             title: "Non Technical",
             items: [
               {
                 label: "Reads",
-                to: "my-reads"
+                to: "my-reads",
               },
               {
                 label: "Blog",
-                to: "blog"
-              }
-            ]
+                to: "blog",
+              },
+            ],
           },
           {
             title: "Contact me",
             items: [
               {
                 label: "Email",
-                href: "mailto:balaji@dhbalaji.dev"
+                href: "mailto:balaji@dhbalaji.dev",
               },
               {
                 label: "Linkedin",
-                href: "https://www.linkedin.com/in/dhbalaji/"
+                href: "https://www.linkedin.com/in/dhbalaji/",
               },
               {
                 label: "Github",
-                href: "https://www.github.com/dhbalaji/"
-              }
-            ]
-          }
+                href: "https://www.github.com/dhbalaji/",
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} dhbalaji.dev`
+        copyright: `Copyright © ${new Date().getFullYear()} dhbalaji.dev`,
       },
       prism: {
         theme: themes.github,
@@ -149,7 +149,7 @@ const config = {
         searchParameters: {},
         searchPagePath: false,
         disableUserPersonalization: true,
-        placeholder: "Search Site"
+        placeholder: "Search Site",
       },
     }),
   plugins: [
