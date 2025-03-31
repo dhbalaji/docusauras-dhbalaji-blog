@@ -92,15 +92,7 @@ const config = {
             items: [
               {
                 label: "Portfolio",
-                to: "docs/portfolio",
-              },
-              {
-                label: "Certifications",
-                to: "docs/certifications/marketing/GA4",
-              },
-              {
-                label: "Notes",
-                to: "docs/Notes/accessibility/notes",
+                to: "docs/experience/portfolio",
               },
             ],
           },

@@ -50,7 +50,7 @@ export default function HomepageFeatures(): JSX.Element {
             </a>
             <Link
               className={classnames("button button--secondary button--lg")}
-              href={"/docs/portfolio"}
+              href={"/docs/experience/portfolio"}
             >
               Portfolio ☆
             </Link>
