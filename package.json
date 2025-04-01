@@ -37,7 +37,7 @@
     "babel-plugin-prismjs": "^2.1.0",
     "cross-env": "^7.0.3",
     "docusaurus-plugin-sass": "^0.2.6",
-    "sass": "^1.86.0",
+    "sass": "^1.86.1",
     "typescript": "^5.8.2"
   },
   "browserslist": {
