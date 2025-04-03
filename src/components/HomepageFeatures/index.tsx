@@ -34,7 +34,7 @@ export default function HomepageFeatures(): JSX.Element {
         <div className="container">
           <h1 className="hero__title">{"Hi, I'm Balaji"}</h1>
           <p className={classnames("hero__subtitle", styles.subTitle)}>
-            {"Unlock Business Value. Realize Your Dreams."}
+            {"Architect, Code, Lead"}
           </p>
           <div className={styles.buttons}>
             <a
@@ -76,11 +76,6 @@ export default function HomepageFeatures(): JSX.Element {
                 professionals upskill and navigate career growth. A lifelong
                 learner and entrepreneur, he also explores agriculture and
                 sustainable business models.
-              </p>
-              <p>
-                Balaji holds a B.E. from PES University and has worked with
-                Landmark Group, Rare Mile, and TCS. Outside of tech, he enjoys
-                reading and countryside escapes for fresh inspiration.
               </p>
             </div>
             <div className={"text--center"}>

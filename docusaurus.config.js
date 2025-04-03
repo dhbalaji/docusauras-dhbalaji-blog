@@ -5,7 +5,7 @@ const {themes} = require("prism-react-renderer");
 
 /** @type {import("@docusaurus/types").Config} */
 const config = {
-  title: "dhbalaji, Lead Frontend Engineer",
+  title: "dhbalaji, Principal Frontend Engineer",
   tagline: "Sponsored by dhbalaji.dev",
   url: "https://dhbalaji.dev",
   baseUrl: "/",
