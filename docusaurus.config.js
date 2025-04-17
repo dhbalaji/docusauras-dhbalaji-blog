@@ -72,14 +72,14 @@ const config = {
             position: "right",
             label: "Portfolio",
           },
-          {
-            to: "/my-reads",
-            label: "Reads",
-            position: "right",
-          },
+          // {
+          //   to: "/my-reads",
+          //   label: "Reads",
+          //   position: "right",
+          // },
           {
             to: "/blog",
-            label: "Blog",
+            label: "Articles",
             position: "right",
           },
         ],
@@ -99,12 +99,12 @@ const config = {
           {
             title: "Non Technical",
             items: [
+              // {
+              //   label: "Reads",
+              //   to: "my-reads",
+              // },
               {
-                label: "Reads",
-                to: "my-reads",
-              },
-              {
-                label: "Blog",
+                label: "Articles",
                 to: "blog",
               },
             ],
