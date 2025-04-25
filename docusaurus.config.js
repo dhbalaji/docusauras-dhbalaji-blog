@@ -189,6 +189,26 @@ const config = {
     detailedResume: "/files/dhbalaji-lead-frontend-lg-v23052023.pdf",
     singlePageResume: "/files/dhbalaji-lead-frontend-sm-v23052023.pdf",
   },
+  stylesheets: [
+    // Add your Dialogflow CSS
+    {
+      href: 'https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css',
+      type: 'text/css',
+    },
+    // Keep any other stylesheets you might have
+  ],
+  scripts: [
+    // Add your Dialogflow JS
+    {
+      src: 'https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js',
+      async: true, // Load asynchronously
+    },
+    // Keep any other scripts you might have
+  ],
+  clientModules: [
+    // Path to the client module you just created
+    require.resolve('./src/injectDialogFlow.js'),
+  ],
 };
 
 module.exports = config;
