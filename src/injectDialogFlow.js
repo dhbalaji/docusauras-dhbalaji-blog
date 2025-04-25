@@ -13,6 +13,7 @@ export function onRouteDidUpdate({location, previousLocation}) {
     dfMessenger.setAttribute('language-code', 'en');
     dfMessenger.setAttribute('max-query-length', '-1');
     dfMessenger.setAttribute('allow-feedback', 'all');
+    dfMessenger.setAttribute('expand', 'true');
   
     // Create chat bubble
     const chatBubble = document.createElement('df-messenger-chat-bubble');
