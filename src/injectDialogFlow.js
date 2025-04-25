@@ -12,7 +12,7 @@ export function onRouteDidUpdate({location, previousLocation}) {
     dfMessenger.setAttribute('agent-id', 'e03ac926-b8a2-4f6b-93f4-100854247b6e');
     dfMessenger.setAttribute('language-code', 'en');
     dfMessenger.setAttribute('max-query-length', '-1');
-    // dfMessenger.setAttribute('allow-feedback', 'all');
+    dfMessenger.setAttribute('allow-feedback', 'all');
     dfMessenger.setAttribute('expand', 'true');
   
     // Create chat bubble
