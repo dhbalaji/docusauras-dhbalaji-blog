@@ -5,9 +5,13 @@ tags:
   - AI-for-frontends
 date: 2025-05-01 15:30:22
 authors: [dhbalaji]
+image: /img/2025/doctor-patient-ai-illustration.png
+keywords: [ai, frontends, explaination]
 ---
 
 # 🏥 How a Doctor’s Clinic Explains the Inner Workings of LLMs
+
+![](../assets/2025/doctor-patient-ai-illustration.webp)
 
 Large Language Models (LLMs) are revolutionizing the way we build intelligent applications—especially in frontend development. From ChatGPT to custom AI copilots, LLMs are everywhere. But have you ever wondered **how LLMs actually work** under the hood?
 
