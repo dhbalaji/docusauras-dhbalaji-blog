@@ -86,7 +86,7 @@ This was the deal-sealer.
 
 Where else do **frontend developers, sales pros, finance strategists, and HR veterans** talk about communication, confidence, and community — all in the same room?
 
-Special shoutout to **TM Muthu Kalimuthu**, the Club President. His hospitality and thoughtful questions before the meeting made me feel like I was already part of the team.
+Special shoutout to [**TM Muthu Kalimuthu**](https://www.linkedin.com/in/muthuk-kalimuthu), the Club President. His hospitality and thoughtful questions before the meeting made me feel like I was already part of the team.
 
 ---
 
