@@ -6,6 +6,7 @@ const {themes} = require("prism-react-renderer");
 /** @type {import("@docusaurus/types").Config} */
 const config = {
   title: "dhbalaji, lead frontend engineer at Sabre",
+  titleTemplate: "%s",
   tagline: "Sponsored by dhbalaji.dev",
   url: "https://dhbalaji.dev",
   baseUrl: "/",
@@ -192,22 +193,22 @@ const config = {
   stylesheets: [
     // Add your Dialogflow CSS
     {
-      href: 'https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css',
-      type: 'text/css',
+      href: "https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css",
+      type: "text/css",
     },
     // Keep any other stylesheets you might have
   ],
   scripts: [
     // Add your Dialogflow JS
     {
-      src: 'https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js',
+      src: "https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js",
       async: true, // Load asynchronously
     },
     // Keep any other scripts you might have
   ],
   clientModules: [
     // Path to the client module you just created
-    require.resolve('./src/injectDialogFlow.js'),
+    require.resolve("./src/injectDialogFlow.js"),
   ],
 };
 
