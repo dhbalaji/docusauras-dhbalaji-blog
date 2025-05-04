@@ -7,7 +7,11 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 const whoami = `{
     "name": "Balaji",
-    "designation": "Lead Frontend Engineer",
+    "designation": "Lead Design Technologist",
+    "location": "Bangalore, India",
+    "website": "https://dhbalaji.dev",
+    "github": "https://github.com/dhbalaji",
+    "linkedin": "https://www.linkedin.com/in/dhbalaji/",
     "experience": "10+ years",
     "email": "balaji@dhbalaji.dev",
     "employer": "Sabre",
