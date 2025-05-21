@@ -12,8 +12,6 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
-  description: "Lead Frontend Developer & Tech Educator with 10+ years of experience in JavaScript, TypeScript, React, Web Analytics, and Accessibility. Building enterprise solutions at Sabre.",
-
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "dhbalaji", // Usually your GitHub org/user name.
