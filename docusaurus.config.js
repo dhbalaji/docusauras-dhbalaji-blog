@@ -12,6 +12,7 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
+  description: "Lead Frontend Developer & Tech Educator with 10+ years of experience in JavaScript, TypeScript, React, Web Analytics, and Accessibility. Building enterprise solutions at Sabre.",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -19,9 +20,7 @@ const config = {
   projectName: "docusauras-dhbalaji-blog", // Usually your repo name.
   trailingSlash: false,
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  // Rest of the config remains unchanged...
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
@@ -72,11 +71,6 @@ const config = {
             position: "right",
             label: "Portfolio",
           },
-          // {
-          //   to: "/my-reads",
-          //   label: "Reads",
-          //   position: "right",
-          // },
           {
             to: "/blog",
             label: "Articles",
@@ -99,10 +93,6 @@ const config = {
           {
             title: "Non Technical",
             items: [
-              // {
-              //   label: "Reads",
-              //   to: "my-reads",
-              // },
               {
                 label: "Articles",
                 to: "blog",
