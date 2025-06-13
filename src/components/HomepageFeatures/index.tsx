@@ -38,7 +38,7 @@ export default function HomepageFeatures(): JSX.Element {
         <div className="container">
           <h1 className="hero__title">{"Hi, I'm Balaji"}</h1>
           <p className={classnames("hero__subtitle", styles.subTitle)}>
-            {"Architect, Code, Lead"}
+            {"Design, Code, Lead"}
           </p>
           <div className={styles.buttons}>
             <a
