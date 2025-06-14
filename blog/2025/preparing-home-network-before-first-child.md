@@ -6,7 +6,7 @@ tags:
   - computer-networks
 date: 2025-06-15 15:30:22
 authors: [dhbalaji]
-image: /assets/images/dad-child-internet.png
+image: /assets/images/dad-child-internet-a76b989daf6aa0f315fec8f4638d36fa.png
 keywords: [computer-networks]
 ---
 
