@@ -6,8 +6,11 @@ tags:
   - computer-networks
 date: 2025-06-15 15:30:22
 authors: [dhbalaji]
+image: /assets/images/dad-child-internet.png
 keywords: [computer-networks]
 ---
+
+![](../assets/2025/dad-child-internet.png)
 
 # Baby on Board, Firewalls Up: A New Dad’s Guide to Internet Hygiene at Home
 
