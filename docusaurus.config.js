@@ -95,6 +95,10 @@ const config = {
                 label: "Articles",
                 to: "blog",
               },
+               {
+                label: "PR Corner",
+                to: "pr-corner",
+              },
             ],
           },
           {
