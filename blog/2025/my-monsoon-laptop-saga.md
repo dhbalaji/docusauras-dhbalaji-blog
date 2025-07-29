@@ -1,5 +1,5 @@
 ---
-title: "From Tragedy to Triumph: My Monsoon Laptop Saga"
+title: "From Tragedy to Triumph: My New Laptop Specs"
 description: "After eight years, my trusted Dell Inspiron met an untimely demise during the monsoon. This is the emotional journey of loss, recovery, and the search for a refurbished warrior to rebuild my creative momentum."
 tags:
   - technology
@@ -12,7 +12,9 @@ image: /img/dell-7620-desk.jpg
 keywords: [refurbished-laptops, workstation]
 ---
 
-# From Tragedy to Triumph: My Monsoon Laptop Saga
+# From Tragedy to Triumph: My New Laptop Specs
+
+![](../assets/2025/dell-7620-desk.jpg)
 
 It began as most heartbreaks do, not with a warning, but with a moment. Eight years of companionship, memories etched into plastic keys and flickering screens. This was not just a laptop; it was a cherished confidant, a silent witness to late-night hustles, travels, and the fragile trust between creator and machine.
 
@@ -71,4 +73,3 @@ Three weeks in, I’m surprised by the stability. I’m building again—product
 
 **Overall rating: 4.5/5.** For a refurbished warrior and a rekindled creator’s journey.
 
-![](../assets/2025/dell-7620-desk.jpg)
