@@ -9,16 +9,13 @@ const whoami = `{
     "name": "Balaji",
     "designation": "Lead Design Technologist",
     "location": "Bangalore, India",
-    "website": "https://dhbalaji.dev",
-    "github": "https://github.com/dhbalaji",
-    "linkedin": "https://www.linkedin.com/in/dhbalaji/",
     "experience": "10+ years",
     "email": "balaji@dhbalaji.dev",
     "employer": "Sabre",
     "skills": [
-        "React Application Development",
-        "Enterprise Design Language",
-        "Team Leadership",
+        "React application development",
+        "Enterprise design language",
+        "Driving large scale UI projects",
     ],
     "tagline": "Unlock Business Value. Realize Your Dreams.",
 }`;
@@ -38,7 +35,7 @@ export default function HomepageFeatures(): JSX.Element {
         <div className="container">
           <h1 className="hero__title">{"Hi, I'm Balaji"}</h1>
           <p className={classnames("hero__subtitle", styles.subTitle)}>
-            {"Design, Code, Lead"}
+            {"Frontend Lead by craft, Toastmaster by choice, Indie Builder at heart."}
           </p>
           <div className={styles.buttons}>
             <a
@@ -65,21 +62,12 @@ export default function HomepageFeatures(): JSX.Element {
       <div className="container">
         <div className="row margin-top--xl ">
           <div className="col margin-bottom--xl">
-            <h2 className="font--xl">About</h2>
+            <div style={{ textAlign: "center", marginBottom: "20px" }}> 
+            <img src="/img/dhbalaji.jpg" style={{ width: "200px", height: "200px" }} />
+            </div>
             <div className="font--lg margin-bottom--lg">
               <p>
-                Balaji is a Lead Frontend Developer & Tech Educator with 10+
-                years of experience in JavaScript, TypeScript, React, Web
-                Analytics, and Accessibility. At Sabre, he builds
-                enterprise-grade solutions, from E-commerce and Fintech to
-                large-scale design systems, driving business impact through
-                technology.
-              </p>
-              <p>
-                Passionate about mentoring and content creation, he helps
-                professionals upskill and navigate career growth. A lifelong
-                learner and entrepreneur, he also explores agriculture and
-                sustainable business models.
+               Balaji is a frontend architect at Sabre Travel Tech, building scalable enterprise user interfaces from ITPL Bangalore office. A proud Toastmasters leader and self-confessed nerd, he channels his passion for clarity into UI, AI experiments, and indie tech projects—always eager to share what he learns with the tech community.
               </p>
             </div>
             <div className={"text--center"}>
