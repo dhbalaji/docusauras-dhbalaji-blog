@@ -8,14 +8,14 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 const whoami = `{
     "name": "Balaji",
     "designation": "Lead Design Technologist",
-    "location": "Bangalore, India",
-    "experience": "10+ years",
     "email": "balaji@dhbalaji.dev",
-    "employer": "Sabre",
+    "employer": "Sabre Corporation",
+    "experience": "10+ years",
+    "location": "Bangalore, India",
     "skills": [
         "React application development",
         "Enterprise design language",
-        "Driving large scale UI projects",
+        "Lead large scale UI projects",
     ],
     "tagline": "Unlock Business Value. Realize Your Dreams.",
 }`;
