@@ -26,11 +26,7 @@ Bookmark it. Revisit it. Especially when the winds change.
 
 ## Jobs Are Forever — The Myth We Bought
 
-We were told a job is a destination. Land one, and you’re safe. Study hard, get placed, follow the system, and one day retire in peace.
-
-That illusion didn’t survive its first encounter with real-world volatility. For many of us, it collapsed not in our first job, but in the uncertainty of the second or third, where layoffs weren’t just newspaper headlines — they were personal.
-
-I vividly remember 2012 — hearing the word *layoff* not in a company-wide announcement, but in hushed conversations. Someone had run a SQL script to revoke access for 2,000 employees. That one line of code unraveled years of effort.
+We were told a job is a destination. Land one, and you’re safe. Study hard, get placed, follow the system, and one day retire in peace. That illusion didn’t survive its first encounter with real-world volatility. For many of us, it collapsed not in our first job, but in the uncertainty of the second or third, where layoffs weren’t just newspaper headlines — they were personal. I vividly remember 2012 — hearing the word *layoff* not in a company-wide announcement, but in hushed conversations. Someone had run a SQL script to revoke access for 2,000 employees. That one line of code unraveled years of effort in milliseconds.
 
 Like Abhimanyu in the Mahabharata’s chakra vyuha — we were trained to enter the maze, but never taught how to exit with dignity or direction.
 
@@ -38,85 +34,63 @@ Like Abhimanyu in the Mahabharata’s chakra vyuha — we were trained to enter 
 
 ## Trainings Will Save You — Another False Promise
 
-Every new tool promises salvation. There's always a 10-hour video, a certification badge, or a learning week calendar invite.
+Every new tool promises salvation. There's always a 10-hour video, a certification badge, or a learning week calendar invite. But knowledge ≠ transformation. You can’t train your way out of stagnation if you never practice. I’ve seen folks with "12 years of experience" who’ve actually repeated the same year twelve times.
 
-But knowledge ≠ transformation.
-
-You can’t train your way out of stagnation if you never practice. I’ve seen folks with "12 years of experience" who’ve had one year of learning repeated twelve times.
-
-Meanwhile, younger teammates with fewer years and sharper instincts bulldoze ahead because they build, break, and ship things. That edge doesn’t come from upskilling videos — it comes from showing up, making decisions, and seeing them fail or fly.
+Meanwhile, younger teammates with fewer years and sharper instincts bulldoze ahead because they build, break, and ship things. That edge doesn’t come from upskilling videos — it comes from showing up, making calls, failing fast, and bouncing back faster.
 
 ---
 
 ## Hold Virtual Ownership — But Don’t Drown in It
 
-"Take ownership" is on every job description, every OKR sheet, every manager’s feedback form.
+"Take ownership" is on every job description and manager’s checklist. But what does it actually mean in a workplace where ownership is distributed so thinly that no one has true decision power? We all know how “too many cooks” ends. At some point, everyone owns everything and yet nothing gets done. Developer productivity becomes a metric sport, while the product itself has no paying users. Market validation? Not my department. We just sprint. It feels like a rush-hour metro ride — packed, sweaty, and no one is willing to adjust for the person next to them. Everyone's pushing, no one knows where the train is heading.
 
-But what does that really mean in today’s work culture?
-
-At some point, everyone owns everything and yet nothing gets owned. Developer productivity becomes a sport, but no one knows whether what we’re building even has a real user. Market demand? That’s someone else’s problem. We just sprint.
-
-It’s like rush-hour in a metro coach — packed with urgency, everyone bumping into everyone, nobody willing to slow down or be accommodative.
-
-Virtual ownership without real influence leads to burnout masked as performance.
+Virtual ownership without real influence breeds burnout. Masked as initiative, rewarded with more tasks. And if your work isn’t directly influencing product adoption or revenue?  **Better believe someone’s already rewriting your goodbye message.**
 
 ---
 
 ## Your Worth = A Number
 
-Whether you’re a fresher or a CEO, you’re evaluated in metrics:
+Whether you’re a fresher or a VP, you are a number in a dashboard:
 
 - CGPA  
-- Leetcode score  
-- Story points completed  
-- Revenue earned  
-- Churn reduced  
-- Market share gained
+- Leetcode percentile  
+- Story points delivered  
+- Uptime maintained  
+- Revenue influenced  
+- Cost avoided  
 
-If you can’t attach a number to your effort, you're invisible in performance reviews and funding meetings. And worse — you start to doubt your own impact.
-
-It took me years to understand that emotional labour, people management, and long-term design thinking often have a delayed ROI. But you still need to speak in numbers, because the game understands that language.
+If your work can’t be quantified, it’s sidelined. Worse — you start internalizing the idea that you’re not contributing enough, even if you’re the glue holding teams together. I learned this late: Emotional intelligence, long-term thinking, culture-building — these don’t show up in slides. But the system demands that even these be justified with metrics. If not, you risk being seen as "nice to have" when it's time to downsize.
 
 ---
 
 ## Layoffs Are Normalised — And That’s Not Going Away
 
-We don’t whisper “layoffs” anymore. We livestream them.
+Layoffs are no longer the stuff of boardroom whispers. They're livestream events. Scripted, staged, and delivered over Zoom.
 
-From Elon Musk to startup founders, workforce trims are now strategic moves — not crises. Automation, AI, and economic pressures have made it normal.
-
+From Big Tech to startups, workforce cuts are no longer a reaction — they're a strategy.  
 - It’s not personal.  
 - It’s not fair.  
 - It’s just business.
 
-You’re only as safe as your team’s last quarter or your client’s funding cycle. If the macroeconomics are down, even the highest-rated employee gets caught in the tide.
+At the time of writing this post, TCS a prestigious Indian company where several employees stayed loyal to Tata Group where put on the line called "first ever 2% workforce reduction". Illustrating the fact, no company is layoff proof. You are only as secure as the revenue forecast or funding runway. You could be the highest performer and still be asked to go because your role didn’t “align with priorities.”
 
-In a way, every job today feels like a stock market investment. You don’t just show up — you bet on the company, the domain, and even the leadership team’s gut feel.
+Every job now feels like a stock pick. You invest time, hope, and weekends into a bet that may or may not pay off. You rise and fall with the market mood.
 
 ---
 
 ## AI: The Elephant in Every Meeting Room
 
-AI is no longer sci-fi. It’s product roadmap material.
+AI is the most discussed guest in the room — invited to every conversation, understood by very few.
 
-But let’s be honest — most teams don’t know how to use it yet. There’s a lot of bravado and very little integration.
-
-I’ve sat in meetings where people say "let's use AI" like it’s a checkbox, not a capability. Truth is, AI right now is where cloud was in 2012 — full of potential, plagued by buzzwords.
-
-I believe by 2030, AI will go through its own reality check. The inflated expectations will burst. Real-world use cases will survive. And people will stop building AI features just to say they’re building AI features.
+In meetings, “Let’s bring in AI” is thrown around like a magical fix. But when asked what exactly it should do, silence follows. Truth is, **AI is today what cloud was in 2012** — full of promise, stuck in pitch decks. By 2030, AI will face its own audit. The novelty will wear off. Leaders will stop using it for press releases and start using it for results. And developers will stop fearing AI — not because it’s weak, but because they'll finally understand what it can and can't do.
 
 ---
 
-## Deep Open Source Will Struggle
+## Mental Health Is a Joke
 
-There was a time when being an open-source maintainer was a badge of honour. You gave your weekends to the community. You solved problems no one else could.
+It’s easy to preach balance when you’re a spiritual leader with a lake-view campus and loyal donors. But when you’re an employee living month-to-month, **“balance” sounds like a luxury.** When townhall invites trigger dread. When one reorg wipes out months of planning. When even good work ends with a “however” in the appraisal form. No wellness app will fix the anxiety of seeing colleagues disappear from Slack and payroll overnight.
 
-Now? AI models scrape your GitHub repo, explain your code, and generate forks without attribution.
-
-The hacker culture that built the internet is now fighting for oxygen. Not because the work isn’t valuable — but because AI is making contributions invisible and commodified.
-
-Governments are already stepping in — from chip bans to AI regulations. Skilled labour, especially in deep tech, will become expensive and geopolitically sensitive.  
-Open-source may never die, but without funding, recognition, or viable consulting models, it won’t thrive either.
+Today, every employee has at least two AI tools watching their work, recording patterns, nudging suggestions — **training to replace them** more than to support them. It’s no longer fiction to imagine a future where brain-implanted AI boosts “efficiency.” Because hey, it’s more important to track keyboard strokes than to turn off the energy-guzzling TVs still looping yesterday’s metrics in an empty office bay.
 
 ---
 
@@ -125,11 +99,6 @@ Open-source may never die, but without funding, recognition, or viable consultin
 Work is no longer a straight line. It’s a loop.  
 **Learn → Build → Make money → Exit → Repeat**
 
-14 years in tech. 7 years with one company.
+14 years in tech. 7 years in one company. This milestone isn’t a victory lap. It’s a checkpoint. A reminder to stay **adaptable**, **humble**, and **detached**. Because in this industry, one truth reigns above all:
 
-This milestone isn’t about loyalty. It’s about adaptability. About understanding the cyclical nature of relevance.
-
-If you’re not changing — the game is.  
-If you’re too attached — the system will detach you.  
-
-Because in this game, **impermanence is not a bug — it’s the default setting.**
+**Impermanence isn’t a bug — it’s the default setting.** 
