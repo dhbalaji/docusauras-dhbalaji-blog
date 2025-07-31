@@ -6,11 +6,13 @@ tags:
   - tech-industry
 date: 2025-07-30 10:00:00
 authors: [dhbalaji]
-image: /assets/images/tech-career-loop.png
+image: /assets/2025/7-years.png
 keywords: [tech-career, work]
 ---
 
 # 14 Years in Tech | 7 Years at One Company | Notes from the Edge of Impermanence
+
+![](../assets/2025/7-years.png)
 
 After 14 years in tech — including 7 years at my current company — this isn't a celebration post. It's a reflection.
 
