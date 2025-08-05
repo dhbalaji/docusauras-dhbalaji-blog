@@ -25,7 +25,7 @@ keywords: [toastmasters, felicitation-chair, area-d5, event-leadership]
 
 This wasn’t just another club meeting.
 
-It was a **cross-border alliance of wit, wisdom, and wow-moments** — a **joint meeting of Area D5 clubs**, featuring powerhouses from **Vellore, Hosur**, mind blowing education session speakers and beyond.
+It was a **cross-border alliance of wit, wisdom, and wow-moments** — a **joint meeting of Area A5 clubs**, featuring powerhouses from **Vellore, Hosur**, mind blowing education session speakers and beyond.
 
 And right at the tail end of this prestigious gathering, I was handed a mic and a mission: to felicitate, celebrate, and wrap up sessions like a pro — all in **under 45 seconds per role taker**.
 
@@ -112,8 +112,8 @@ I did go off-script occasionally to inject humor — the energy in the room had 
 
 Next, I invited the *District Trio* — a term I learned just a week earlier:
 
-- **Club Growth Director, DTM Anirudh**  
 - **District Director, DTM Parthasarathy**  
+- **Club Growth Director, DTM Anirudh**  
 - **Program Quality Director, TM Vinoth Kumar**
 
 Also invited, in the same sequence:
@@ -140,7 +140,7 @@ Other than that, the show went smoothly.
 
 ## What *is* the Felicitation Chair?
 
-- It's the segment where the audience starts **scanning for snacks**  
+- It's the segment where the audience starts **scanning for snacks** (pun intended) 
 - Role takers and dignitaries expect a **professional wrap-up**, not a duct-tape script  
 - You’ll have **last-minute add-ons** whispered to you in front of 50 people while you’re holding a mic and pretending everything’s under control  
 - You must remain **calm, composed, and ready to improvise**  
