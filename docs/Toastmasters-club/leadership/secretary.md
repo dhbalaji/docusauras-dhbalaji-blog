@@ -1,4 +1,4 @@
-# 🧭 Club Secretary
+# Club Secretary
 
 ---
 For the term of July to Dec 2025, Hosur toastmasters club.
