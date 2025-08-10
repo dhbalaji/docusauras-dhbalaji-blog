@@ -2,6 +2,12 @@
 
 ## Evaluator
 
+### Intro to speaker
+
+Good [morning/afternoon/evening] fellow Toastmasters and guests. Before I share my evaluation, let’s quickly revisit why we do this. Evaluation is not about fault-finding — it’s about spotlighting strengths and giving constructive, actionable suggestions for growth. We look at three things: what worked well, what can be improved, and how to improve it. The aim is simple — leave the speaker encouraged, inspired, and eager to take the stage again. With that in mind, here are today’s evaluation guidelines…
+
+### Presenting evaluation
+
 The Evaluator speech is structured into four key sections:
 
 1. **Opening** – Brief, impactful introduction
@@ -13,33 +19,28 @@ This format is ideal for evaluation contests and can be adapted for regular club
 
 > With creativity and impromptu speaking skills, this approach also suits the **General Evaluator** role.
 
-### Opening (15 seconds)
+#### Opening (15 seconds)
 
-Thank you, Madam/Mister Toastmaster. Today, I had the privilege of experiencing a speech that seamlessly blended compelling ideas with heartfelt delivery—a testament to both skill and courage.
+Good [morning/afternoon/evening] Madam/Mister Toastmaster, fellow Toastmasters, and guests. Today, I had the privilege of experiencing a speech that seamlessly blended compelling ideas with heartfelt delivery—a testament to both skill and courage.
 
 **Tips:**
 - Keep it positive and concise
 - Avoid restating the speech title or summary—focus on impact
 
-#### 15 Evaluator Opening Lines
+#### Sample Evaluator Opening Lines
 
-1. Thank you, Madam/Mister Toastmaster. Today, I witnessed a speech that was a delightful blend of passion, structure, and heart.
-2. This evening, I had the privilege of watching a story unfold—one that kept us engaged from the first word to the last.
-3. Madam/Mister Toastmaster, fellow Toastmasters, and guests—today’s speech exemplified how well-crafted words can leave a lasting impression.
-4. A great speech entertains the mind and touches the heart. Today, we experienced both.
-5. Some speeches teach, some inspire. This one did both while keeping us captivated throughout.
-6. Madam/Mister Toastmaster, what we saw today was more than a speech—it was a journey.
-7. Today’s speech reminded us that authenticity is the best form of persuasion.
-8. A good speech speaks to the mind; a great one speaks to the heart. This was the latter.
-9. From the moment the speaker began, there was an undeniable connection with the audience.
-10. Speeches are like music—today’s had rhythm, flow, and moments that truly resonated.
-11. I had the pleasure of listening to a speech rich in both substance and style.
-12. Madam/Mister Toastmaster, today’s speech perfectly illustrated how preparation meets passion.
-13. A powerful message, skillful delivery, and genuine emotion—today’s speech had all three.
-14. Occasionally, a speech reminds us why we joined Toastmasters—today was one such moment.
-15. Madam/Mister Toastmaster, evaluating this speech is like reviewing a fine piece of art—full of details worth appreciating.
+1. Good [morning/afternoon/evening] Madam/Mister Toastmaster. Today, I witnessed a speech that was a delightful blend of passion, structure, and heart.
+2. Good [morning/afternoon/evening] fellow Toastmasters and guests. This evening, I had the privilege of watching a story unfold—one that kept us engaged from the first word to the last.
+3. Good [morning/afternoon/evening] Madam/Mister Toastmaster, fellow Toastmasters, and guests—today’s speech exemplified how well-crafted words can leave a lasting impression.
+4. Good [morning/afternoon/evening] everyone. A great speech entertains the mind and touches the heart. Today, we experienced both.
+5. Good [morning/afternoon/evening] fellow Toastmasters. Some speeches teach, some inspire. This one did both while keeping us captivated throughout.
+6. Good [morning/afternoon/evening] Madam/Mister Toastmaster, what we saw today was more than a speech—it was a journey.
+7. Good [morning/afternoon/evening] everyone. Today’s speech reminded us that authenticity is the best form of persuasion.
+8. Good [morning/afternoon/evening] fellow Toastmasters. A good speech speaks to the mind; a great one speaks to the heart. This was the latter.
+9. Good [morning/afternoon/evening] Madam/Mister Toastmaster. From the moment the speaker began, there was an undeniable connection with the audience.
+10. Good [morning/afternoon/evening] everyone. Speeches are like music—today’s had rhythm, flow, and moments that truly resonated.
 
-### Commendations (75 seconds)
+#### Commendations (75 seconds)
 
 **Purpose:** Highlight what worked well and why it was effective.
 
@@ -54,25 +55,15 @@ Thank you, Madam/Mister Toastmaster. Today, I had the privilege of experiencing 
 
 Example: Your use of vivid imagery, such as describing the sunrise as golden fingers stretching across the sky, drew the audience into your world, making us feel the scene as if we were there.
 
-#### 15 Commendation Examples
+##### Sample Commendations
 
 1. Your opening line captured attention instantly and set the tone for the entire speech.
 2. Your storytelling felt authentic, making it easy for the audience to connect with you.
 3. The imagery you painted allowed us to see, hear, and feel your scenes vividly.
 4. Your use of pauses gave the audience space to absorb your message.
 5. The structure of your speech flowed logically, guiding us effortlessly from start to finish.
-6. Your eye contact created a personal connection with each listener.
-7. You used gestures that complemented your words and added depth to your message.
-8. Your vocal variety kept us engaged and highlighted your key points.
-9. Your humor was natural and well-timed, bringing the audience along with you.
-10. You built up your message to a strong, memorable conclusion.
-11. Your transitions were smooth, making the journey between ideas seamless.
-12. You balanced facts and emotions in a way that appealed to both heart and mind.
-13. Your passion for the subject shone through every word and movement.
-14. You effectively used the stage to add energy and visual interest.
-15. Your speech had a clear takeaway that will stay with the audience long after the meeting.
 
-### Recommendations (75 seconds)
+#### Recommendations (75 seconds)
 
 **Purpose:** Suggest specific, actionable ways to elevate the speech.
 
@@ -91,25 +82,15 @@ Example: Your use of vivid imagery, such as describing the sunrise as golden fin
 
 Example: At the climax, a pause of two seconds before revealing the key message would have amplified its impact and allowed the audience to fully absorb your words.
 
-#### 15 Recommendation Examples
+##### Sample Recommendations
 
 1. Consider adding a brief, attention-grabbing hook at the start to engage the audience immediately.
 2. A slight pause after your key points could give them more weight and let the audience reflect.
 3. Exploring more vocal variety can help highlight emotional shifts in your story.
 4. Varying your pace—slowing down for impact and speeding up for excitement—can make the delivery more dynamic.
 5. Strategic stage movement could visually reinforce your speech structure.
-6. Try using more descriptive language to create vivid mental images for the audience.
-7. Tightening certain sections could keep the momentum strong from start to finish.
-8. Connecting your conclusion more directly to the opening would create a satisfying full-circle effect.
-9. Inserting a rhetorical question could make the audience feel more personally involved.
-10. Using stronger gestures at key moments would add emphasis and energy.
-11. Experimenting with facial expressions could help convey the emotional tone more vividly.
-12. Introducing an unexpected twist or contrast could make the middle section more memorable.
-13. Link your anecdotes more clearly to your central message to strengthen the takeaway.
-14. Fine-tuning your transitions will make the speech flow even more naturally.
-15. A concise, powerful closing line could ensure your message resonates long after the applause.
 
-### Conclusion (15 seconds)
+#### Conclusion (15 seconds)
 
 **Purpose:** Reinforce the value of your feedback and motivate the speaker.
 
@@ -120,23 +101,11 @@ In summary, your speech was a testament to your skill and passion. With a touch 
 - End with encouragement
 - Keep it short and uplifting
 
-#### 15 Evaluator Closing Lines
+#### Sample Evaluator Closing Lines
 
 1. In summary, this was a well-crafted speech, and I look forward to seeing your future projects shine even brighter.
 2. With a few refinements, this speech can evolve from impressive to unforgettable—and I know you’ll get there.
 3. Your message today mattered, and I hope you keep sharing it with the same passion.
-4. This was a strong step in your speaking journey—I can’t wait to see your next leap.
-5. With your skill and dedication, your next speech will not only inspire but transform the audience.
-6. Today’s speech was a pleasure to witness, and I look forward to applauding your continued growth.
-7. A few adjustments and this speech will have standing-ovation potential—I believe you can make it happen.
-8. You’ve set a high bar for yourself, and I know you’ll keep raising it.
-9. This was a speech worth remembering—and I hope you keep creating many more of them.
-10. Your journey as a speaker is inspiring—keep refining, keep delivering, and keep moving forward.
-11. This speech had impact—with polish, it will have power.
-12. I look forward to seeing how you take today’s feedback and turn it into your next masterpiece.
-13. You have the tools, the talent, and the tenacity—the stage is yours to conquer.
-14. With your passion and willingness to improve, your speeches will only get stronger.
-15. In closing, today’s speech was a gift to the audience—and I’m excited to see what you give us next.
 
 ### Timing Guidelines
 
@@ -154,15 +123,13 @@ The time for evaluations is **2 to 3 minutes**.
 
 ### Role Introduction Script
 
-> Good [morning/afternoon/evening] fellow Toastmasters and guests,
->
-> I am [Your Name], your **Ah Counter** for today’s meeting.
->
-> My role is to listen carefully to each speaker and note any unnecessary sounds or words—these are called **filler words**. They often slip into our speech when we pause to think and can distract the audience.
->
-> I will also watch for repeated phrases and crutch words that may weaken your message. At the end of the meeting, I will present a report on what I observed, so we can all become more aware and improve our speaking skills.
->
-> Let’s have a smooth, filler-free session today! Back to you, **[Toastmaster of the Day’s name]**.
+Good [morning/afternoon/evening] fellow Toastmasters and guests. I am [Your Name], your **Ah Counter** for today’s meeting.
+
+My role is to listen carefully to each speaker and note any unnecessary sounds or words—these are called **filler words**. They often slip into our speech when we pause to think and can distract the audience.
+
+I will also watch for repeated phrases and crutch words that may weaken your message. At the end of the meeting, I will present a report on what I observed, so we can all become more aware and improve our speaking skills.
+
+Let’s have a smooth, filler-free session today! Back to you, **[Toastmaster of the Day’s name]**.
 
 ### Common Filler Words
 
@@ -217,9 +184,7 @@ The time for evaluations is **2 to 3 minutes**.
 
 ### Introduction
 
-> Good [morning/afternoon] fellow Toastmasters and guests.
-> I am [Your Name], and I will be your Timer for today’s meeting.
-> My role is to help every speaker stay within their allotted time, because in Toastmasters, respecting time is as important as respecting the audience.
+Good [morning/afternoon/evening] fellow Toastmasters and guests. I am [Your Name], and I will be your Timer for today’s meeting. My role is to help every speaker stay within their allotted time, because in Toastmasters, respecting time is as important as respecting the audience.
 
 ### Responsibilities
 
@@ -299,7 +264,7 @@ Things to Look For:
 
 ### Opening
 
-Good [morning/afternoon/evening], fellow Toastmasters and guests! I am [Your Name], the Presiding Officer for today’s meeting. On behalf of [Club Name], I welcome you all to our [number]th meeting. Whether you’re here to improve your communication skills, leadership skills, or simply to be inspired, you are in the right place!
+Good [morning/afternoon/evening] fellow Toastmasters and guests! I am [Your Name], the Presiding Officer for today’s meeting. On behalf of [Club Name], I welcome you all to our [number]th meeting. Whether you’re here to improve your communication skills, leadership skills, or simply to be inspired, you are in the right place!
 
 Add in relevant updates about the club, area, division, or district, such as past or upcoming events.
 
@@ -310,3 +275,42 @@ Thank you, [Name], for that engaging session. And thank you to all speakers, eva
 If you have come across a book or related article from Toastmasters International, you may share it to fill time.
 
 This concludes our meeting for today. Until we meet again, keep speaking, keep growing, and keep inspiring. The meeting is officially adjourned!
+
+---
+
+## General Evaluator
+
+### Opening (3–4 min)
+
+Good [morning/afternoon/evening] fellow Toastmasters and guests. My role as General Evaluator is similar to a movie critic—but for today’s meeting. I’ll be looking at the big picture: what worked well, what could be improved, and how we can make our next meeting even better.
+
+**Role Explanation (30 sec)**
+
+> While the speech evaluators focus on individual speakers, I evaluate the entire meeting—from the start time, agenda flow, and energy, to how each role player performed. My goal is not just to find gaps, but to highlight strengths.
+
+Call on role players (Ah Counter, Grammarian, Timer) to explain their roles to the audience.
+
+### Closing (3–4 min)
+
+Call on role players (5–6 min):
+
+- Invite Speech Evaluators to give their evaluations (if not already done in meeting flow).
+- Invite Ah Counter, Grammarian, Timer, and any other meeting role players to present their reports.
+- Acknowledge their contributions.
+
+**Structure:**
+
+- **Strengths:**
+  - Meeting started on time / smooth transitions / engaging Table Topics / positive energy
+- **Opportunities:**
+  - Time management / stronger openings & closings / audience engagement tips
+- **Suggestions:**
+  - One or two actionable improvements for the next meeting
+
+> That concludes my evaluation. Remember, feedback is the breakfast of champions—and judging by today’s meeting, we’ve got a very healthy breakfast habit. Back to you, Toastmaster of the Day.
+
+---
+
+## Note
+
+A quick note on two very special roles — Toastmaster of the Day and Topics Master. These are not ‘read-from-a-script’ positions. They are the meeting’s flavour-makers. The TMOD sets the theme, mood, and flow, while the Topics Master brings spontaneity and energy. If we start handing out fixed scripts for them, we remove the room for personal stories, experiments, and those delightful surprises that make meetings memorable. So, think of these roles as an open canvas — the more you colour them with your own ideas, the more vibrant our meeting becomes.
