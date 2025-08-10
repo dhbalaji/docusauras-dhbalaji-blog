@@ -1,4 +1,37 @@
-# Meeting Roles
+---
+title: Meeting Roles Guide
+description: "Comprehensive guide to Toastmasters meeting roles, including Evaluator, Ah Counter, Timer, Grammarian, Presiding Officer, and General Evaluator. Includes scripts, tips, and best practices for club meetings."
+keywords:
+  - Toastmasters
+  - Meeting Roles
+  - Evaluator
+  - Ah Counter
+  - Timer
+  - Grammarian
+  - Presiding Officer
+  - General Evaluator
+  - Public Speaking
+  - Speech Evaluation
+  - Club Leadership
+  - Communication Skills
+  - Leadership Skills
+  - Best Practices
+  - Scripts
+  - Tips
+  - Agenda
+  - Club Meetings
+  - Table Topics
+  - TMOD
+  - Topics Master
+  - Feedback
+  - Growth
+  - Professional Development
+image: /img/2025/toastmasters-meeting-roles-social.png
+---
+
+# Meeting Roles Guide
+
+![](../../../static/img/2025/toastmasters-meeting-roles-social.png)
 
 ## Evaluator
 
