@@ -2,11 +2,11 @@
 
 ## Evaluator
 
-### Intro to speaker
+### Introduction to Speaker
 
 Good [morning/afternoon/evening] fellow Toastmasters and guests. Before I share my evaluation, let’s quickly revisit why we do this. Evaluation is not about fault-finding — it’s about spotlighting strengths and giving constructive, actionable suggestions for growth. We look at three things: what worked well, what can be improved, and how to improve it. The aim is simple — leave the speaker encouraged, inspired, and eager to take the stage again. With that in mind, here are today’s evaluation guidelines…
 
-### Presenting evaluation
+### Evaluation Structure
 
 The Evaluator speech is structured into four key sections:
 
@@ -19,7 +19,7 @@ This format is ideal for evaluation contests and can be adapted for regular club
 
 > With creativity and impromptu speaking skills, this approach also suits the **General Evaluator** role.
 
-#### Opening (15 seconds)
+### Opening (15 seconds)
 
 Good [morning/afternoon/evening] Madam/Mister Toastmaster, fellow Toastmasters, and guests. Today, I had the privilege of experiencing a speech that seamlessly blended compelling ideas with heartfelt delivery—a testament to both skill and courage.
 
@@ -27,7 +27,7 @@ Good [morning/afternoon/evening] Madam/Mister Toastmaster, fellow Toastmasters, 
 - Keep it positive and concise
 - Avoid restating the speech title or summary—focus on impact
 
-#### Sample Evaluator Opening Lines
+Sample Evaluator Opening Lines
 
 1. Good [morning/afternoon/evening] Madam/Mister Toastmaster. Today, I witnessed a speech that was a delightful blend of passion, structure, and heart.
 2. Good [morning/afternoon/evening] fellow Toastmasters and guests. This evening, I had the privilege of watching a story unfold—one that kept us engaged from the first word to the last.
@@ -55,7 +55,7 @@ Good [morning/afternoon/evening] Madam/Mister Toastmaster, fellow Toastmasters, 
 
 Example: Your use of vivid imagery, such as describing the sunrise as golden fingers stretching across the sky, drew the audience into your world, making us feel the scene as if we were there.
 
-##### Sample Commendations
+Sample Commendations
 
 1. Your opening line captured attention instantly and set the tone for the entire speech.
 2. Your storytelling felt authentic, making it easy for the audience to connect with you.
@@ -82,7 +82,7 @@ Example: Your use of vivid imagery, such as describing the sunrise as golden fin
 
 Example: At the climax, a pause of two seconds before revealing the key message would have amplified its impact and allowed the audience to fully absorb your words.
 
-##### Sample Recommendations
+Sample Recommendations
 
 1. Consider adding a brief, attention-grabbing hook at the start to engage the audience immediately.
 2. A slight pause after your key points could give them more weight and let the audience reflect.
@@ -90,7 +90,7 @@ Example: At the climax, a pause of two seconds before revealing the key message 
 4. Varying your pace—slowing down for impact and speeding up for excitement—can make the delivery more dynamic.
 5. Strategic stage movement could visually reinforce your speech structure.
 
-#### Conclusion (15 seconds)
+### Conclusion (15 seconds)
 
 **Purpose:** Reinforce the value of your feedback and motivate the speaker.
 
@@ -101,7 +101,7 @@ In summary, your speech was a testament to your skill and passion. With a touch 
 - End with encouragement
 - Keep it short and uplifting
 
-#### Sample Evaluator Closing Lines
+Sample Evaluator Closing Lines
 
 1. In summary, this was a well-crafted speech, and I look forward to seeing your future projects shine even brighter.
 2. With a few refinements, this speech can evolve from impressive to unforgettable—and I know you’ll get there.
@@ -121,7 +121,7 @@ The time for evaluations is **2 to 3 minutes**.
 
 ## Ah Counter
 
-### Role Introduction Script
+### Role Introduction
 
 Good [morning/afternoon/evening] fellow Toastmasters and guests. I am [Your Name], your **Ah Counter** for today’s meeting.
 
@@ -164,7 +164,7 @@ Let’s have a smooth, filler-free session today! Back to you, **[Toastmaster of
 
 **Opening**
 
-> Madam/Mister Toastmaster, fellow members, and guests, here is my report as the Ah Counter for today’s meeting.
+Good [morning/afternoon/evening] Madam/Mister Toastmaster, fellow members, and guests. Here is my report as the Ah Counter for today’s meeting.
 
 **Structure**
 
@@ -182,7 +182,7 @@ Let’s have a smooth, filler-free session today! Back to you, **[Toastmaster of
 
 ## Timer
 
-### Introduction
+### Role Introduction
 
 Good [morning/afternoon/evening] fellow Toastmasters and guests. I am [Your Name], and I will be your Timer for today’s meeting. My role is to help every speaker stay within their allotted time, because in Toastmasters, respecting time is as important as respecting the audience.
 
@@ -208,7 +208,9 @@ I will signal speakers at three stages:
 
 ### Report Presentation Outline
 
-At the end of the meeting, present a **Timer’s Report**, listing:
+**Opening**
+
+Good [morning/afternoon/evening] Madam/Mister Toastmaster, fellow members, and guests. Here is my report as the Timer for today’s meeting.
 
 - Each speaker’s allotted time
 - Actual time taken
@@ -216,13 +218,13 @@ At the end of the meeting, present a **Timer’s Report**, listing:
 
 **Closing:**
 
-> Let’s keep our speeches sharp and impactful by staying within time. Over to you, [Toastmaster of the Day / Presiding Officer].
+Good [morning/afternoon/evening] everyone. Let’s keep our speeches sharp and impactful by staying within time. Over to you, [Toastmaster of the Day / Presiding Officer].
 
 ---
 
 ## Grammarian
 
-### Introduction
+### Role Introduction
 
 Good [morning/afternoon/evening] fellow Toastmasters and guests. As the Grammarian for today, my role is to help you sharpen your use of language. I will be listening for correct grammar, creative expressions, and ways we can improve our speech delivery. I will also note exceptional uses of language that make speeches more impactful.
 
@@ -240,29 +242,24 @@ Things to Look For:
 
 ### Report Presentation Outline
 
-**Opening:**
+**Opening**
 
-> Madam/Mister Toastmaster, fellow members, and guests…
+Good [morning/afternoon/evening] Madam/Mister Toastmaster, fellow members, and guests. Here is my report as the Grammarian for today’s meeting.
 
-**Word of the Day Usage:**
-- Who used it, how many times, and notable creative uses
-
-**Positive Language Highlights:**
+- Who used the Word of the Day, how many times, and notable creative uses
 - Best phrases, analogies, wordplay, humor, or imagery
-
-**Areas for Improvement:**
 - Mention grammar slips, overused words, filler phrases
 - Keep feedback constructive, not embarrassing
 
-**Closing:**
+**Closing**
 
-> That was my report as Grammarian. Back to you, Toastmaster of the Day.
+Good [morning/afternoon/evening] everyone. That was my report as Grammarian. Back to you, Toastmaster of the Day.
 
 ---
 
 ## Presiding Officer
 
-### Opening
+### Role Introduction
 
 Good [morning/afternoon/evening] fellow Toastmasters and guests! I am [Your Name], the Presiding Officer for today’s meeting. On behalf of [Club Name], I welcome you all to our [number]th meeting. Whether you’re here to improve your communication skills, leadership skills, or simply to be inspired, you are in the right place!
 
@@ -270,7 +267,7 @@ Add in relevant updates about the club, area, division, or district, such as pas
 
 ### Closing
 
-Thank you, [Name], for that engaging session. And thank you to all speakers, evaluators, role players, and guests for making this meeting successful. We hope you found value and inspiration here.
+Good [morning/afternoon/evening] everyone. Thank you, [Name], for that engaging session. And thank you to all speakers, evaluators, role players, and guests for making this meeting successful. We hope you found value and inspiration here.
 
 If you have come across a book or related article from Toastmasters International, you may share it to fill time.
 
@@ -280,13 +277,13 @@ This concludes our meeting for today. Until we meet again, keep speaking, keep g
 
 ## General Evaluator
 
-### Opening (3–4 min)
+### Role Introduction
 
 Good [morning/afternoon/evening] fellow Toastmasters and guests. My role as General Evaluator is similar to a movie critic—but for today’s meeting. I’ll be looking at the big picture: what worked well, what could be improved, and how we can make our next meeting even better.
 
-**Role Explanation (30 sec)**
+**Role Explanation**
 
-> While the speech evaluators focus on individual speakers, I evaluate the entire meeting—from the start time, agenda flow, and energy, to how each role player performed. My goal is not just to find gaps, but to highlight strengths.
+While the speech evaluators focus on individual speakers, I evaluate the entire meeting—from the start time, agenda flow, and energy, to how each role player performed. My goal is not just to find gaps, but to highlight strengths.
 
 Call on role players (Ah Counter, Grammarian, Timer) to explain their roles to the audience.
 
@@ -298,7 +295,7 @@ Call on role players (5–6 min):
 - Invite Ah Counter, Grammarian, Timer, and any other meeting role players to present their reports.
 - Acknowledge their contributions.
 
-**Structure:**
+**GE Report:**
 
 - **Strengths:**
   - Meeting started on time / smooth transitions / engaging Table Topics / positive energy
