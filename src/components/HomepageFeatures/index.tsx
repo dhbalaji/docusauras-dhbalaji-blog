@@ -103,11 +103,12 @@ export default function HomepageFeatures(): JSX.Element {
       </div>
 
       <div className="container">
-        <h2>AI Generated Audio Summary of Recent Article</h2>
+        <h2>AI-Powered Audio Summary</h2>
         <iframe title="The Art of Felicitation: A Toastmasters Tale" allowtransparency="true" height="300" width="100%" style={{border: "none", minWidth: "min(100%, 430px)",height:"175px", marginBottom: "20px"}} scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=6aki4-193504b-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=3ab278&size=300" loading="lazy" allowfullscreen=""></iframe>
       </div>
     </>
   );
 }
+
 
 
