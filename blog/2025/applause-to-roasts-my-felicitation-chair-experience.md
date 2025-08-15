@@ -16,6 +16,8 @@ keywords: [toastmasters, felicitation-chair, area-d5, event-leadership]
 
 ![](../assets/2025/felicitation-ceremony.png)
 
+<iframe title="The Art of Felicitation: A Toastmasters Tale" allowtransparency="true" height="300" width="100%" style={{border: "none", minWidth: "min(100%, 430px)",height:"175px", marginBottom: "20px"}} scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=6aki4-193504b-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=3ab278&size=300" loading="lazy" allowfullscreen=""></iframe>
+
 > *"The best section of Toastmasters sessions? The one where the winners are announced and felicitated."*  
 > — Me, after surviving the Felicitation Chair role.
 
