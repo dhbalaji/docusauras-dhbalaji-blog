@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog2=self.webpackChunkblog2||[]).push([[8529],{79278:s=>{s.exports=JSON.parse('{"tag":{"label":"essays","permalink":"/blog/tags/essays","allTagsPath":"/blog/tags","count":4,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/essays","page":1,"postsPerPage":8,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
