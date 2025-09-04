@@ -199,7 +199,7 @@ const config = {
   ],
   clientModules: [
     // Path to the client module you just created
-    require.resolve("./src/injectDialogFlow.js"),
+    // require.resolve("./src/injectDialogFlow.js"),
   ],
 };
 
