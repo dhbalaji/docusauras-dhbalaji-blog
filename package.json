@@ -18,27 +18,27 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.8.1",
-    "@docusaurus/plugin-google-gtag": "^3.8.1",
-    "@docusaurus/plugin-ideal-image": "^3.8.1",
-    "@docusaurus/preset-classic": "^3.8.1",
-    "@mdx-js/react": "^3.1.0",
+    "@docusaurus/core": "^3.9.1",
+    "@docusaurus/plugin-google-gtag": "^3.9.1",
+    "@docusaurus/plugin-ideal-image": "^3.9.1",
+    "@docusaurus/preset-classic": "^3.9.1",
+    "@mdx-js/react": "^3.1.1",
     "classnames": "^2.5.1",
     "clsx": "^2.1.1",
     "husky": "^9.1.7",
     "prism-react-renderer": "^2.4.1",
     "prismjs": "^1.30.0",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.8.1",
-    "@tsconfig/docusaurus": "^2.0.3",
+    "@docusaurus/module-type-aliases": "^3.9.1",
+    "@tsconfig/docusaurus": "^2.0.4",
     "babel-plugin-prismjs": "^2.1.0",
     "cross-env": "^7.0.3",
     "docusaurus-plugin-sass": "^0.2.6",
-    "sass": "^1.90.0",
-    "typescript": "^5.9.2"
+    "sass": "^1.93.2",
+    "typescript": "^5.9.3"
   },
   "browserslist": {
     "production": [
