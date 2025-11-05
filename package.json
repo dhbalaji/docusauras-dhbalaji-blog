@@ -15,7 +15,14 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "prepare": "husky"
+    "prepare": "husky",
+    "test:e2e": "playwright test",
+    "test:e2e:headed": "playwright test --headed",
+    "test:e2e:ui": "playwright test --ui",
+    "test:e2e:report": "playwright show-report",
+    "test:e2e:debug": "cross-env PWDEBUG=console playwright test --debug",
+    "test:e2e:chromium": "playwright test --project=chromium",
+    "test:e2e:install": "playwright install"
   },
   "dependencies": {
     "@docusaurus/core": "^3.9.1",
@@ -33,7 +40,9 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.9.1",
+    "@playwright/test": "^1.56.1",
     "@tsconfig/docusaurus": "^2.0.4",
+    "@types/node": "^24.9.1",
     "babel-plugin-prismjs": "^2.1.0",
     "cross-env": "^7.0.3",
     "docusaurus-plugin-sass": "^0.2.6",
