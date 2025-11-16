@@ -2,7 +2,7 @@
 slug: 3
 ---
 
-# 💍 Poor Wife, Rich Wife  
+# 🎤 Poor Wife, Rich Wife  
 
 **Toastmasters Pathways**  – Level 1, Project 3: Body Language and Vocal Variety 
 
