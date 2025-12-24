@@ -290,21 +290,69 @@ Good [morning/afternoon/evening] everyone. That was my report as Grammarian. Bac
 
 ---
 
+## Sergeant at Arms (SAA)
+
+### Opening
+
+The Sergeant at Arms (SAA) acts as the first touchpoint of the meeting, setting the energy and ensuring logistics are in place.
+
+**Rules & Guidelines:**
+1. **Call to Order:** Start strictly on time.
+2. **Ground Rules:** Remind audience to silence phones and refrain from cross-talking.
+3. **Introduction:** Energetically introduce the Presiding Officer.
+
+**Sample Script:**
+"Good [morning/afternoon/evening] everyone! Welcome to [Club Name] Toastmasters. My name is [Name], and I am your Sergeant at Arms. Before we begin, let’s follow a few ground rules to ensure a distraction-free meeting:
+- Please silence your mobile phones.
+- Avoid cross-talking while speakers are on stage.
+- [Optional: Mention exits/restrooms].
+
+Now, to kickstart our meeting with high energy, please put your hands together for our Presiding Officer, TM [Name]!"
+
+---
+
 ## Presiding Officer
 
-### Role Introduction
+### Opening
 
-Good [morning/afternoon/evening] fellow Toastmasters and guests! I am [Your Name], the Presiding Officer for today’s meeting. On behalf of [Club Name], I welcome you all to our [number]th meeting. Whether you’re here to improve your communication skills, leadership skills, or simply to be inspired, you are in the right place!
+The Presiding Officer (usually the Club President) officially opens the meeting, welcomes guests, and handles club business.
 
-Add in relevant updates about the club, area, division, or district, such as past or upcoming events.
+**Structure:**
+1. **Welcome:** Warmly welcome members and guests.
+2. **Mission Statement:** Recite the club mission (optional but recommended).
+3. **Guest Introduction:** Ask guests to briefly introduce themselves.
+4. **Announcements:** Club business, upcoming events, or recognitions.
+5. **Handover:** Introduce the Toastmaster of the Day (TMOD).
+
+**Sample Opening Script:**
+"Thank you, TM [SAA Name], for that energetic start! Good [morning/afternoon/evening] fellow Toastmasters and guests. Welcome to meeting number [###] of [Club Name].
+
+For the benefit of our guests, the mission of a Toastmasters club is to provide a supportive and positive learning experience in which members are empowered to develop communication and leadership skills, resulting in greater self-confidence and personal growth.
+
+I see we have guests today. [Guest Name], would you like to introduce yourself?
+
+[After intros and announcements]
+
+Now, it is my pleasure to hand the control over to someone who will lead us through today’s session. Please welcome our Toastmaster of the Day, TM [Name]!"
 
 ### Closing
 
-Good [morning/afternoon/evening] everyone. Thank you, [Name], for that engaging session. And thank you to all speakers, evaluators, role players, and guests for making this meeting successful. We hope you found value and inspiration here.
+After the General Evaluator concludes, the Presiding Officer returns to adjourn the meeting.
 
-If you have come across a book or related article from Toastmasters International, you may share it to fill time.
+**Structure:**
+1. **Feedback:** Ask guests for feedback on the meeting.
+2. **Awards:** Distribute ribbons/certificates (Best Speaker, etc.).
+3. **Next Meeting:** Confirm roles for the next session.
+4. **Adjournment:** Officially close the meeting.
 
-This concludes our meeting for today. Until we meet again, keep speaking, keep growing, and keep inspiring. The meeting is officially adjourned!
+**Sample Closing Script:**
+"Thank you, General Evaluator, for that comprehensive report. Let's give a big round of applause to all our role players and speakers!
+
+Guests, we would love to hear your thoughts on today’s meeting. [Guest Feedback].
+
+[Announce winners if applicable].
+
+Thank you all for joining. Meeting number [###] is officially adjourned!"
 
 ---
 
