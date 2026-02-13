@@ -6,19 +6,23 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 const whoami = `{
-    "name": "Balaji",
-    "designation": "Lead Design Technologist",
-    "email": "balaji@dhbalaji.dev",
-    "employer": "Sabre Corporation",
-    "experience": "10+ years",
-    "location": "Bangalore, India",
-    "skills": [
-        "React application development",
-        "Enterprise design language",
-        "Lead large scale UI projects",
-    ],
-    "tagline": "Unlock Business Value. Realize Your Dreams.",
-}`;
+  "name": "Balaji",
+  "designation": "Lead Frontend Engineer",
+  "email": "balaji@dhbalaji.dev",
+  "employer": "Sabre Corporation",
+  "experience": "10+ years",
+  "location": "Bangalore, India",
+  "skills": [
+    "Frontend architecture and system design",
+    "Enterprise React application development",
+    "Design systems and component libraries",
+    "AI-powered frontend development and MCP servers",
+    "Cross-functional technical leadership",
+    "Design-to-code automation and developer tooling"
+  ],
+  "tagline": "Clarity in Code. Scale with Confidence."
+}
+`;
 
 export default function HomepageFeatures(): JSX.Element {
   useEffect(() => {
@@ -35,7 +39,7 @@ export default function HomepageFeatures(): JSX.Element {
         <div className="container">
           <h1 className="hero__title">{"Hi, I'm Balaji"}</h1>
           <p className={classnames("hero__subtitle", styles.subTitle)}>
-            {"AI-driven frontend mastery"}
+            {"Simple UI, Intelligent Frontend."}
           </p>
           <div className={styles.buttons}>
             <a
@@ -62,12 +66,17 @@ export default function HomepageFeatures(): JSX.Element {
       <div className="container">
         <div className="row margin-top--xl ">
           <div className="col margin-bottom--xl">
-            <div style={{ textAlign: "center", marginBottom: "20px" }}> 
-            <img src="/img/dhbalaji.jpg" style={{ width: "200px", height: "200px" }} />
+            <div style={{ textAlign: "center", marginBottom: "20px" }}>
+              <img src="/img/dhbalaji.jpg" style={{ width: "200px", height: "200px" }} />
             </div>
             <div className="font--lg margin-bottom--lg">
               <p>
-               Balaji is a frontend architect at Sabre Travel Tech, building scalable enterprise user interfaces from ITPL Bangalore office. A proud Toastmasters leader and self-confessed nerd, he channels his passion for clarity into UI, AI experiments, and indie tech projects—always eager to share what he learns with the tech community.
+                Balaji is a Lead Frontend Engineer at Sabre Travel Technologies, building scalable enterprise products and AI-enabled user interface design systems. A Toastmasters leader and lifelong tech nerd, he brings clarity, discipline, and maintainability to every system he designs. He focuses on practical innovation, strong engineering foundations, and sharing real-world learning with the wider tech community.
+              </p>
+              <p>
+                If you need proven frontend leadership, <a className="" href="mailto:balaji@dhbalaji.dev">
+                  Email me!
+                </a>
               </p>
             </div>
             <div className={"text--center"}>
@@ -104,7 +113,7 @@ export default function HomepageFeatures(): JSX.Element {
 
       <div className="container">
         <h2>AI-Powered Audio Summary of recent article</h2>
-        <iframe title="The Art of Felicitation: A Toastmasters Tale" allowtransparency="true" height="300" width="100%" style={{border: "none", minWidth: "min(100%, 430px)",height:"175px", marginBottom: "20px"}} scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=6aki4-193504b-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=3ab278&size=300" loading="lazy" allowfullscreen=""></iframe>
+        <iframe title="The Art of Felicitation: A Toastmasters Tale" allowtransparency="true" height="300" width="100%" style={{ border: "none", minWidth: "min(100%, 430px)", height: "175px", marginBottom: "20px" }} scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=6aki4-193504b-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=3ab278&size=300" loading="lazy" allowfullscreen=""></iframe>
       </div>
     </>
   );

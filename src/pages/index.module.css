@@ -5,3 +5,7 @@
 .row {
   display: block;
 }
+
+.paragraph {
+  text-indent: 2rem;
+}
