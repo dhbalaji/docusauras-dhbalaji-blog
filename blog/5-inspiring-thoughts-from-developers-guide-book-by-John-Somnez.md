@@ -16,7 +16,7 @@ John somnez is the software developer guru who writes books and creates content 
 
 The complete software developers career guide is the second book by John somnez which I have finished reading. The first one being soft skills from manning publications. I like the way he writes self-help books. Generally, self-help books get boring but not this one. At a page count of 775, it's a heavy and gripping read.
 
-I did all the reading on the kindle app installed on my 10-inch Lenovo tab. The book itself was borrowed on [prime reading](https://dhbalaji.dev/2020/10/26/lifestyle/A-developers-review-of-Amazon-Prime-Reading-what-works-what-doesn-t/), so technically its free read, and I returned the book on kindle.
+I did all the reading on the kindle app installed on my 10-inch Lenovo tab. The book itself was borrowed on [prime reading](https://dhbalaji.dev/blog/A-developers-review-of-Amazon-Prime-Reading-what-works-what-doesn-t/), so technically its free read, and I returned the book on kindle.
 
 ## The 10 inspiring thoughts from the complete developer's career guide
 

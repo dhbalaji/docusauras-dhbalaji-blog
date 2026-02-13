@@ -42,11 +42,11 @@ I wanted to backup kindle books so that I can keep them in my personal ebooks fo
 
 ## How to backup from a kindle?
 
-I prefer downloading the book from the amazon manage content and devices page. That way we can bypass the detective job of finding where and how the books are organized in kindle storage. Read more about it [on an article from PCMag](https://in.pcmag.com/ebook-readers/123963/how-to-manage-your-amazon-kindle-devices-and-content)
+I prefer downloading the book from the amazon manage content and devices page. That way we can bypass the detective job of finding where and how the books are organized in kindle storage. Read more about it on an article from PCMag.
 
 ## DRM locks it from reading, then what next?
 
-Of course, we need to break the DRM by using online [tools](http://onlineconverter.epubor.com/kindle-drm-removal.htm). Then you can preserve the book in your ebook folder on PC.
+Of course, we need to break the DRM by using online tools. Then you can preserve the book in your ebook folder on PC.
 
 Before you use the online converter, make sure you have the kindle serial number handy.
 

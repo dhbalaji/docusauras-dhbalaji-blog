@@ -98,4 +98,4 @@ You can also disable and enable snaps like mobile apps.
 
 > Snap is both a command-line interface and an application package format, snaps can be found on snap store
 
-https://snapcraft.io/docs/getting-started
+https://snapcraft.io/docs/
