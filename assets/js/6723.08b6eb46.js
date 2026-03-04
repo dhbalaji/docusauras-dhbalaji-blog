@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkblog2=globalThis.webpackChunkblog2||[]).push([[6723],{56723(b,l,h){h.r(l)}}]);
