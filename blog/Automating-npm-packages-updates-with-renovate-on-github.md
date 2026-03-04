@@ -77,7 +77,7 @@ We have to follow few steps, and you will be ready to go.
 
 ## Advantages of renovate
 
-I have written about [dependabot](https://dhbalaji.dev/2021/03/14/performance/Dependabot-alerts-on-github-explained/#post) previously. Dependabot takes care of vulnerability fixes to the npm packages. Renovate does something similar to the 
+I have written about dependabot previously. Dependabot takes care of vulnerability fixes to the npm packages. Renovate does something similar to the 
 npm packages by keeping them updated in `real time` for free.
 
 The configuration was straightforward forward and I found the bot to be predictable. The npm-based command to validate renovate config file was great. 

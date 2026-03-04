@@ -32,7 +32,7 @@ I have not found or used any other features of Alexa which can be put to work at
 
 There is a link related to [alexa for business](https://aws.amazon.com/alexaforbusiness/). At least their copywriting talks about voice controls in meeting rooms which is not in my use case currently.
  
- Here is an another [post](https://aws.amazon.com/blogs/business-productivity/boosting-work-from-home-productivity-with-alexa-for-business/) about using alexa to manage emails and meetings. Of course there is no mention about using alexa more creatively or accomplishing a deliverable.
+There was a post about using alexa to manage emails and meetings on amazon business. Of course there is no mention about using alexa more creatively or accomplishing a deliverable.
 
 ## Summary
 

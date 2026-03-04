@@ -2,7 +2,7 @@
 slug: 2
 ---
 
-# 🧠 Think Different 
+# 🎤 Think Different 
 
 **Toastmasters Pathways** – Level 1, Project 3: Body Language and Vocal Variety  
 
