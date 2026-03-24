@@ -1,0 +1,78 @@
+---
+import { render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import {
+  formatDate,
+  getEntryDate,
+  getPublishedReads,
+  getReadUrl,
+  resolveReadImage,
+  resolveReadSlug,
+} from '../../lib/content';
+
+export async function getStaticPaths() {
+  const reads = await getPublishedReads();
+  return reads.map((read) => ({
+    params: {
+      slug: resolveReadSlug(read),
+    },
+    props: {
+      read,
+    },
+  }));
+}
+
+const { read } = Astro.props;
+const { Content } = await render(read);
+const allReads = await getPublishedReads();
+const currentIndex = allReads.findIndex((item) => item.id === read.id);
+const olderRead = currentIndex >= 0 ? allReads[currentIndex + 1] : null;
+const newerRead = currentIndex > 0 ? allReads[currentIndex - 1] : null;
+const publishedDate = getEntryDate(read);
+const canonicalPath = getReadUrl(read);
+---
+
+<BaseLayout
+  title={read.data['og-title'] ?? read.data.title}
+  description={read.data.description}
+  path={canonicalPath}
+  image={resolveReadImage(read)}
+  publishedTime={publishedDate ? publishedDate.toISOString() : undefined}
+  keywords={read.data.keywords}
+>
+  <article class="rounded border border-white/80 bg-white/90 p-8 shadow-soft sm:p-10">
+    <div class="mb-6">
+      <a class="text-sm font-semibold text-brand-700 transition hover:text-ink-950" href="/my-reads">Back to reads</a>
+    </div>
+    <h1 class="font-display text-4xl font-semibold tracking-tight text-ink-950 sm:text-5xl">{read.data.title}</h1>
+    {
+      publishedDate && <p class="mt-4 text-xs font-bold uppercase tracking-[0.24em] text-ink-500">{formatDate(publishedDate)}</p>
+    }
+    <div class="rich-content mt-8">
+      <Content />
+    </div>
+  </article>
+
+  <nav class="mt-10 flex items-center justify-between gap-4" aria-label="Read post navigation">
+    {
+      newerRead ? (
+        <a
+          class="inline-flex items-center justify-center rounded border border-ink-300 bg-white px-5 py-3 text-sm font-semibold text-ink-950 transition hover:border-brand-300 hover:text-brand-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-500"
+          href={getReadUrl(newerRead)}
+        >
+          Newer post
+        </a>
+      ) : <span />
+    }
+    {
+      olderRead ? (
+        <a
+          class="inline-flex items-center justify-center rounded bg-ink-950 px-5 py-3 text-sm font-semibold text-white transition hover:bg-brand-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-500"
+          href={getReadUrl(olderRead)}
+        >
+          Older post
+        </a>
+      ) : <span />
+    }
+  </nav>
+</BaseLayout>

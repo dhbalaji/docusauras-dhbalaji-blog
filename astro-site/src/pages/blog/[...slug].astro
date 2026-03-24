@@ -1,0 +1,79 @@
+---
+import { render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import {
+  getEntryDate,
+  formatDate,
+  getPostUrl,
+  getPublishedPosts,
+  resolvePostImage,
+  resolvePostSlug,
+} from '../../lib/content';
+
+export async function getStaticPaths() {
+  const posts = await getPublishedPosts();
+
+  return posts.map((post) => ({
+    params: {
+      slug: resolvePostSlug(post),
+    },
+    props: {
+      post,
+    },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const allPosts = await getPublishedPosts();
+const currentIndex = allPosts.findIndex((item) => item.id === post.id);
+const olderPost = currentIndex >= 0 ? allPosts[currentIndex + 1] : null;
+const newerPost = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
+const publishedDate = getEntryDate(post);
+const canonicalPath = getPostUrl(post);
+---
+
+<BaseLayout
+  title={post.data['og-title'] ?? post.data.title}
+  description={post.data.description}
+  path={canonicalPath}
+  image={resolvePostImage(post)}
+  publishedTime={publishedDate ? publishedDate.toISOString() : undefined}
+  keywords={post.data.keywords}
+>
+  <article class="rounded border border-white/80 bg-white/90 p-8 shadow-soft sm:p-10">
+    <div class="mb-6">
+      <a class="text-sm font-semibold text-brand-700 transition hover:text-ink-950" href="/blog">Back to blog</a>
+    </div>
+    <h1 class="font-display text-4xl font-semibold tracking-tight text-ink-950 sm:text-5xl">{post.data.title}</h1>
+    {
+      publishedDate && <p class="mt-4 text-xs font-bold uppercase tracking-[0.24em] text-ink-500">{formatDate(publishedDate)}</p>
+    }
+    <div class="rich-content mt-8">
+      <Content />
+    </div>
+  </article>
+
+  <nav class="mt-10 flex items-center justify-between gap-4" aria-label="Blog post navigation">
+    {
+      newerPost ? (
+        <a
+          class="inline-flex items-center justify-center rounded border border-ink-300 bg-white px-5 py-3 text-sm font-semibold text-ink-950 transition hover:border-brand-300 hover:text-brand-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-500"
+          href={getPostUrl(newerPost)}
+        >
+          Newer post
+        </a>
+      ) : <span />
+    }
+    {
+      olderPost ? (
+        <a
+          class="inline-flex items-center justify-center rounded bg-ink-950 px-5 py-3 text-sm font-semibold text-white transition hover:bg-brand-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-500"
+          href={getPostUrl(olderPost)}
+        >
+          Older post
+        </a>
+      ) : <span />
+    }
+  </nav>
+</BaseLayout>

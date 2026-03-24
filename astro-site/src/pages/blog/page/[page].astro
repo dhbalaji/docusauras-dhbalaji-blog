@@ -1,0 +1,77 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { BLOG_CONFIG } from '../../../lib/site';
+import {
+  formatDate,
+  getEntryDate,
+  getPostUrl,
+  getPublishedPosts,
+  paginate,
+  resolvePostImage,
+} from '../../../lib/content';
+
+export async function getStaticPaths() {
+  const allPosts = await getPublishedPosts();
+  const totalPages = Math.max(1, Math.ceil(allPosts.length / BLOG_CONFIG.postsPerPage));
+  const paths = [];
+
+  for (let page = 2; page <= totalPages; page += 1) {
+    const paged = paginate(allPosts, page, BLOG_CONFIG.postsPerPage);
+    paths.push({
+      params: { page: String(page) },
+      props: { page: paged },
+    });
+  }
+
+  return paths;
+}
+
+const { page } = Astro.props;
+---
+
+<BaseLayout
+  title={`${BLOG_CONFIG.title} - Page ${page.page}`}
+  description={BLOG_CONFIG.description}
+  path={`/blog/page/${page.page}`}
+>
+  <section class="rounded border border-white/80 bg-white/90 p-8 shadow-soft sm:p-10">
+    <p class="text-xs font-bold uppercase tracking-[0.24em] text-brand-700">Writing</p>
+    <h1 class="mt-3 font-display text-5xl font-semibold tracking-tight text-ink-950">{BLOG_CONFIG.title}</h1>
+    <p class="mt-4 max-w-2xl text-lg leading-8 text-ink-600">{BLOG_CONFIG.description}</p>
+    <p class="mt-8 text-sm font-semibold uppercase tracking-[0.2em] text-ink-500">Recent posts</p>
+  </section>
+
+  <section class="mt-8 grid gap-6 md:grid-cols-2">
+    {
+      page.items.map((post) => (
+        <PostCard
+          title={post.data.title}
+          href={getPostUrl(post)}
+          description={post.data.description}
+          date={formatDate(getEntryDate(post))}
+          image={resolvePostImage(post)}
+        />
+      ))
+    }
+  </section>
+
+  <nav class="mt-10 flex items-center justify-between gap-4" aria-label="Pagination">
+    <a
+      class="inline-flex items-center justify-center rounded border border-ink-300 bg-white px-5 py-3 text-sm font-semibold text-ink-950 transition hover:border-brand-300 hover:text-brand-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-500"
+      href={page.prevPage === 1 ? '/blog' : `/blog/page/${page.prevPage}`}
+    >
+      Newer posts
+    </a>
+    {
+      page.hasNext ? (
+        <a
+          class="inline-flex items-center justify-center rounded bg-ink-950 px-5 py-3 text-sm font-semibold text-white transition hover:bg-brand-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-500"
+          href={`/blog/page/${page.nextPage}`}
+        >
+          Older posts
+        </a>
+      ) : <span />
+    }
+  </nav>
+</BaseLayout>
