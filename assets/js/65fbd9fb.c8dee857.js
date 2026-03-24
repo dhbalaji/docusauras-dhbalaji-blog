@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkblog2=globalThis.webpackChunkblog2||[]).push([[9221],{84084(a){a.exports=JSON.parse('{"blogBasePath":"/my-reads","blogTitle":"dhbalaji non-fiction reads & book talks","authorsListPath":"/my-reads/authors"}')}}]);
