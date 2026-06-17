@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkblog2=globalThis.webpackChunkblog2||[]).push([[5107],{46627(a){a.exports=JSON.parse('{"metadata":{"permalink":"/my-reads","page":1,"postsPerPage":10,"totalPages":2,"totalCount":20,"nextPage":"/my-reads/page/2","blogDescription":"Blog","blogTitle":"dhbalaji non-fiction reads & book talks"}}')}}]);
