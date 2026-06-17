@@ -1,9 +1,0 @@
-allowBuilds:
-  '@parcel/watcher': false
-  core-js: false
-  core-js-pure: false
-  sharp: false
-onlyBuiltDependencies:
-  - core-js
-  - core-js-pure
-  - sharp

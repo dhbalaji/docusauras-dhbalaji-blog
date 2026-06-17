@@ -134,7 +134,7 @@ const config = {
         appId: "9TX3UC8FQ4",
         apiKey: "e9a6c8006bc03be4f3e58123b0293e8a",
         indexName: "dhbalaji",
-        contextualSearch: true,
+        contextualSearch: false,
         searchParameters: {},
         searchPagePath: false,
         disableUserPersonalization: true,
@@ -170,6 +170,7 @@ const config = {
       },
     ],
     "docusaurus-plugin-sass",
+    /*
     [
       "@docusaurus/plugin-ideal-image",
       {
@@ -180,6 +181,7 @@ const config = {
         disableInDev: false,
       },
     ],
+    */
   ],
   customFields: {
     // Put your custom environment here
