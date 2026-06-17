@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "preinstall": "node scripts/check-package-age.js && npx only-allow pnpm",
+    "preinstall": "node scripts/check-package-age.js && npx only-allow npm",
     "docusaurus": "docusaurus",
     "dev": "docusaurus start --host 0.0.0.0 --port 3000",
     "build": "docusaurus build",
@@ -25,30 +25,29 @@
     "test:e2e:install": "playwright install"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.9.2",
-    "@docusaurus/plugin-google-gtag": "^3.9.2",
-    "@docusaurus/plugin-ideal-image": "^3.9.2",
-    "@docusaurus/preset-classic": "^3.9.2",
+    "@docusaurus/core": "^3.10.1",
+    "@docusaurus/plugin-google-gtag": "^3.10.1",
+    "@docusaurus/preset-classic": "^3.10.1",
     "@mdx-js/react": "^3.1.1",
     "classnames": "^2.5.1",
     "clsx": "^2.1.1",
     "husky": "^9.1.7",
     "prism-react-renderer": "^2.4.1",
     "prismjs": "^1.30.0",
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.9.2",
-    "@playwright/test": "^1.58.2",
+    "@playwright/test": "^1.61.0",
     "@tsconfig/docusaurus": "^2.0.9",
     "@types/node": "^24.10.1",
     "babel-plugin-prismjs": "^2.1.0",
     "cross-env": "^7.0.3",
     "docusaurus-plugin-sass": "^0.2.6",
     "mcp-hello-world": "^1.1.2",
-    "sass": "^1.94.2",
-    "sharp": "0.32.6",
+    "sass": "^1.30.0",
+    "sharp": "0.35.1",
     "typescript": "^5.9.3"
   },
   "browserslist": {
@@ -67,11 +66,5 @@
     "hooks": {
       "pre-commit": "npm run build"
     }
-  },
-  "onlyBuiltDependencies": [
-    "@parcel/watcher",
-    "core-js",
-    "core-js-pure",
-    "sharp"
-  ]
+  }
 }

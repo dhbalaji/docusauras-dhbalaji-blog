@@ -14,28 +14,19 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4 # Updated to v4 for security/speed
 
-      # 1. ALWAYS install pnpm first
-      - name: Install pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 11.7.0
-
-      # 2. ALWAYS setup Node.js next and link the pnpm cache
+      # 2. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 24.14.0
-          cache: pnpm
 
-      # 3. Combine your installation into a single, clean step with the correct environment variable
+      # 3. Install dependencies
       - name: Install dependencies
-        run: pnpm install --no-frozen-lockfile
-        env:
-          PNPM_ALLOW_BUILDS: "true" # Instructs pnpm v11 to allow sharp/parcel-watcher scripts
+        run: npm install
 
       # 4. Build the site
       - name: Build Docusaurus website
-        run: pnpm run build
+        run: npm run build
 
       # 5. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
