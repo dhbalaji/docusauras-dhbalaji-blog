@@ -17,6 +17,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Check out repo
         uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm install -g pnpm && pnpm install --no-frozen-lockfile --ignore-scripts=false
+        # OR use an environment variable directly on the step:
+        env:
+          PNPM_ALLOW_BUILDS: "true"
       # Node is required for npm
       - name: Install pnpm
         uses: pnpm/action-setup@v4

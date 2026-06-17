@@ -68,12 +68,10 @@
       "pre-commit": "npm run build"
     }
   },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "@parcel/watcher",
-      "core-js",
-      "core-js-pure",
-      "sharp"
-    ]
-  }
+  "onlyBuiltDependencies": [
+    "@parcel/watcher",
+    "core-js",
+    "core-js-pure",
+    "sharp"
+  ]
 }
