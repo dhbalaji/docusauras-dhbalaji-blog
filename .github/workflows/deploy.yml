@@ -5,42 +5,42 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Check out repo
-        uses: actions/checkout@v2
-      - name: Install dependencies
-        run: npm install -g pnpm && pnpm install --no-frozen-lockfile --ignore-scripts=false
-        # OR use an environment variable directly on the step:
-        env:
-          PNPM_ALLOW_BUILDS: "true"
-      # Node is required for npm
+        uses: actions/checkout@v4 # Updated to v4 for security/speed
+
+      # 1. ALWAYS install pnpm first
       - name: Install pnpm
         uses: pnpm/action-setup@v4
         with:
-          version: 11.7.0 # Force CI to use your local pnpm version
+          version: 11.7.0
 
+      # 2. ALWAYS setup Node.js next and link the pnpm cache
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 24.14.0
           cache: pnpm
-      # Install and build Docusaurus website
+
+      # 3. Combine your installation into a single, clean step with the correct environment variable
+      - name: Install dependencies
+        run: pnpm install --no-frozen-lockfile
+        env:
+          PNPM_ALLOW_BUILDS: "true" # Instructs pnpm v11 to allow sharp/parcel-watcher scripts
+
+      # 4. Build the site
       - name: Build Docusaurus website
-        run: |
-          pnpm install 
-          pnpm run build
+        run: pnpm run build
+
+      # 5. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         if: success()
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v4 # Updated to v4
         with:
           target_branch: gh-pages
           build_dir: build
