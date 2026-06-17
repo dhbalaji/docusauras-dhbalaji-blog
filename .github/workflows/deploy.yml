@@ -19,14 +19,14 @@ jobs:
         uses: actions/checkout@v2
       # Node is required for npm
       - name: Install pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@v4
         with:
-          version: 7
+          version: 11.7.0 # Force CI to use your local pnpm version
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 21
+          node-version: 24.14.0
           cache: pnpm
       # Install and build Docusaurus website
       - name: Build Docusaurus website
